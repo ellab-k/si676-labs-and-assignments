@@ -5,7 +5,7 @@ import requests
 # COLLECTION --> https://www.loc.gov/free-to-use/colors-tell-the-story/
 
 """
-GET COLLECTION LIST
+GET COLLECTION LIST USING REQUESTS
 """
 
 baseURL = 'https://www.loc.gov'
@@ -24,11 +24,19 @@ collection_json = collection_list_response.json()
 
 # print(collection_json.keys())
 
+"""
+GET COLLECTION ITEMS FROM JSON
+"""
+
 collection_items = collection_json['content']['components'][0]['masonry_gallery'][0]['items']
 
 # print(collection_items)
 # print(type(collection_items))
 # print(len(collection_items))
+
+"""
+SAVE ITEM LIST TO CSV
+"""
 
 filename = 'collection_item_list.csv'
 headers = ['alt', 'image', 'link', 'title']
