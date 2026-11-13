@@ -29,3 +29,14 @@ collection_items = collection_json['content']['components'][0]['masonry_gallery'
 # print(collection_items)
 # print(type(collection_items))
 # print(len(collection_items))
+
+filename = 'collection_item_list.csv'
+headers = ['alt', 'image', 'link', 'title']
+
+with open(filename, 'w', encoding='utf-8', newline='') as f:
+    writer = csv.DictWriter(f, fieldnames=headers)
+    writer.writeheader()
+    for item in collection_items:
+        item['title'] = item['title'].strip()
+        writer.writerow(item)
+    print('wrote', filename)
