@@ -32,20 +32,39 @@ def get_item_data(baseURL, resource_link, params):
 
     Parameters
     ----------
-        baseURL (str) :
-        params (dict) :
-        resource_link (str) :
+        baseURL (str):
+        params (dict):
+        resource_link (str):
 
     Returns
     -------
-        dict : the item data as a dictionary
+        dict: the item data as a dictionary
     """
     item_response = requests.get(baseURL + resource_link, params=params)
     item_response_json = item_response.json()
     return item_response_json.get('item')
 
-def create_item_json():
-    pass
+def create_item_json(output_dir, item_data):
+    """
+    Creates a json data file for the provided item saved to the provided directory.
+
+    Parameters
+    ----------
+        output_dir (str): the path to the directory to output files to
+        item_data (dict): a dictionary of the data from a particular item.
+
+    Returns
+    -------
+        json file: a json file with the item data dict. name follows format 'item_{resource link}_metadata'
+        item_id (str): the item LCCN
+    """
+    item_id = item_data['control_number']
+    item_filename = output_dir + '/item_' + item_id + '_metadata.json'
+    with open(item_filename, 'w', encoding='utf-8') as f:
+        json.dump(item_data, f, indent=4)
+        print('wrote' + item_filename)
+    return item_id
+
 
 
 """
@@ -58,10 +77,21 @@ def main():
 
     baseURL = 'https://www.loc.gov'
     params = {'fo':'json'}
+    metadata_dir = "/Users/ebk/Documents/UMSI/F2026/SI-676/Labs_and_Assignments/si676-labs-and-assignments/Assignment_03--11_13_2026/collection_data/item_metadata"
 
-    resource_test = data[0]['link']
+    i = 0
+    item_index = []
+    for item in data:
+        item_id = create_item_json(metadata_dir, get_item_data(baseURL, item['link'], params))
+        item_index.append(('0' + str(i), item_id,))
+        i+=1
+    
+    with open("collection_item_index.csv", "w", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=['id', 'LCCN'])
+        writer.writeheader()
+        for item in item_index:
+            writer.writerow(item)
 
-    print(get_item_data(baseURL, resource_test, params))
 
 
 if __name__ == '__main__':
