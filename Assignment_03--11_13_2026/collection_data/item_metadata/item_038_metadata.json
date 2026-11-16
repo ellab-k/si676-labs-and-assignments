@@ -1,0 +1,348 @@
+{
+    "_version_": 1731652046816280576,
+    "access_restricted": false,
+    "aka": [
+        "https://www.loc.gov/pictures/item/2002695503/",
+        "http://www.loc.gov/item/2002695503/",
+        "http://www.loc.gov/pictures/item/2002695503/",
+        "https://www.loc.gov/pictures/collection/cph/item/2002695503/",
+        "http://www.loc.gov/pictures/collection/cph/item/2002695503/",
+        "http://www.loc.gov/resource/cph.3g10059/",
+        "http://lccn.loc.gov/2002695503",
+        "https://hdl.loc.gov/loc.pnp/cph.3g10059"
+    ],
+    "call_number": "Illus. in QB45.A832 (Case X) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+        "Hall, Sidney, etcher"
+    ],
+    "contributors": [
+        {
+            "hall, sidney": "https://www.loc.gov/search/?fa=contributor:hall,+sidney&fo=json"
+        }
+    ],
+    "control_number": "",
+    "created": "2016-04-20T23:11:42Z",
+    "created_published": [
+        "[1825]"
+    ],
+    "created_published_date": "[1825]",
+    "date": "1825-01-01",
+    "dates": [
+        {
+            "1825": "https://www.loc.gov/search/?dates=1825/1825&fo=json"
+        }
+    ],
+    "description": [
+        "1 print on layered paper board : etching, hand-colored. | Astronomical chart showing Bootes the Ploughman holding a spear, a sickle, and two dogs, Asterion and Chara, on leash, also showing a quadrant, and the hair of Berenice forming the constellations."
+    ],
+    "digital_id": [
+        "cph 3g10059 //hdl.loc.gov/loc.pnp/cph.3g10059"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-25T19:34:29.805Z",
+    "extract_urls": [
+        "http://www.loc.gov/pictures/collection/cph/item/2002695503/#cph",
+        "http://lccn.loc.gov/2002695503#catalog-split-00"
+    ],
+    "format": [
+        {
+            "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+        }
+    ],
+    "format_headings": [
+        "Book illustrations--1820-1830.",
+        "Etchings--Hand-colored--1820-1830."
+    ],
+    "genre": [
+        "Book illustrations--1820-1830",
+        "Etchings--Hand-colored--1820-1830"
+    ],
+    "group": [
+        "cph",
+        "catalog-split-00",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-00",
+        "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2002695503/",
+    "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10059_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10059t.gif#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10059r.jpg#h=512&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10059v.jpg#h=820&w=1024"
+    ],
+    "index": 1,
+    "item": {
+        "call_number": "Illus. in QB45.A832 (Case X) [P&P]",
+        "contributors": [
+            "Hall, Sidney, etcher."
+        ],
+        "control_number": "2002695503",
+        "created": "2016-04-20T23:11:42Z",
+        "created_published": "[1825]",
+        "created_published_date": "[1825]",
+        "creators": [
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Hall%2C%20Sidney&co=cph",
+                "role": "etcher",
+                "title": "Hall, Sidney"
+            }
+        ],
+        "date": "[1825]",
+        "digital_id": [
+            "cph 3g10059 //hdl.loc.gov/loc.pnp/cph.3g10059"
+        ],
+        "display_offsite": true,
+        "format": [
+            "still image"
+        ],
+        "formats": [
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=format&q=Book%20illustrations--1820-1830.&co=cph",
+                "title": "Book illustrations--1820-1830."
+            },
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=format&q=Etchings--Hand-colored--1820-1830.&co=cph",
+                "title": "Etchings--Hand-colored--1820-1830."
+            }
+        ],
+        "genre": [
+            "Book illustrations--1820-1830",
+            "Etchings--Hand-colored--1820-1830"
+        ],
+        "id": "2002695503",
+        "language": [
+            "eng"
+        ],
+        "link": "https://www.loc.gov/pictures/item/2002695503/",
+        "marc": "https://www.loc.gov/pictures/item/2002695503/marc/",
+        "medium": [
+            "1 print on layered paper board : etching, hand-colored."
+        ],
+        "medium_brief": "1 print on layered paper board :",
+        "mediums": [
+            "1 print on layered paper board : etching, hand-colored."
+        ],
+        "modified": "2016-04-20T23:11:42Z",
+        "notes": [
+            "Illus. in: Urania's mirror, 1825, pl. 10."
+        ],
+        "number_former_id": [
+            "https://www.loc.gov/item/2002695503",
+            "https://www.loc.gov/item/12669722"
+        ],
+        "other_control_numbers": [
+            "12669722"
+        ],
+        "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+        "reproduction_number": "LC-USZC4-10059 (color film copy transparency)",
+        "resource_links": [
+            "//hdl.loc.gov/loc.pnp/cph.3g10059"
+        ],
+        "rights_advisory": "No known restrictions on publication in the U.S. Use elsewhere may be restricted by other countries' laws. For general information see \"Copyright and Other Restrictions...\" (http://lcweb.loc.gov/rr/print/195_copr.html)",
+        "rights_information": "No known restrictions on publication in the U.S. Use elsewhere may be restricted by other countries' laws. For general information see \"Copyright and Other Restrictions...\" (http://lcweb.loc.gov/rr/print/195_copr.html)",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10059_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10059r.jpg",
+        "sort_date": "1825",
+        "source_created": "2002-02-06T00:00:00Z",
+        "source_modified": "2013-07-03T17:48:29Z",
+        "stmt_of_responsibility": "Sidy. Hall, sculpt.",
+        "subject_headings": [
+            "Berenice,--Queen, consort of Ptolemy III, King of Egypt,--ca. 270-221 B.C.--Commemoration.",
+            "Constellations--1820-1830.",
+            "Astronomy--1820-1830.",
+            "Dogs--1820-1830."
+        ],
+        "subjects": [
+            "Berenice,--Queen, consort of Ptolemy III, King of Egypt,--ca. 270-221 B.C.--Commemoration",
+            "Constellations--1820-1830",
+            "Astronomy--1820-1830",
+            "Dogs--1820-1830"
+        ],
+        "summary": "Astronomical chart showing Bootes the Ploughman holding a spear, a sickle, and two dogs, Asterion and Chara, on leash, also showing a quadrant, and the hair of Berenice forming the constellations.",
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10059_150px.jpg",
+        "title": "Bootes Canes Venatici, Coma Berenices, and Quadrans Muralis"
+    },
+    "language": [
+        "english"
+    ],
+    "languages": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+        }
+    ],
+    "library_of_congress_control_number": "2002695503",
+    "link": "https://www.loc.gov/pictures/item/2002695503/",
+    "marc": "https://www.loc.gov/pictures/item/2002695503/marc/",
+    "medium": [
+        "1 print on layered paper board : etching, hand-colored."
+    ],
+    "medium_brief": "1 print on layered paper board :",
+    "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+    ],
+    "modified": "2016-04-20T23:11:42Z",
+    "notes": [
+        "Illus. in: Urania's mirror, 1825, pl. 10."
+    ],
+    "number": [
+        "2013-07-03t17:48:29",
+        "2002695503",
+        "http://www.loc.gov/item/2002695503",
+        "http://www.loc.gov/item/12669722"
+    ],
+    "number_former_id": [
+        "http://www.loc.gov/item/12669722",
+        "http://www.loc.gov/item/2002695503"
+    ],
+    "number_lccn": [
+        "2002695503"
+    ],
+    "number_source_modified": [
+        "2013-07-03t17:48:29"
+    ],
+    "online_format": [
+        "image"
+    ],
+    "original_format": [
+        "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+        "12669722"
+    ],
+    "other_formats": [
+        {
+            "label": "MARCXML Record",
+            "link": "https://lccn.loc.gov/2002695503/marcxml"
+        },
+        {
+            "label": "MODS Record",
+            "link": "https://lccn.loc.gov/2002695503/mods"
+        },
+        {
+            "label": "Dublin Core Record",
+            "link": "https://lccn.loc.gov/2002695503/dc"
+        }
+    ],
+    "partof": [
+        {
+            "count": 110464,
+            "title": "miscellaneous items in high demand",
+            "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+        },
+        {
+            "count": 909616,
+            "title": "prints & photographs online catalog (library of congress)",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+        },
+        {
+            "count": 1163251,
+            "title": "prints and photographs division",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+        },
+        {
+            "count": 1905168,
+            "title": "catalog",
+            "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+        }
+    ],
+    "related": {
+        "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2002695503&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+        "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA"
+    ],
+    "reproduction_number": "LC-USZC4-10059 (color film copy transparency)",
+    "reproductions": [],
+    "resource_links": [
+        "//hdl.loc.gov/loc.pnp/cph.3g10059"
+    ],
+    "resources": [
+        {
+            "caption": "color film copy transparency",
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10059_150px.jpg",
+            "url": "https://www.loc.gov/resource/cph.3g10059/"
+        }
+    ],
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication in the U.S. Use elsewhere may be restricted by other countries' laws. For general information see \"Copyright and Other Restrictions...\" (http://lcweb.loc.gov/rr/print/195_copr.html)",
+    "rights_information": "No known restrictions on publication in the U.S. Use elsewhere may be restricted by other countries' laws. For general information see \"Copyright and Other Restrictions...\" (http://lcweb.loc.gov/rr/print/195_copr.html)",
+    "score": 19.474216,
+    "shard": "00",
+    "shelf_id": "Illus. in QB45.A832 (Case X) [P&P]",
+    "site": [
+        "pictures",
+        "catalog"
+    ],
+    "sort_date": "1825",
+    "source_created": "2002-02-06T00:00:00Z",
+    "source_modified": "2013-07-03T17:48:29Z",
+    "stmt_of_responsibility": "Sidy. Hall, sculpt.",
+    "subject": [
+        "commemoration",
+        "berenice",
+        "book illustrations",
+        "queen, consort of ptolemy iii, king of egypt",
+        "astronomy",
+        "dogs",
+        "hand-colored",
+        "ca. 270-221 b.c.",
+        "constellations",
+        "ca.",
+        "etchings"
+    ],
+    "subject_headings": [
+        "Berenice,--Queen, consort of Ptolemy III, King of Egypt,--ca. 270-221 B.C.--Commemoration",
+        "Constellations--1820-1830",
+        "Astronomy--1820-1830",
+        "Dogs--1820-1830"
+    ],
+    "subjects": [
+        {
+            "astronomy": "https://www.loc.gov/search/?fa=subject:astronomy&fo=json"
+        },
+        {
+            "berenice": "https://www.loc.gov/search/?fa=subject:berenice&fo=json"
+        },
+        {
+            "book illustrations": "https://www.loc.gov/search/?fa=subject:book+illustrations&fo=json"
+        },
+        {
+            "ca.": "https://www.loc.gov/search/?fa=subject:ca.&fo=json"
+        },
+        {
+            "ca. 270-221 b.c.": "https://www.loc.gov/search/?fa=subject:ca.+270-221+b.c.&fo=json"
+        },
+        {
+            "commemoration": "https://www.loc.gov/search/?fa=subject:commemoration&fo=json"
+        },
+        {
+            "constellations": "https://www.loc.gov/search/?fa=subject:constellations&fo=json"
+        },
+        {
+            "dogs": "https://www.loc.gov/search/?fa=subject:dogs&fo=json"
+        },
+        {
+            "etchings": "https://www.loc.gov/search/?fa=subject:etchings&fo=json"
+        },
+        {
+            "hand-colored": "https://www.loc.gov/search/?fa=subject:hand-colored&fo=json"
+        },
+        {
+            "queen, consort of ptolemy iii, king of egypt": "https://www.loc.gov/search/?fa=subject:queen,+consort+of+ptolemy+iii,+king+of+egypt&fo=json"
+        }
+    ],
+    "summary": "Astronomical chart showing Bootes the Ploughman holding a spear, a sickle, and two dogs, Asterion and Chara, on leash, also showing a quadrant, and the hair of Berenice forming the constellations.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10059_150px.jpg",
+    "timestamp": "2022-05-01T19:08:01.885Z",
+    "title": "Bootes Canes Venatici, Coma Berenices, and Quadrans Muralis / Sidy. Hall, sculpt.",
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2002695503/"
+}

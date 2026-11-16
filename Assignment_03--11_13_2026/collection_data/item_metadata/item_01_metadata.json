@@ -215,9 +215,9 @@
     "library_of_congress_control_number": "2017878540",
     "link": "https://www.loc.gov/pictures/item/2017878540/",
     "location": [
-        "tennessee",
         "nashville",
-        "united states"
+        "united states",
+        "tennessee"
     ],
     "location_city": [
         "nashville"
@@ -277,11 +277,11 @@
         "Exhibited: Orientation Gallery at the Library of Congress, Washington, D.C., 2025."
     ],
     "number": [
-        "2024-05-28t16:49:09",
-        "http://www.loc.gov/item/fsa1992001211/pp",
-        "2017878540",
         "http://www.loc.gov/item/2017878540",
-        "http://www.loc.gov/item/19980544"
+        "http://www.loc.gov/item/19980544",
+        "2017878540",
+        "http://www.loc.gov/item/fsa1992001211/pp",
+        "2024-05-28t16:49:09"
     ],
     "number_former_id": [
         "http://www.loc.gov/item/19980544",
@@ -325,12 +325,12 @@
             "url": "https://www.loc.gov/collections/fsa-owi-color-photographs/?fo=json"
         },
         {
-            "count": 1163200,
+            "count": 1163251,
             "title": "prints and photographs division",
             "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
         },
         {
-            "count": 1905479,
+            "count": 1905168,
             "title": "catalog",
             "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
         }
@@ -386,7 +386,7 @@
     ],
     "rights_advisory": "No known restrictions on publication.",
     "rights_information": "No known restrictions on publication.",
-    "score": 18.505573,
+    "score": 18.506393,
     "shard": "00",
     "shelf_id": "LC-USW36-295 [P&P]",
     "site": [
@@ -398,18 +398,18 @@
     "source_created": "1985-01-01T00:00:00Z",
     "source_modified": "2000-01-01T12:00:00Z",
     "subject": [
+        "nashville",
         "employment",
+        "color",
+        "world war",
+        "tennessee",
+        "bombers",
+        "united states",
         "african americans",
         "airplane industry",
-        "drilling",
-        "tennessee",
-        "nashville",
-        "women",
         "transparencies",
-        "world war",
-        "bombers",
-        "color",
-        "united states"
+        "women",
+        "drilling"
     ],
     "subject_headings": [
         "Airplane industry",

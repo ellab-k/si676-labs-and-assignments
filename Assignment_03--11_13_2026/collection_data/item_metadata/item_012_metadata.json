@@ -1014,12 +1014,12 @@
             "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json"
         },
         {
-            "count": 419259,
+            "count": 419258,
             "title": "american memory",
             "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
         },
         {
-            "count": 1163200,
+            "count": 1163251,
             "title": "prints and photographs division",
             "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
         }
@@ -1087,7 +1087,7 @@
     ],
     "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
     "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
-    "score": 37.779797,
+    "score": 37.781452,
     "shard": "00",
     "shelf_id": "HAER NY,31-NEYO,89-",
     "site": [
@@ -1099,11 +1099,11 @@
     "subject": [
         "visitors' centers",
         "national parks & reserves",
-        "world heritage sites",
         "immigrants",
-        "galleries & museums",
         "forts & fortifications",
-        "public sculpture"
+        "galleries & museums",
+        "public sculpture",
+        "world heritage sites"
     ],
     "subject_headings": [
         "national parks & reserves",

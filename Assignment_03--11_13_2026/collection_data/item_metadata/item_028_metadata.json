@@ -1,17 +1,17 @@
 {
-    "_version_": 1774496393570811904,
+    "_version_": 1774496464005758976,
     "access_advisory": "Please use digital image: original slide is kept in cold storage for preservation.",
     "access_restricted": false,
     "aka": [
-        "https://www.loc.gov/pictures/item/2017711611/",
-        "http://www.loc.gov/item/2017711611/",
-        "http://www.loc.gov/pictures/item/2017711611/",
-        "https://hdl.loc.gov/loc.pnp/mrg.09525",
-        "https://hdl.loc.gov/loc.pnp/mrg.09525",
-        "http://www.loc.gov/resource/mrg.09525/",
-        "http://lccn.loc.gov/2017711611"
+        "https://www.loc.gov/pictures/item/2017712405/",
+        "http://www.loc.gov/item/2017712405/",
+        "http://www.loc.gov/pictures/item/2017712405/",
+        "https://hdl.loc.gov/loc.pnp/mrg.10319",
+        "https://hdl.loc.gov/loc.pnp/mrg.10319",
+        "http://www.loc.gov/resource/mrg.10319/",
+        "http://lccn.loc.gov/2017712405"
     ],
-    "call_number": "LC-MA05- 9525 [P&P]",
+    "call_number": "LC-MA05- 10319 [P&P]",
     "campaigns": [],
     "contributor_names": [
         "Margolies, John, photographer"
@@ -22,29 +22,29 @@
         }
     ],
     "control_number": "",
-    "created": "2019-05-06T16:55:22Z",
+    "created": "2019-05-06T17:05:53Z",
     "created_published": [
-        "1978."
+        "1985."
     ],
-    "created_published_date": "1978.",
-    "date": "1978",
+    "created_published_date": "1985.",
+    "date": "1985",
     "dates": [
         {
-            "1978": "https://www.loc.gov/search/?dates=1978/1978&fo=json"
+            "1985": "https://www.loc.gov/search/?dates=1985/1985&fo=json"
         }
     ],
     "description": [
         "1 photograph : color transparency ;  35 mm (slide format)."
     ],
     "digital_id": [
-        "mrg 09525 https://hdl.loc.gov/loc.pnp/mrg.09525"
+        "mrg 10319 https://hdl.loc.gov/loc.pnp/mrg.10319"
     ],
     "digitized": true,
     "display_offsite": true,
-    "extract_timestamp": "2023-07-17T14:46:10.536Z",
+    "extract_timestamp": "2023-07-17T14:46:16.087Z",
     "extract_urls": [
-        "http://www.loc.gov/pictures/item/2017711611/#pp_other",
-        "http://lccn.loc.gov/2017711611#catalog-split-11"
+        "http://www.loc.gov/pictures/item/2017712405/#pp_other",
+        "http://lccn.loc.gov/2017712405#catalog-split-13"
     ],
     "format": [
         {
@@ -52,36 +52,36 @@
         }
     ],
     "format_headings": [
-        "Slides--1970-1980.--Color"
+        "Slides--1980-1990.--Color"
     ],
     "genre": [
-        "Slides--1970-1980.--Color"
+        "Slides--1980-1990.--Color"
     ],
     "group": [
         "pp_other",
-        "catalog-split-11",
+        "catalog-split-13",
         "catalog",
         "prints-and-photographs-other",
-        "main-catalog-split-11"
+        "main-catalog-split-13"
     ],
     "hassegments": false,
-    "id": "http://www.loc.gov/item/2017711611/",
+    "id": "http://www.loc.gov/item/2017712405/",
     "image_url": [
-        "https://tile.loc.gov/storage-services/service/pnp/mrg/09500/09525_150px.jpg#h=104&w=150",
-        "https://tile.loc.gov/storage-services/service/pnp/mrg/09500/09525r.jpg#h=444&w=640",
-        "https://tile.loc.gov/storage-services/service/pnp/mrg/09500/09525v.jpg#h=710&w=1024"
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/10300/10319_150px.jpg#h=103&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/10300/10319r.jpg#h=438&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/10300/10319v.jpg#h=701&w=1024"
     ],
     "index": 1,
     "item": {
         "access_advisory": "Please use digital image: original slide is kept in cold storage for preservation.",
-        "call_number": "LC-MA05- 9525 [P&P]",
+        "call_number": "LC-MA05- 10319 [P&P]",
         "contributors": [
             "Margolies, John, photographer."
         ],
-        "control_number": "2017711611",
-        "created": "2019-05-06T16:55:22Z",
-        "created_published": "1978.",
-        "created_published_date": "1978.",
+        "control_number": "2017712405",
+        "created": "2019-05-06T17:05:53Z",
+        "created_published": "1985.",
+        "created_published_date": "1985.",
         "creators": [
             {
                 "link": "https://www.loc.gov/pictures/related/?fi=name&q=Margolies%2C%20John",
@@ -89,9 +89,9 @@
                 "title": "Margolies, John"
             }
         ],
-        "date": "1978.",
+        "date": "1985.",
         "digital_id": [
-            "mrg 09525 https://hdl.loc.gov/loc.pnp/mrg.09525"
+            "mrg 10319 https://hdl.loc.gov/loc.pnp/mrg.10319"
         ],
         "display_offsite": true,
         "format": [
@@ -99,19 +99,19 @@
         ],
         "formats": [
             {
-                "link": "https://www.loc.gov/pictures/related/?fi=format&q=Slides--1970-1980.--Color",
-                "title": "Slides--1970-1980.--Color"
+                "link": "https://www.loc.gov/pictures/related/?fi=format&q=Slides--1980-1990.--Color",
+                "title": "Slides--1980-1990.--Color"
             }
         ],
         "genre": [
-            "Slides--1970-1980.--Color"
+            "Slides--1980-1990.--Color"
         ],
-        "id": "2017711611",
+        "id": "2017712405",
         "language": [
             "eng"
         ],
-        "link": "https://www.loc.gov/pictures/item/2017711611/",
-        "marc": "https://www.loc.gov/pictures/item/2017711611/marc/",
+        "link": "https://www.loc.gov/pictures/item/2017712405/",
+        "marc": "https://www.loc.gov/pictures/item/2017712405/marc/",
         "medium": [
             "1 photograph : color transparency ;  35 mm (slide format)."
         ],
@@ -119,7 +119,7 @@
         "mediums": [
             "1 photograph : color transparency ;  35 mm (slide format)."
         ],
-        "modified": "2019-05-06T16:55:22Z",
+        "modified": "2019-05-06T17:05:53Z",
         "notes": [
             "Title, date and keywords based on information provided by the photographer.",
             "Margolies category: Atlantic coast.",
@@ -129,20 +129,20 @@
             "Forms part of: John Margolies Roadside America photograph archive (1972-2008)."
         ],
         "number_former_id": [
-            "https://www.loc.gov/item/2017711611",
-            "https://www.loc.gov/item/mrg2017009497"
+            "https://www.loc.gov/item/2017712405",
+            "https://www.loc.gov/item/mrg2017010291"
         ],
         "other_control_numbers": [
-            "19682904",
-            "mrg2017009497"
+            "19683730",
+            "mrg2017010291"
         ],
         "part_of": "Margolies, John John Margolies Roadside America photograph archive",
         "place": [
             {
                 "latitude": "",
-                "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20Jersey--Asbury%20Park",
+                "link": "https://www.loc.gov/pictures/related/?fi=place&q=Maryland--Ocean%20City",
                 "longitude": "",
-                "title": "New Jersey--Asbury Park"
+                "title": "Maryland--Ocean City"
             }
         ],
         "raw_collections": [
@@ -152,34 +152,32 @@
             "pp"
         ],
         "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
-        "reproduction_number": "LC-DIG-mrg-09525 (digital file from original color transparency)",
+        "reproduction_number": "LC-DIG-mrg-10319 (digital file from original color transparency)",
         "resource_links": [
-            "https://hdl.loc.gov/loc.pnp/mrg.09525"
+            "https://hdl.loc.gov/loc.pnp/mrg.10319"
         ],
         "restriction": "Please use digital image: original slide is kept in cold storage for preservation.",
         "rights_advisory": "No known restrictions on publication. For more information, see \"John Margolies Roadside America Photograph Archive - Rights and Restrictions Information\"  https://www.loc.gov/rr/print/res/723_marg.html",
         "rights_information": "No known restrictions on publication. For more information, see \"John Margolies Roadside America Photograph Archive - Rights and Restrictions Information\"  https://www.loc.gov/rr/print/res/723_marg.html",
-        "service_low": "https://tile.loc.gov/storage-services/service/pnp/mrg/09500/09525_150px.jpg",
-        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/mrg/09500/09525r.jpg",
-        "sort_date": "1978",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/mrg/10300/10319_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/mrg/10300/10319r.jpg",
+        "sort_date": "1985",
         "source_collection": [
             "Margolies, John John Margolies Roadside America photograph archive"
         ],
         "source_created": "2017-04-05T00:00:00Z",
-        "source_modified": "2017-07-31T12:41:26Z",
+        "source_modified": "2017-07-31T13:09:10Z",
         "subject_headings": [
-            "Amusement parks--1970-1980.",
-            "Merry-go-rounds--1970-1980.",
-            "United States--New Jersey--Asbury Park.",
-            "New Jersey--Asbury Park"
+            "Restaurants--1980-1990.",
+            "United States--Maryland--Ocean City.",
+            "Maryland--Ocean City"
         ],
         "subjects": [
-            "Amusement parks--1970-1980",
-            "Merry-go-rounds--1970-1980",
-            "United States--New Jersey--Asbury Park"
+            "Restaurants--1980-1990",
+            "United States--Maryland--Ocean City"
         ],
-        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/mrg/09500/09525_150px.jpg",
-        "title": "Carousel, Asbury Park, New Jersey"
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/mrg/10300/10319_150px.jpg",
+        "title": "Captain Bob's BBQ bull, horizontal detail, Ocean City, Maryland"
     },
     "language": [
         "english"
@@ -189,28 +187,28 @@
             "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
         }
     ],
-    "library_of_congress_control_number": "2017711611",
-    "link": "https://www.loc.gov/pictures/item/2017711611/",
+    "library_of_congress_control_number": "2017712405",
+    "link": "https://www.loc.gov/pictures/item/2017712405/",
     "location": [
-        "asbury park",
-        "new jersey",
-        "united states"
+        "maryland",
+        "united states",
+        "ocean city"
     ],
     "location_city": [
-        "asbury park"
+        "ocean city"
     ],
     "location_country": [
         "united states"
     ],
     "location_state": [
-        "new jersey"
+        "maryland"
     ],
     "locations": [
         {
-            "asbury park": "https://www.loc.gov/search/?fa=location:asbury+park&fo=json"
+            "maryland": "https://www.loc.gov/search/?fa=location:maryland&fo=json"
         },
         {
-            "new jersey": "https://www.loc.gov/search/?fa=location:new+jersey&fo=json"
+            "ocean city": "https://www.loc.gov/search/?fa=location:ocean+city&fo=json"
         },
         {
             "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
@@ -218,7 +216,7 @@
     ],
     "locations_city": [
         {
-            "asbury park": "https://www.loc.gov/search/?fa=location_city:asbury+park&fo=json"
+            "ocean city": "https://www.loc.gov/search/?fa=location_city:ocean+city&fo=json"
         }
     ],
     "locations_country": [
@@ -228,10 +226,10 @@
     ],
     "locations_state": [
         {
-            "new jersey": "https://www.loc.gov/search/?fa=location_state:new+jersey&fo=json"
+            "maryland": "https://www.loc.gov/search/?fa=location_state:maryland&fo=json"
         }
     ],
-    "marc": "https://www.loc.gov/pictures/item/2017711611/marc/",
+    "marc": "https://www.loc.gov/pictures/item/2017712405/marc/",
     "medium": [
         "1 photograph : color transparency ;  35 mm (slide format)."
     ],
@@ -241,7 +239,7 @@
         "image/jpg",
         "image/tif"
     ],
-    "modified": "2019-05-06T16:55:22Z",
+    "modified": "2019-05-06T17:05:53Z",
     "notes": [
         "Title, date and keywords based on information provided by the photographer.",
         "Margolies category: Atlantic coast.",
@@ -251,26 +249,26 @@
         "Forms part of: John Margolies Roadside America photograph archive (1972-2008)."
     ],
     "number": [
-        "2017-07-31t12:41:26",
-        "2017711611",
-        "http://www.loc.gov/item/2017711611",
+        "http://www.loc.gov/item/19683730",
+        "2017-07-31t13:09:10",
         "sheet",
-        "http://www.loc.gov/item/mrg2017009497",
-        "http://www.loc.gov/item/19682904"
+        "http://www.loc.gov/item/mrg2017010291",
+        "http://www.loc.gov/item/2017712405",
+        "2017712405"
     ],
     "number_carrier_type": [
         "sheet"
     ],
     "number_former_id": [
-        "http://www.loc.gov/item/19682904",
-        "http://www.loc.gov/item/mrg2017009497",
-        "http://www.loc.gov/item/2017711611"
+        "http://www.loc.gov/item/19683730",
+        "http://www.loc.gov/item/mrg2017010291",
+        "http://www.loc.gov/item/2017712405"
     ],
     "number_lccn": [
-        "2017711611"
+        "2017712405"
     ],
     "number_source_modified": [
-        "2017-07-31t12:41:26"
+        "2017-07-31t13:09:10"
     ],
     "online_format": [
         "image"
@@ -279,21 +277,21 @@
         "photo, print, drawing"
     ],
     "other_control_numbers": [
-        "19682904",
-        "mrg2017009497"
+        "19683730",
+        "mrg2017010291"
     ],
     "other_formats": [
         {
             "label": "MARCXML Record",
-            "link": "https://lccn.loc.gov/2017711611/marcxml"
+            "link": "https://lccn.loc.gov/2017712405/marcxml"
         },
         {
             "label": "MODS Record",
-            "link": "https://lccn.loc.gov/2017711611/mods"
+            "link": "https://lccn.loc.gov/2017712405/mods"
         },
         {
             "label": "Dublin Core Record",
-            "link": "https://lccn.loc.gov/2017711611/dc"
+            "link": "https://lccn.loc.gov/2017712405/dc"
         }
     ],
     "partof": [
@@ -303,17 +301,17 @@
             "url": "https://www.loc.gov/search/?fa=partof:john+margolies+roadside+america+photograph+archive&fo=json"
         },
         {
-            "count": 909832,
+            "count": 909616,
             "title": "prints & photographs online catalog (library of congress)",
             "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
         },
         {
-            "count": 1163200,
+            "count": 1163251,
             "title": "prints and photographs division",
             "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
         },
         {
-            "count": 1905479,
+            "count": 1905168,
             "title": "catalog",
             "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
         }
@@ -321,9 +319,9 @@
     "place": [
         {
             "latitude": "",
-            "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20Jersey--Asbury%20Park",
+            "link": "https://www.loc.gov/pictures/related/?fi=place&q=Maryland--Ocean%20City",
             "longitude": "",
-            "title": "New Jersey--Asbury Park"
+            "title": "Maryland--Ocean City"
         }
     ],
     "raw_collections": [
@@ -333,68 +331,63 @@
         "pp"
     ],
     "related": {
-        "neighbors": "https://www.loc.gov/pictures/related/?&pk=2017711611&st=gallery&sb=call_number#focus"
+        "neighbors": "https://www.loc.gov/pictures/related/?&pk=2017712405&st=gallery&sb=call_number#focus"
     },
     "repository": [
         "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
     ],
-    "reproduction_number": "LC-DIG-mrg-09525 (digital file from original color transparency)",
+    "reproduction_number": "LC-DIG-mrg-10319 (digital file from original color transparency)",
     "reproductions": [],
     "resource_links": [
-        "https://hdl.loc.gov/loc.pnp/mrg.09525"
+        "https://hdl.loc.gov/loc.pnp/mrg.10319"
     ],
     "resources": [
         {
             "caption": "digital file from original color transparency",
             "files": 1,
-            "image": "https://tile.loc.gov/storage-services/service/pnp/mrg/09500/09525_150px.jpg",
-            "url": "https://www.loc.gov/resource/mrg.09525/"
+            "image": "https://tile.loc.gov/storage-services/service/pnp/mrg/10300/10319_150px.jpg",
+            "url": "https://www.loc.gov/resource/mrg.10319/"
         }
     ],
     "restriction": "Please use digital image: original slide is kept in cold storage for preservation.",
     "rights": [],
     "rights_advisory": "No known restrictions on publication. For more information, see \"John Margolies Roadside America Photograph Archive - Rights and Restrictions Information\"  https://www.loc.gov/rr/print/res/723_marg.html",
     "rights_information": "No known restrictions on publication. For more information, see \"John Margolies Roadside America Photograph Archive - Rights and Restrictions Information\"  https://www.loc.gov/rr/print/res/723_marg.html",
-    "score": 18.889898,
+    "score": 18.890726,
     "shard": "00",
-    "shelf_id": "LC-MA05- 9525 [P&P]",
+    "shelf_id": "LC-MA05- 10319 [P&P]",
     "site": [
         "pictures",
         "catalog"
     ],
-    "sort_date": "1978",
+    "sort_date": "1985",
     "source_collection": "Margolies, John John Margolies Roadside America photograph archive",
     "source_created": "2017-04-05T00:00:00Z",
     "source_modified": "2000-01-01T12:00:00Z",
     "subject": [
-        "asbury park",
-        "new jersey",
-        "merry-go-rounds",
-        "amusement parks",
-        "slides",
+        "maryland",
+        "restaurants",
         "color",
-        "united states"
+        "united states",
+        "ocean city",
+        "slides"
     ],
     "subject_headings": [
-        "Amusement parks--1970-1980",
-        "Merry-go-rounds--1970-1980",
-        "United States--New Jersey--Asbury Park"
+        "Restaurants--1980-1990",
+        "United States--Maryland--Ocean City"
     ],
     "subjects": [
-        {
-            "amusement parks": "https://www.loc.gov/search/?fa=subject:amusement+parks&fo=json"
-        },
-        {
-            "asbury park": "https://www.loc.gov/search/?fa=subject:asbury+park&fo=json"
-        },
         {
             "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
         },
         {
-            "merry-go-rounds": "https://www.loc.gov/search/?fa=subject:merry-go-rounds&fo=json"
+            "maryland": "https://www.loc.gov/search/?fa=subject:maryland&fo=json"
         },
         {
-            "new jersey": "https://www.loc.gov/search/?fa=subject:new+jersey&fo=json"
+            "ocean city": "https://www.loc.gov/search/?fa=subject:ocean+city&fo=json"
+        },
+        {
+            "restaurants": "https://www.loc.gov/search/?fa=subject:restaurants&fo=json"
         },
         {
             "slides": "https://www.loc.gov/search/?fa=subject:slides&fo=json"
@@ -403,12 +396,12 @@
             "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
         }
     ],
-    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/mrg/09500/09525_150px.jpg",
-    "timestamp": "2023-08-17T17:00:34.951Z",
-    "title": "Carousel, Asbury Park, New Jersey",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/mrg/10300/10319_150px.jpg",
+    "timestamp": "2023-08-17T17:01:42.136Z",
+    "title": "Captain Bob's BBQ bull, horizontal detail, Ocean City, Maryland",
     "type": [
         "still image"
     ],
     "unrestricted": true,
-    "url": "https://www.loc.gov/item/2017711611/"
+    "url": "https://www.loc.gov/item/2017712405/"
 }

@@ -1,0 +1,413 @@
+{
+    "_version_": 1731510542395244544,
+    "access_advisory": "Restricted access. Please use digital image or other reference copy. Original drawing is too fragile to serve.",
+    "access_restricted": false,
+    "aka": [
+        "http://www.loc.gov/pictures/collection/drwgma/item/96514610/",
+        "https://hdl.loc.gov/loc.pnp/cph.3g04633",
+        "http://www.loc.gov/item/96514610/",
+        "http://www.loc.gov/pictures/item/96514610/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.18334",
+        "https://hdl.loc.gov/loc.pnp/cph.3b25872",
+        "http://www.loc.gov/resource/ppmsca.18334/",
+        "http://www.loc.gov/resource/cph.3g04633/",
+        "http://www.loc.gov/resource/cph.3b25872/",
+        "http://lccn.loc.gov/96514610"
+    ],
+    "call_number": "DRWG/MA - Pennell, no. 3377 (Cabinet B) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+        "Pennell, Joseph, 1857-1926, artist"
+    ],
+    "contributors": [
+        {
+            "pennell, joseph": "https://www.loc.gov/search/?fa=contributor:pennell,+joseph&fo=json"
+        }
+    ],
+    "control_number": "",
+    "created": "2019-04-23T06:25:14Z",
+    "created_published": [
+        "[1918]"
+    ],
+    "created_published_date": "[1918]",
+    "date": "1918-01-01",
+    "dates": [
+        {
+            "1918": "https://www.loc.gov/search/?dates=1918/1918&fo=json"
+        }
+    ],
+    "description": [
+        "1 drawing : watercolor, crayon ; 97.5 x 81.3 in. | Design drawing for poster titled \"That liberty shall not perish from the earth - buy Liberty Bonds\" for the Fourth Liberty Loan during World War I. Drawing shows the Statue of Liberty in ruins with New York City in flames in the background."
+    ],
+    "digital_id": [
+        "ppmsca 18334 //hdl.loc.gov/loc.pnp/ppmsca.18334",
+        "cph 3g04633 //hdl.loc.gov/loc.pnp/cph.3g04633",
+        "cph 3b25872 //hdl.loc.gov/loc.pnp/cph.3b25872"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T23:08:29.238Z",
+    "extract_urls": [
+        "http://www.loc.gov/pictures/collection/drwgma/item/96514610/#drwgma",
+        "http://lccn.loc.gov/96514610#catalog-split-00"
+    ],
+    "format": [
+        {
+            "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+        }
+    ],
+    "format_headings": [
+        "Design drawings--Color--1910-1920.",
+        "Watercolors--1910-1920."
+    ],
+    "genre": [
+        "Watercolors--1910-1920",
+        "Design drawings--Color--1910-1920"
+    ],
+    "group": [
+        "drwgma",
+        "catalog-split-00",
+        "catalog",
+        "master-drawings",
+        "main-catalog-split-00",
+        "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/96514610/",
+    "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18300/18334_150px.jpg#h=150&w=127",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18300/18334t.gif#h=150&w=127",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18300/18334r.jpg#h=640&w=541",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18300/18334v.jpg#h=1024&w=865"
+    ],
+    "index": 1,
+    "item": {
+        "access_advisory": "Restricted access. Please use digital image or other reference copy. Original drawing is too fragile to serve.",
+        "call_number": "DRWG/MA - Pennell, no. 3377 (Cabinet B) [P&P]",
+        "contributors": [
+            "Pennell, Joseph, 1857-1926, artist."
+        ],
+        "control_number": "96514610",
+        "created": "2019-04-23T06:25:14Z",
+        "created_published": "[1918]",
+        "created_published_date": "[1918]",
+        "creators": [
+            {
+                "link": "//www.loc.gov/pictures/related/?fi=name&q=Pennell%2C%20Joseph%2C%201857-1926&co=drwgma",
+                "role": "artist",
+                "title": "Pennell, Joseph, 1857-1926"
+            }
+        ],
+        "date": "[1918]",
+        "digital_id": [
+            "ppmsca 18334 //hdl.loc.gov/loc.pnp/ppmsca.18334",
+            "cph 3g04633 //hdl.loc.gov/loc.pnp/cph.3g04633",
+            "cph 3b25872 //hdl.loc.gov/loc.pnp/cph.3b25872"
+        ],
+        "display_offsite": true,
+        "format": [
+            "still image"
+        ],
+        "formats": [
+            {
+                "link": "//www.loc.gov/pictures/related/?fi=format&q=Design%20drawings--Color--1910-1920.&co=drwgma",
+                "title": "Design drawings--Color--1910-1920."
+            },
+            {
+                "link": "//www.loc.gov/pictures/related/?fi=format&q=Watercolors--1910-1920.&co=drwgma",
+                "title": "Watercolors--1910-1920."
+            }
+        ],
+        "genre": [
+            "Watercolors--1910-1920",
+            "Design drawings--Color--1910-1920"
+        ],
+        "id": "96514610",
+        "language": [
+            "eng"
+        ],
+        "link": "//www.loc.gov/pictures/item/96514610/",
+        "location": [
+            "United States"
+        ],
+        "marc": "//www.loc.gov/pictures/item/96514610/marc/",
+        "medium": [
+            "1 drawing : watercolor, crayon ; 97.5 x 81.3 in."
+        ],
+        "medium_brief": "1 drawing :",
+        "mediums": [
+            "1 drawing : watercolor, crayon ; 97.5 x 81.3 in."
+        ],
+        "modified": "2019-04-23T06:25:14Z",
+        "notes": [
+            "Title from item.",
+            "Inscription: \"Watercolor sketch of idea.\"",
+            "Wuerth, L.A. List of original drawings and paintings, War poster paintings, p. 31.",
+            "Bequest; Joseph Pennell Estate; 1926-1937; (PR 06 CN 316).",
+            "Published in: Eyes of the nation : a visual history of the United States / Vincent Virga and curators of the Library of Congress ; historical commentary by Alan Brinkley. New York : Knopf, 1997.",
+            "Forms part of: Joseph and Elizabeth Robins Pennell collection.",
+            "Exhibited in: \"Creating the U.S.\" Library of Congress, Washington, D.C., 2008.",
+            "Exhibited: \"Echoes of the Great War : American Experiences of WW I\" in the Thomas Jefferson Building, Library of Congress, Washington, D.C., April - Nov. 2017."
+        ],
+        "number_former_id": [
+            "https://www.loc.gov/item/96514610",
+            "https://www.loc.gov/item/11678827"
+        ],
+        "other_control_numbers": [
+            "11678827"
+        ],
+        "part_of": "Joseph and Elizabeth Robins Pennell collection. Drawings and paintings series",
+        "place": [
+            {
+                "latitude": "",
+                "link": "//www.loc.gov/pictures/related/?fi=place&q=United%20States&co=drwgma",
+                "longitude": "",
+                "title": "United States"
+            }
+        ],
+        "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+        "reproduction_number": "LC-DIG-ppmsca-18334 (digital file from original print)\nLC-USZC4-4633 (color film copy transparency)\nLC-USZ62-78192 (b&w film copy neg.)",
+        "resource_links": [
+            "//hdl.loc.gov/loc.pnp/ppmsca.18334",
+            "//hdl.loc.gov/loc.pnp/cph.3g04633",
+            "//hdl.loc.gov/loc.pnp/cph.3b25872"
+        ],
+        "restriction": "Restricted access. Please use digital image or other reference copy. Original drawing is too fragile to serve.",
+        "rights_advisory": "No known restrictions on publication.",
+        "rights_information": "No known restrictions on publication.",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18300/18334_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18300/18334r.jpg",
+        "sort_date": "1918",
+        "source_collection": [
+            "Joseph and Elizabeth Robins Pennell collection. Drawings and paintings series"
+        ],
+        "source_created": "1996-07-26T00:00:00Z",
+        "source_modified": "2019-04-16T15:33:54Z",
+        "stmt_of_responsibility": "Joseph Pennell, del. & c.",
+        "subject_headings": [
+            "World War, 1914-1918--Economic & industrial aspects--United States.",
+            "Statue of Liberty (New York, N.Y.)--1910-1920.",
+            "War bonds & funds--1910-1920.",
+            "United States"
+        ],
+        "subjects": [
+            "World War, 1914-1918--Economic & industrial aspects--United States",
+            "Statue of Liberty (New York, N.Y.)--1910-1920",
+            "War bonds & funds--1910-1920"
+        ],
+        "summary": "Design drawing for poster titled \"That liberty shall not perish from the earth - buy Liberty Bonds\" for the Fourth Liberty Loan during World War I. Drawing shows the Statue of Liberty in ruins with New York City in flames in the background.",
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18300/18334_150px.jpg",
+        "title": "Lest liberty perish from the face of the earth - buy bonds"
+    },
+    "language": [
+        "english"
+    ],
+    "languages": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+        }
+    ],
+    "library_of_congress_control_number": "96514610",
+    "link": "//www.loc.gov/pictures/item/96514610/",
+    "location": [
+        "united states"
+    ],
+    "locations": [
+        {
+            "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+        }
+    ],
+    "marc": "//www.loc.gov/pictures/item/96514610/marc/",
+    "medium": [
+        "1 drawing : watercolor, crayon ; 97.5 x 81.3 in."
+    ],
+    "medium_brief": "1 drawing :",
+    "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+    ],
+    "modified": "2019-04-23T06:25:14Z",
+    "notes": [
+        "Title from item.",
+        "Inscription: \"Watercolor sketch of idea.\"",
+        "Wuerth, L.A. List of original drawings and paintings, War poster paintings, p. 31.",
+        "Bequest; Joseph Pennell Estate; 1926-1937; (PR 06 CN 316).",
+        "Published in: Eyes of the nation : a visual history of the United States / Vincent Virga and curators of the Library of Congress ; historical commentary by Alan Brinkley. New York : Knopf, 1997.",
+        "Forms part of: Joseph and Elizabeth Robins Pennell collection.",
+        "Exhibited in: \"Creating the U.S.\" Library of Congress, Washington, D.C., 2008.",
+        "Exhibited: \"Echoes of the Great War : American Experiences of WW I\" in the Thomas Jefferson Building, Library of Congress, Washington, D.C., April - Nov. 2017."
+    ],
+    "number": [
+        "2019-04-16t15:33:54",
+        "96514610",
+        "http://www.loc.gov/item/96514610",
+        "http://www.loc.gov/item/11678827"
+    ],
+    "number_former_id": [
+        "http://www.loc.gov/item/11678827",
+        "http://www.loc.gov/item/96514610"
+    ],
+    "number_lccn": [
+        "96514610"
+    ],
+    "number_source_modified": [
+        "2019-04-16t15:33:54"
+    ],
+    "online_format": [
+        "image"
+    ],
+    "original_format": [
+        "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+        "11678827"
+    ],
+    "other_formats": [
+        {
+            "label": "MARCXML Record",
+            "link": "https://lccn.loc.gov/96514610/marcxml"
+        },
+        {
+            "label": "MODS Record",
+            "link": "https://lccn.loc.gov/96514610/mods"
+        },
+        {
+            "label": "Dublin Core Record",
+            "link": "https://lccn.loc.gov/96514610/dc"
+        }
+    ],
+    "partof": [
+        {
+            "count": 206,
+            "title": "drawings (master)",
+            "url": "https://www.loc.gov/collections/master-drawings/?fo=json"
+        },
+        {
+            "count": 352,
+            "title": "prints & photographs division",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+division&fo=json"
+        },
+        {
+            "count": 909616,
+            "title": "prints & photographs online catalog (library of congress)",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+        },
+        {
+            "count": 1163251,
+            "title": "prints and photographs division",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+        },
+        {
+            "count": 1905168,
+            "title": "catalog",
+            "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+        }
+    ],
+    "place": [
+        {
+            "latitude": "",
+            "link": "//www.loc.gov/pictures/related/?fi=place&q=United%20States&co=drwgma",
+            "longitude": "",
+            "title": "United States"
+        }
+    ],
+    "related": {
+        "neighbors": "//www.loc.gov/pictures/related/?&co=drwgma&pk=96514610&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+        "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-ppmsca-18334 (digital file from original print)\nLC-USZC4-4633 (color film copy transparency)\nLC-USZ62-78192 (b&w film copy neg.)",
+    "reproductions": [],
+    "resource_links": [
+        "//hdl.loc.gov/loc.pnp/ppmsca.18334",
+        "//hdl.loc.gov/loc.pnp/cph.3g04633",
+        "//hdl.loc.gov/loc.pnp/cph.3b25872"
+    ],
+    "resources": [
+        {
+            "caption": "digital file from original print",
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18300/18334_150px.jpg",
+            "url": "https://www.loc.gov/resource/ppmsca.18334/"
+        },
+        {
+            "caption": "digital file from color film copy transparency",
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g04000/3g04600/3g04633_150px.jpg",
+            "url": "https://www.loc.gov/resource/cph.3g04633/"
+        },
+        {
+            "caption": "digital file from b&w film copy neg.",
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b25000/3b25800/3b25872_150px.jpg",
+            "url": "https://www.loc.gov/resource/cph.3b25872/"
+        }
+    ],
+    "restriction": "Restricted access. Please use digital image or other reference copy. Original drawing is too fragile to serve.",
+    "rights": [
+        "<p>The Library of Congress generally does not own rights to material in its  collections and, therefore, cannot grant or deny permission to publish  or otherwise distribute the material. For information about assessing  rights, see the <a href=\"https://www.loc.gov/rr/print/res/rights.html\">Rights and Restrictions Information page</a>.</p>"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.474216,
+    "shard": "00",
+    "shelf_id": "DRWG/MA - Pennell, no. 3377 (Cabinet B) [P&P]",
+    "site": [
+        "pictures",
+        "catalog"
+    ],
+    "sort_date": "1918",
+    "source_collection": "Joseph and Elizabeth Robins Pennell collection. Drawings and paintings series",
+    "source_created": "1996-07-26T00:00:00Z",
+    "source_modified": "2019-04-16T15:33:54Z",
+    "stmt_of_responsibility": "Joseph Pennell, del. & c.",
+    "subject": [
+        "color",
+        "world war",
+        "design drawings",
+        "united states",
+        "war bonds & funds",
+        "watercolors",
+        "economic & industrial aspects",
+        "statue of liberty (new york, n.y.)"
+    ],
+    "subject_headings": [
+        "World War, 1914-1918--Economic & industrial aspects--United States",
+        "Statue of Liberty (New York, N.Y.)--1910-1920",
+        "War bonds & funds--1910-1920"
+    ],
+    "subjects": [
+        {
+            "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+        },
+        {
+            "design drawings": "https://www.loc.gov/search/?fa=subject:design+drawings&fo=json"
+        },
+        {
+            "economic & industrial aspects": "https://www.loc.gov/search/?fa=subject:economic+%26+industrial+aspects&fo=json"
+        },
+        {
+            "statue of liberty (new york, n.y.)": "https://www.loc.gov/search/?fa=subject:statue+of+liberty+%28new+york,+n.y.%29&fo=json"
+        },
+        {
+            "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+        },
+        {
+            "war bonds & funds": "https://www.loc.gov/search/?fa=subject:war+bonds+%26+funds&fo=json"
+        },
+        {
+            "watercolors": "https://www.loc.gov/search/?fa=subject:watercolors&fo=json"
+        },
+        {
+            "world war": "https://www.loc.gov/search/?fa=subject:world+war&fo=json"
+        }
+    ],
+    "summary": "Design drawing for poster titled \"That liberty shall not perish from the earth - buy Liberty Bonds\" for the Fourth Liberty Loan during World War I. Drawing shows the Statue of Liberty in ruins with New York City in flames in the background.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18300/18334_150px.jpg",
+    "timestamp": "2022-04-30T05:38:52.817Z",
+    "title": "Lest liberty perish from the face of the earth - buy bonds / Joseph Pennell, del. & c.",
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/96514610/"
+}

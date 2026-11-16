@@ -1,0 +1,411 @@
+{
+    "_version_": 1774495837713334272,
+    "access_advisory": "Please use digital image: original slide is kept in cold storage for preservation.",
+    "access_restricted": false,
+    "aka": [
+        "https://www.loc.gov/pictures/item/2017705403/",
+        "http://www.loc.gov/item/2017705403/",
+        "http://www.loc.gov/pictures/item/2017705403/",
+        "https://hdl.loc.gov/loc.pnp/mrg.03293",
+        "https://hdl.loc.gov/loc.pnp/mrg.03293",
+        "http://www.loc.gov/resource/mrg.03293/",
+        "http://lccn.loc.gov/2017705403"
+    ],
+    "call_number": "LC-MA05- 3293 [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+        "Margolies, John, photographer"
+    ],
+    "contributors": [
+        {
+            "margolies, john": "https://www.loc.gov/search/?fa=contributor:margolies,+john&fo=json"
+        }
+    ],
+    "control_number": "",
+    "created": "2022-04-26T06:21:53Z",
+    "created_published": [
+        "1984."
+    ],
+    "created_published_date": "1984.",
+    "date": "1984",
+    "dates": [
+        {
+            "1984": "https://www.loc.gov/search/?dates=1984/1984&fo=json"
+        }
+    ],
+    "description": [
+        "1 photograph : color transparency ; 35 mm (slide format)."
+    ],
+    "digital_id": [
+        "mrg 03293 https://hdl.loc.gov/loc.pnp/mrg.03293"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2023-07-17T14:40:22.423Z",
+    "extract_urls": [
+        "http://www.loc.gov/pictures/item/2017705403/#pp_other",
+        "http://lccn.loc.gov/2017705403#catalog-split-13"
+    ],
+    "format": [
+        {
+            "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+        }
+    ],
+    "format_headings": [
+        "Slides--1980-1990.--Color"
+    ],
+    "genre": [
+        "Slides--1980-1990.--Color"
+    ],
+    "group": [
+        "pp_other",
+        "catalog-split-13",
+        "catalog",
+        "prints-and-photographs-other",
+        "main-catalog-split-13"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2017705403/",
+    "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/03200/03293_150px.jpg#h=150&w=104",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/03200/03293r.jpg#h=640&w=446",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/03200/03293v.jpg#h=1024&w=713"
+    ],
+    "index": 1,
+    "item": {
+        "access_advisory": "Please use digital image: original slide is kept in cold storage for preservation.",
+        "call_number": "LC-MA05- 3293 [P&P]",
+        "contributors": [
+            "Margolies, John, photographer."
+        ],
+        "control_number": "2017705403",
+        "created": "2022-04-26T06:21:53Z",
+        "created_published": "1984.",
+        "created_published_date": "1984.",
+        "creators": [
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Margolies%2C%20John",
+                "role": "photographer",
+                "title": "Margolies, John"
+            }
+        ],
+        "date": "1984.",
+        "digital_id": [
+            "mrg 03293 https://hdl.loc.gov/loc.pnp/mrg.03293"
+        ],
+        "display_offsite": true,
+        "format": [
+            "still image"
+        ],
+        "formats": [
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=format&q=Slides--1980-1990.--Color",
+                "title": "Slides--1980-1990.--Color"
+            }
+        ],
+        "genre": [
+            "Slides--1980-1990.--Color"
+        ],
+        "id": "2017705403",
+        "language": [
+            "eng"
+        ],
+        "link": "https://www.loc.gov/pictures/item/2017705403/",
+        "marc": "https://www.loc.gov/pictures/item/2017705403/marc/",
+        "medium": [
+            "1 photograph : color transparency ; 35 mm (slide format)."
+        ],
+        "medium_brief": "1 photograph :",
+        "mediums": [
+            "1 photograph : color transparency ; 35 mm (slide format)."
+        ],
+        "modified": "2022-04-26T06:21:54Z",
+        "notes": [
+            "Title, date and keywords based on information provided by the photographer.",
+            "Purchase; John Margolies 2010 (DLC/PP-2010:191).",
+            "Credit line: John Margolies Roadside America photograph archive (1972-2008), Library of Congress, Prints and Photographs Division.",
+            "General information about the John Margolies Roadside America photograph archive is available at http://hdl.loc.gov/loc.pnp/pp.mrg",
+            "Forms part of: John Margolies Roadside America photograph archive (1972-2008)."
+        ],
+        "number_former_id": [
+            "https://www.loc.gov/item/2017705403",
+            "https://www.loc.gov/item/mrg2017003288"
+        ],
+        "other_control_numbers": [
+            "19675546",
+            "mrg2017003288"
+        ],
+        "part_of": "Margolies, John John Margolies Roadside America photograph archive",
+        "place": [
+            {
+                "latitude": "",
+                "link": "https://www.loc.gov/pictures/related/?fi=place&q=Pennsylvania--Wyoming",
+                "longitude": "",
+                "title": "Pennsylvania--Wyoming"
+            }
+        ],
+        "raw_collections": [
+            "067",
+            "11",
+            "diof",
+            "flickrmrg",
+            "minload",
+            "mrg",
+            "pp"
+        ],
+        "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+        "reproduction_number": "LC-DIG-mrg-03293 (digital file from original color transparency)",
+        "resource_links": [
+            "https://hdl.loc.gov/loc.pnp/mrg.03293"
+        ],
+        "restriction": "Please use digital image: original slide is kept in cold storage for preservation.",
+        "rights_advisory": "No known restrictions on publication. For more information, see \"John Margolies Roadside America Photograph Archive - Rights and Restrictions Information\" https://www.loc.gov/rr/print/res/723_marg.html",
+        "rights_information": "No known restrictions on publication. For more information, see \"John Margolies Roadside America Photograph Archive - Rights and Restrictions Information\" https://www.loc.gov/rr/print/res/723_marg.html",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/mrg/03200/03293_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/mrg/03200/03293r.jpg",
+        "sort_date": "1984",
+        "source_collection": [
+            "Margolies, John John Margolies Roadside America photograph archive"
+        ],
+        "source_created": "2017-04-05T00:00:00Z",
+        "source_modified": "2022-04-19T15:01:42Z",
+        "subject_headings": [
+            "Miniature golf--1980-1990.",
+            "United States--Pennsylvania--Wyoming.",
+            "Pennsylvania--Wyoming"
+        ],
+        "subjects": [
+            "Miniature golf--1980-1990",
+            "United States--Pennsylvania--Wyoming"
+        ],
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/mrg/03200/03293_150px.jpg",
+        "title": "Red house, Rich's miniature golf, Wyoming, Pennsylvania"
+    },
+    "language": [
+        "english"
+    ],
+    "languages": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+        }
+    ],
+    "library_of_congress_control_number": "2017705403",
+    "link": "https://www.loc.gov/pictures/item/2017705403/",
+    "location": [
+        "pennsylvania",
+        "wyoming",
+        "united states"
+    ],
+    "location_city": [
+        "wyoming"
+    ],
+    "location_country": [
+        "united states"
+    ],
+    "location_state": [
+        "pennsylvania"
+    ],
+    "locations": [
+        {
+            "pennsylvania": "https://www.loc.gov/search/?fa=location:pennsylvania&fo=json"
+        },
+        {
+            "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+        },
+        {
+            "wyoming": "https://www.loc.gov/search/?fa=location:wyoming&fo=json"
+        }
+    ],
+    "locations_city": [
+        {
+            "wyoming": "https://www.loc.gov/search/?fa=location_city:wyoming&fo=json"
+        }
+    ],
+    "locations_country": [
+        {
+            "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+        }
+    ],
+    "locations_state": [
+        {
+            "pennsylvania": "https://www.loc.gov/search/?fa=location_state:pennsylvania&fo=json"
+        }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2017705403/marc/",
+    "medium": [
+        "1 photograph : color transparency ; 35 mm (slide format)."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+    ],
+    "modified": "2022-04-26T06:21:54Z",
+    "notes": [
+        "Title, date and keywords based on information provided by the photographer.",
+        "Purchase; John Margolies 2010 (DLC/PP-2010:191).",
+        "Credit line: John Margolies Roadside America photograph archive (1972-2008), Library of Congress, Prints and Photographs Division.",
+        "General information about the John Margolies Roadside America photograph archive is available at http://hdl.loc.gov/loc.pnp/pp.mrg",
+        "Forms part of: John Margolies Roadside America photograph archive (1972-2008)."
+    ],
+    "number": [
+        "http://www.loc.gov/item/19675546",
+        "2022-04-19t15:01:42",
+        "http://www.loc.gov/item/mrg2017003288",
+        "sheet",
+        "http://www.loc.gov/item/2017705403",
+        "2017705403"
+    ],
+    "number_carrier_type": [
+        "sheet"
+    ],
+    "number_former_id": [
+        "http://www.loc.gov/item/19675546",
+        "http://www.loc.gov/item/mrg2017003288",
+        "http://www.loc.gov/item/2017705403"
+    ],
+    "number_lccn": [
+        "2017705403"
+    ],
+    "number_source_modified": [
+        "2022-04-19t15:01:42"
+    ],
+    "online_format": [
+        "image"
+    ],
+    "original_format": [
+        "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+        "19675546",
+        "mrg2017003288"
+    ],
+    "other_formats": [
+        {
+            "label": "MARCXML Record",
+            "link": "https://lccn.loc.gov/2017705403/marcxml"
+        },
+        {
+            "label": "MODS Record",
+            "link": "https://lccn.loc.gov/2017705403/mods"
+        },
+        {
+            "label": "Dublin Core Record",
+            "link": "https://lccn.loc.gov/2017705403/dc"
+        }
+    ],
+    "partof": [
+        {
+            "count": 11708,
+            "title": "john margolies roadside america photograph archive",
+            "url": "https://www.loc.gov/search/?fa=partof:john+margolies+roadside+america+photograph+archive&fo=json"
+        },
+        {
+            "count": 909616,
+            "title": "prints & photographs online catalog (library of congress)",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+        },
+        {
+            "count": 1163251,
+            "title": "prints and photographs division",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+        },
+        {
+            "count": 1905168,
+            "title": "catalog",
+            "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+        }
+    ],
+    "place": [
+        {
+            "latitude": "",
+            "link": "https://www.loc.gov/pictures/related/?fi=place&q=Pennsylvania--Wyoming",
+            "longitude": "",
+            "title": "Pennsylvania--Wyoming"
+        }
+    ],
+    "raw_collections": [
+        "067",
+        "11",
+        "diof",
+        "flickrmrg",
+        "minload",
+        "mrg",
+        "pp"
+    ],
+    "related": {
+        "neighbors": "https://www.loc.gov/pictures/related/?&pk=2017705403&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+        "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-mrg-03293 (digital file from original color transparency)",
+    "reproductions": [],
+    "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/mrg.03293"
+    ],
+    "resources": [
+        {
+            "caption": "digital file from original color transparency",
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/pnp/mrg/03200/03293_150px.jpg",
+            "url": "https://www.loc.gov/resource/mrg.03293/"
+        }
+    ],
+    "restriction": "Please use digital image: original slide is kept in cold storage for preservation.",
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication. For more information, see \"John Margolies Roadside America Photograph Archive - Rights and Restrictions Information\" https://www.loc.gov/rr/print/res/723_marg.html",
+    "rights_information": "No known restrictions on publication. For more information, see \"John Margolies Roadside America Photograph Archive - Rights and Restrictions Information\" https://www.loc.gov/rr/print/res/723_marg.html",
+    "score": 18.506393,
+    "shard": "00",
+    "shelf_id": "LC-MA05- 3293 [P&P]",
+    "site": [
+        "pictures",
+        "catalog"
+    ],
+    "sort_date": "1984",
+    "source_collection": "Margolies, John John Margolies Roadside America photograph archive",
+    "source_created": "2017-04-05T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+        "pennsylvania",
+        "wyoming",
+        "united states",
+        "color",
+        "miniature golf",
+        "slides"
+    ],
+    "subject_headings": [
+        "Miniature golf--1980-1990",
+        "United States--Pennsylvania--Wyoming"
+    ],
+    "subjects": [
+        {
+            "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+        },
+        {
+            "miniature golf": "https://www.loc.gov/search/?fa=subject:miniature+golf&fo=json"
+        },
+        {
+            "pennsylvania": "https://www.loc.gov/search/?fa=subject:pennsylvania&fo=json"
+        },
+        {
+            "slides": "https://www.loc.gov/search/?fa=subject:slides&fo=json"
+        },
+        {
+            "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+        },
+        {
+            "wyoming": "https://www.loc.gov/search/?fa=subject:wyoming&fo=json"
+        }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/mrg/03200/03293_150px.jpg",
+    "timestamp": "2023-08-17T16:51:44.851Z",
+    "title": "Red house, Rich's miniature golf, Wyoming, Pennsylvania",
+    "type": [
+        "still image"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2017705403/"
+}

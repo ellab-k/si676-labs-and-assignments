@@ -44,7 +44,7 @@ def get_item_data(baseURL, resource_link, params):
     item_response_json = item_response.json()
     return item_response_json.get('item')
 
-def create_item_json(output_dir, item_data):
+def create_item_json(output_dir, item_data, item_id):
     """
     Creates a json data file for the provided item saved to the provided directory.
 
@@ -58,18 +58,11 @@ def create_item_json(output_dir, item_data):
         json file: a json file with the item data dict. name follows format 'item_{resource link}_metadata'
         item_id (str): the item LCCN
     """
-    item_id = item_data['control_number']
     item_filename = output_dir + '/item_' + item_id + '_metadata.json'
     with open(item_filename, 'w', encoding='utf-8') as f:
         json.dump(item_data, f, indent=4)
-        print('wrote' + item_filename)
+        print('wrote ' + item_filename)
     return item_id
-
-
-
-"""
-MAIN CODE
-"""
 
 def main():
     filename = "/Users/ebk/Documents/UMSI/F2026/SI-676/Labs_and_Assignments/si676-labs-and-assignments/Assignment_03--11_13_2026/collection_item_list.csv"
@@ -80,17 +73,13 @@ def main():
     metadata_dir = "/Users/ebk/Documents/UMSI/F2026/SI-676/Labs_and_Assignments/si676-labs-and-assignments/Assignment_03--11_13_2026/collection_data/item_metadata"
 
     i = 0
-    item_index = []
-    for item in data:
-        item_id = create_item_json(metadata_dir, get_item_data(baseURL, item['link'], params))
-        item_index.append(('0' + str(i), item_id,))
+    for i in range(len(data)):
+        if i+1 < 10:
+            create_item_json(metadata_dir, get_item_data(baseURL, data[i]['link'], params), ('0' + str(i+1)))
+        else:
+            create_item_json(metadata_dir, get_item_data(baseURL, data[i]['link'], params), str(i+1))
         i+=1
-    
-    with open("collection_item_index.csv", "w", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=['id', 'LCCN'])
-        writer.writeheader()
-        for item in item_index:
-            writer.writerow(item)
+
 
 
 
