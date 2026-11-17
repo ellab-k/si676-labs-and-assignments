@@ -55,7 +55,7 @@ def create_item_json(output_dir, item_data, item_id):
 
     Returns
     -------
-        json file: a json file with the item data dict. name follows format 'item_{resource link}_metadata'
+        json file: a json file with the item data dict. name follows format 'item_{internal_item_id}_metadata'
         item_id (str): the item LCCN
     """
     item_filename = output_dir + '/item_' + item_id + '_metadata.json'
