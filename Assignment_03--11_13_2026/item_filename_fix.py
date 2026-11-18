@@ -12,11 +12,22 @@ for file in metadata_dir.iterdir():
     with open(file, "r") as f:
         data = json.load(f)
 
-        aka = data['aka']
-        for item in aka:
-            x = re.search("(http)(s){0,1}:\\/\\/www.loc.gov\\/item\\/\\(d*)\\/", item)
-            if x:
-                print(x.group(2))
+        try:
+            aka = data['aka']
+            for item in aka:
+                x = re.search("https?://www\\.loc\\.gov/item/([0-9]+)/", item)
+                if x:
+                    item_lccn = x.group(1)
+                    break
+                elif not x:
+                    x = re.search("https?://www\\.loc\\.gov/item/(.+)/", item)
+                    if x:
+                        item_lccn = x.group(1)
+                        break
+        except KeyError:
+            item_lccn = data["item"]["link"]
+            item_lccn = item_lccn.split("/")[-2]
+
 
 
 

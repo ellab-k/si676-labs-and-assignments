@@ -1,1149 +1,1238 @@
 {
-    "_version_": 1821170558246584320,
-    "access_restricted": false,
-    "aka": [
-        "https://www.loc.gov/pictures/item/ny1251/",
-        "http://www.loc.gov/item/ny1251/",
-        "http://www.loc.gov/pictures/item/ny1251/",
-        "https://www.loc.gov/pictures/collection/hh/item/ny1251/",
-        "http://www.loc.gov/pictures/collection/hh/item/ny1251/",
-        "https://cdn.loc.gov/master/pnp/habshaer/ny/ny1200/ny1251/data/ny1251data.pdf",
-        "http://cdn.loc.gov/master/pnp/habshaer/ny/ny1200/ny1251/data/ny1251data.pdf",
-        "https://cdn.loc.gov/master/pnp/habshaer/ny/ny1200/ny1251/data/ny1251cap.pdf",
-        "http://cdn.loc.gov/master/pnp/habshaer/ny/ny1200/ny1251/data/ny1251cap.pdf",
-        "https://stage.loc.gov/pictures/search/?q=photograph: ny1251&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
-        "http://stage.loc.gov/pictures/search/?q=photograph: ny1251&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
-        "https://stage.loc.gov/pictures/search/?q=drawing: ny1251&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
-        "http://stage.loc.gov/pictures/search/?q=drawing: ny1251&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
-        "http://www.loc.gov/resource/hhh.ny1251data/",
-        "http://www.loc.gov/resource/hhh.ny1251cap/",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet/",
-        "http://www.loc.gov/resource/hhh.ny1251.photos/",
-        "http://www.loc.gov/resource/hhh.ny1251.photos",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570000c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570001c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570002c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570003c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570004c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570005c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570006c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570007c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570008c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570009c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570010c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570011c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570012c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570013c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570014c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570015c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570016c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570017c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570018c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570019c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570020c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570021c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570022c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570023c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570024c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570025c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570026c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570027c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570028c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570029c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570030c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570031c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570032c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570033c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570034c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570035c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570036c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570037c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570038c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570039c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570040c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570041c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570042c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570043c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570044c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570045c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570046c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570047c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570048c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570049c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.570050c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.582537c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.582538c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.582539c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.582540c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.582541c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.582542c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.582543c",
-        "http://www.loc.gov/resource/hhh.ny1251.color.582544c",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120259p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120260p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120261p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120262p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120263p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120264p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120265p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120266p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120267p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120268p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120269p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120270p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120271p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120272p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120273p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120274p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120275p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120276p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120277p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120278p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120279p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120280p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120281p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120282p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120283p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120284p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120285p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120286p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120287p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120288p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120289p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120290p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120291p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120292p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120293p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120294p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120295p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120296p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120297p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120298p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120299p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120300p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120301p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120302p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120303p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120304p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120305p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120306p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120307p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120308p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120309p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120310p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120311p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120312p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120313p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120314p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120315p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120316p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120317p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120318p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120319p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120320p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120321p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120322p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120323p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120324p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120325p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120326p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120327p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120328p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120329p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120330p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120331p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120332p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120333p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120334p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120335p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120336p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120337p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120338p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120339p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120340p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120341p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120342p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120343p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120344p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120345p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120346p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120347p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120348p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120349p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120350p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120351p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120352p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120353p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120354p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120355p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120356p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120357p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120358p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120359p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120360p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120361p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120362p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120363p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120364p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120365p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120366p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120367p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120368p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120369p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120370p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120371p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120372p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120373p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120374p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120375p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120376p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120377p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120378p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120379p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120380p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120381p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120382p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120383p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120384p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120385p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120386p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120387p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120388p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120389p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120390p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120391p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120392p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120393p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120394p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120395p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120396p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120397p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120398p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120399p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120400p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120401p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120402p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120403p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120404p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120405p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120406p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120407p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120408p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120409p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120410p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120411p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120412p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120413p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120414p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120415p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120416p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120417p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120418p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120419p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120420p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120421p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120422p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120423p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120424p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120425p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120426p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120427p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120428p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120429p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120430p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120431p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120432p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120433p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120434p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120435p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120436p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120437p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120438p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120439p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120440p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120441p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120442p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120443p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120444p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120445p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120446p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120447p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120448p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120449p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120450p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120451p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120452p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120453p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120454p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120455p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120456p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120457p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120458p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120459p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120460p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120461p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120462p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120463p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120464p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120465p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120466p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120467p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120468p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120469p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120470p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120471p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120472p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120473p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120474p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120475p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120476p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120477p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120478p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120479p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120480p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120481p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120482p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120483p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120484p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120485p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120486p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120487p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.120488p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581359p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581360p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581361p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581362p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581363p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581364p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581365p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581366p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581367p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581368p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581369p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581370p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581371p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581372p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581373p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581374p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581375p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581376p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581377p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581378p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581379p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581380p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581381p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581382p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581383p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581384p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581385p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581386p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581387p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581388p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581389p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581390p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581391p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581392p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581393p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581394p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581395p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581396p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581397p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581398p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581399p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581400p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581401p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581402p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581403p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581404p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581405p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581406p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581407p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581408p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581409p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581410p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581411p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581412p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581413p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581414p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581415p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581416p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581417p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581418p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581419p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581420p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581421p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581422p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581423p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581424p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581425p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581426p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581427p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581428p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581429p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581430p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581431p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581432p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581433p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581434p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581435p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581436p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581437p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581438p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581439p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581440p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581441p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581442p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581443p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581444p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581445p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581446p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581447p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581448p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581449p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581450p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581451p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581452p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581453p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581454p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581455p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581456p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581457p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581458p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581459p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581460p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581461p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581462p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581463p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581464p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581465p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581466p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581467p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581468p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581469p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581470p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581471p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581472p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581473p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581474p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581475p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581476p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581477p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581478p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581479p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581480p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581481p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581482p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581483p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581484p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581485p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581486p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581487p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581488p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581489p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581490p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581491p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581492p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581493p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581494p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581495p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581496p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581497p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581498p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581499p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581500p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581501p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581502p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581503p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581504p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581505p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581506p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581507p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581508p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581509p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581510p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581511p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581512p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581513p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581514p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581515p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581516p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581517p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581518p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581519p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581520p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581521p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581522p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581523p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581524p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581525p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581526p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581527p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581528p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581529p",
-        "http://www.loc.gov/resource/hhh.ny1251.photos.581530p",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00001a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00002a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00003a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00004a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00005a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00006a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00007a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00008a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00009a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00010a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00011a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00012a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00013a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00014a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00015a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00016a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00017a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00018a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00019a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00020a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00021a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00022a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00023a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00024a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00025a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00026a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00027a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00028a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00029a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00030a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00031a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00032a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00033a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00034a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00035a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00036a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00037a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00038a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00039a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00040a",
-        "http://www.loc.gov/resource/hhh.ny1251.sheet.00041a"
-    ],
-    "call_number": "HAER NY,31-NEYO,89-",
-    "campaigns": [],
-    "contributor_names": [
-        "Historic American Engineering Record, creator",
-        "Eiffel, Gustav",
-        "Bartholdi, Frederic Auguste",
-        "Hunt, Richard Morris",
-        "Boucher, Jack E., photographer",
-        "Lowe, Jet, photographer",
-        "DePalo, Frank, photographer",
-        "Buerglener, Robert, historian",
-        "Jandoli, Liz, transmitter",
-        "Lockett, Dana, project manager",
-        "Christianson, Justine, transmitter",
-        "Lockett, Dana, project manager",
-        "Christianson, Justine, transmitter",
-        "Burns and Roe Engineers, field team",
-        "Tereso, John, project manager",
-        "Wheaton, Ann, delineator",
-        "Strong, Craig, delineator",
-        "Akboy, Serra, field team",
-        "Bruns, Susan, field team",
-        "Pierce, Ryan, field team",
-        "Louden, Elizabeth I., field team",
-        "Hill, Glenn E., field team",
-        "White, John Poston, field team",
-        "Snowden, Chris, field team",
-        "Hughes, Karen, field team",
-        "Patel, Ananta, field team",
-        "Stewart, Scott, field team",
-        "Hanlon, Stephanie, field team",
-        "Edwards, Cory, field team",
-        "Texas Tech University, contractor"
-    ],
-    "contributors": [
-        {
-            "akboy, serra": "https://www.loc.gov/search/?fa=contributor:akboy,+serra&fo=json"
-        },
-        {
-            "bartholdi, frederic auguste": "https://www.loc.gov/search/?fa=contributor:bartholdi,+frederic+auguste&fo=json"
-        },
-        {
-            "boucher, jack e.": "https://www.loc.gov/search/?fa=contributor:boucher,+jack+e.&fo=json"
-        },
-        {
-            "bruns, susan": "https://www.loc.gov/search/?fa=contributor:bruns,+susan&fo=json"
-        },
-        {
-            "buerglener, robert": "https://www.loc.gov/search/?fa=contributor:buerglener,+robert&fo=json"
-        },
-        {
-            "burns and roe engineers": "https://www.loc.gov/search/?fa=contributor:burns+and+roe+engineers&fo=json"
-        },
-        {
-            "christianson, justine": "https://www.loc.gov/search/?fa=contributor:christianson,+justine&fo=json"
-        },
-        {
-            "depalo, frank": "https://www.loc.gov/search/?fa=contributor:depalo,+frank&fo=json"
-        },
-        {
-            "edwards, cory": "https://www.loc.gov/search/?fa=contributor:edwards,+cory&fo=json"
-        },
-        {
-            "eiffel, gustav": "https://www.loc.gov/search/?fa=contributor:eiffel,+gustav&fo=json"
-        },
-        {
-            "hanlon, stephanie": "https://www.loc.gov/search/?fa=contributor:hanlon,+stephanie&fo=json"
-        },
-        {
-            "hill, glenn e.": "https://www.loc.gov/search/?fa=contributor:hill,+glenn+e.&fo=json"
-        },
-        {
-            "historic american engineering record": "https://www.loc.gov/search/?fa=contributor:historic+american+engineering+record&fo=json"
-        },
-        {
-            "hughes, karen": "https://www.loc.gov/search/?fa=contributor:hughes,+karen&fo=json"
-        },
-        {
-            "hunt, richard morris": "https://www.loc.gov/search/?fa=contributor:hunt,+richard+morris&fo=json"
-        },
-        {
-            "jandoli, liz": "https://www.loc.gov/search/?fa=contributor:jandoli,+liz&fo=json"
-        },
-        {
-            "lockett, dana": "https://www.loc.gov/search/?fa=contributor:lockett,+dana&fo=json"
-        },
-        {
-            "louden, elizabeth i.": "https://www.loc.gov/search/?fa=contributor:louden,+elizabeth+i.&fo=json"
-        },
-        {
-            "lowe, jet": "https://www.loc.gov/search/?fa=contributor:lowe,+jet&fo=json"
-        },
-        {
-            "patel, ananta": "https://www.loc.gov/search/?fa=contributor:patel,+ananta&fo=json"
-        },
-        {
-            "pierce, ryan": "https://www.loc.gov/search/?fa=contributor:pierce,+ryan&fo=json"
-        },
-        {
-            "snowden, chris": "https://www.loc.gov/search/?fa=contributor:snowden,+chris&fo=json"
-        },
-        {
-            "stewart, scott": "https://www.loc.gov/search/?fa=contributor:stewart,+scott&fo=json"
-        },
-        {
-            "strong, craig": "https://www.loc.gov/search/?fa=contributor:strong,+craig&fo=json"
-        },
-        {
-            "tereso, john": "https://www.loc.gov/search/?fa=contributor:tereso,+john&fo=json"
-        },
-        {
-            "texas tech university": "https://www.loc.gov/search/?fa=contributor:texas+tech+university&fo=json"
-        },
-        {
-            "wheaton, ann": "https://www.loc.gov/search/?fa=contributor:wheaton,+ann&fo=json"
-        },
-        {
-            "white, john poston": "https://www.loc.gov/search/?fa=contributor:white,+john+poston&fo=json"
-        }
-    ],
-    "control_number": "ny1251",
-    "created": "2024-12-04T16:49:01Z",
-    "created_published": [
-        "Documentation compiled after 1968"
-    ],
-    "created_published_date": "Documentation compiled after 1968",
-    "description": [
-        "Photo(s): 404 | Color Transparencies: 59 | Measured Drawing(s): 41 | Data Page(s): 14 | Photo Caption Page(s): 33"
-    ],
-    "digitized": true,
-    "display_offsite": true,
-    "extract_timestamp": "2025-01-13T21:17:08.540Z",
-    "extract_urls": [
-        "http://www.loc.gov/pictures/collection/hh/item/ny1251/#hh-5"
-    ],
-    "format": [
-        {
-            "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
-        }
-    ],
-    "group": [
-        "hh-5",
-        "habshaer-group-5"
-    ],
-    "hassegments": true,
-    "id": "http://www.loc.gov/item/ny1251/",
-    "image_url": [
-        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/color/570000c_150px.jpg#h=120&w=150",
-        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/color/570000cr.jpg#h=511&w=640",
-        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/color/570000cv.jpg#h=818&w=1024"
-    ],
-    "index": 28,
-    "item": {
-        "call_number": "HAER NY,31-NEYO,89-",
-        "contributor_names": [
-            "Eiffel, Gustav,  ",
-            "Bartholdi, Frederic Auguste,  ",
-            "Hunt, Richard Morris,  ",
-            "Boucher, Jack E., photographer ",
-            "Lowe, Jet, photographer ",
-            "DePalo, Frank, photographer ",
-            "Buerglener, Robert, historian ",
-            "Jandoli, Liz, transmitter ",
-            "Lockett, Dana, project manager ",
-            "Christianson, Justine, transmitter ",
-            "Lockett, Dana, project manager ",
-            "Christianson, Justine, transmitter ",
-            "Burns and Roe Engineers, field team ",
-            "Tereso, John, project manager ",
-            "Wheaton, Ann, delineator ",
-            "Strong, Craig, delineator ",
-            "Akboy, Serra, field team ",
-            "Bruns, Susan, field team ",
-            "Pierce, Ryan, field team ",
-            "Louden, Elizabeth I., field team ",
-            "Hill, Glenn E., field team ",
-            "White, John Poston, field team ",
-            "Snowden, Chris, field team ",
-            "Hughes, Karen, field team ",
-            "Patel, Ananta, field team ",
-            "Stewart, Scott, field team ",
-            "Hanlon, Stephanie, field team ",
-            "Edwards, Cory, field team ",
-            "Texas Tech University, contractor "
-        ],
-        "control_number": "ny1251",
-        "created": "2024-12-04T16:49:01Z",
-        "created_published": "Documentation compiled after 1968",
-        "created_published_date": "Documentation compiled after 1968",
-        "creators": [
+    "item" : {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "restriction": null, 
+        "other_number": null, 
+        "resource_links": [
+            "https://hdl.loc.gov/loc.pnp/hhh.ny1251/color.570027c"
+        ], 
+        "title": "258. Close-up detail of left foot  - Statue of Liberty, Liberty Island, Manhattan, New York County, NY", 
+        "related_items": [], 
+        "medium_brief": "5 x 7 in.", 
+        "service_medium": "https://cdn.loc.gov/service/pnp/habshaer/ny/ny1200/ny1251/color/570027cr.jpg", 
+        "collections": [
             {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Historic%20American%20Engineering%20Record&co=hh",
-                "role": "creator",
-                "title": "Historic American Engineering Record"
-            },
+                "code": "hh", 
+                "link": "https://www.loc.gov/pictures/collection/hh/", 
+                "title": "Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscapes Survey"
+            }, 
             {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Eiffel%2C%20Gustav&co=hh",
-                "role": "",
-                "title": "Eiffel, Gustav"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Bartholdi%2C%20Frederic%20Auguste&co=hh",
-                "role": "",
-                "title": "Bartholdi, Frederic Auguste"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Hunt%2C%20Richard%20Morris&co=hh",
-                "role": "",
-                "title": "Hunt, Richard Morris"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Boucher%2C%20Jack%20E.&co=hh",
-                "role": "photographer",
-                "title": "Boucher, Jack E."
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Lowe%2C%20Jet&co=hh",
-                "role": "photographer",
-                "title": "Lowe, Jet"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=DePalo%2C%20Frank&co=hh",
-                "role": "photographer",
-                "title": "DePalo, Frank"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Buerglener%2C%20Robert&co=hh",
-                "role": "historian",
-                "title": "Buerglener, Robert"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Jandoli%2C%20Liz&co=hh",
-                "role": "transmitter",
-                "title": "Jandoli, Liz"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Lockett%2C%20Dana&co=hh",
-                "role": "project manager",
-                "title": "Lockett, Dana"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Christianson%2C%20Justine&co=hh",
-                "role": "transmitter",
-                "title": "Christianson, Justine"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Lockett%2C%20Dana&co=hh",
-                "role": "project manager",
-                "title": "Lockett, Dana"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Christianson%2C%20Justine&co=hh",
-                "role": "transmitter",
-                "title": "Christianson, Justine"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Burns%20and%20Roe%20Engineers&co=hh",
-                "role": "field team",
-                "title": "Burns and Roe Engineers"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Tereso%2C%20John&co=hh",
-                "role": "project manager",
-                "title": "Tereso, John"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Wheaton%2C%20Ann&co=hh",
-                "role": "delineator",
-                "title": "Wheaton, Ann"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Strong%2C%20Craig&co=hh",
-                "role": "delineator",
-                "title": "Strong, Craig"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Akboy%2C%20Serra&co=hh",
-                "role": "field team",
-                "title": "Akboy, Serra"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Bruns%2C%20Susan&co=hh",
-                "role": "field team",
-                "title": "Bruns, Susan"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Pierce%2C%20Ryan&co=hh",
-                "role": "field team",
-                "title": "Pierce, Ryan"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Louden%2C%20Elizabeth%20I.&co=hh",
-                "role": "field team",
-                "title": "Louden, Elizabeth I."
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Hill%2C%20Glenn%20E.&co=hh",
-                "role": "field team",
-                "title": "Hill, Glenn E."
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=White%2C%20John%20Poston&co=hh",
-                "role": "field team",
-                "title": "White, John Poston"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Snowden%2C%20Chris&co=hh",
-                "role": "field team",
-                "title": "Snowden, Chris"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Hughes%2C%20Karen&co=hh",
-                "role": "field team",
-                "title": "Hughes, Karen"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Patel%2C%20Ananta&co=hh",
-                "role": "field team",
-                "title": "Patel, Ananta"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Stewart%2C%20Scott&co=hh",
-                "role": "field team",
-                "title": "Stewart, Scott"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Hanlon%2C%20Stephanie&co=hh",
-                "role": "field team",
-                "title": "Hanlon, Stephanie"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Edwards%2C%20Cory&co=hh",
-                "role": "field team",
-                "title": "Edwards, Cory"
-            },
-            {
-                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Texas%20Tech%20University&co=hh",
-                "role": "contractor",
-                "title": "Texas Tech University"
+                "code": "ammem", 
+                "link": "https://memory.loc.gov/", 
+                "title": "American Memory"
             }
-        ],
-        "display_offsite": true,
-        "id": "ny1251",
-        "latitude / longitude": "40.689211,-74.044643",
-        "link": "https://www.loc.gov/pictures/item/ny1251/",
-        "medium_brief": "Photo(s): 404, Color Transparencies: 59, Measured Drawing(s): 41, Data Page(s): 14, Photo Caption Page(s): 33",
+        ], 
+        "part_of_group": "Photograph ny1251", 
+        "stmt_of_responsibility": null, 
+        "other_titles": null, 
+        "link": "https://www.loc.gov/pictures/item/ny1251.color.570027c/", 
+        "other_control_numbers": [], 
+        "notes": [], 
+        "modified": "2024-12-04T16:49:04Z", 
+        "summary": null, 
+        "formats": [], 
+        "marc": null, 
         "mediums": [
-            "Photo(s): 404 ",
-            "Color Transparencies: 59 ",
-            "Measured Drawing(s): 41 ",
-            "Data Page(s): 14 ",
-            "Photo Caption Page(s): 33 "
-        ],
-        "modified": "2024-12-13T20:38:49Z",
-        "notes": [
-            "Significance: Donated by citizens of France to celebrate Franco-American friendship, the Statue of Liberty is significant for its physical and symbolic characteristics. Richard Morris Hunt prepared the plans for the 89 foot high pedestal; French engineer Alexandre Gustav Eiffel designed the iron framework which supports the copper sheathing. Many consider this frame noteworthy in itself, because of its ability to support an irregularly-shaped structure subject to high winds.\n\nSymbolically, the Statue of Liberty reflects the political ideals of the late nineteenth century. It commemorates America's founding principles of liberty, freedom, and opportunity in America for all. More than sixteen million immigrants passed by the Statue of Liberty on the way to the Ellis Island Immigration Station. ",
-            "Unprocessed Field note material exists for this structure: N1456 ",
-            "Unprocessed Field note material exists for this structure: N1514 ",
-            "Survey number: HAER NY-138 ",
-            "Building/structure dates: 1886 Initial Construction ",
-            "Building/structure dates: 1972 Subsequent Work ",
-            "Building/structure dates: 1984-1986 Subsequent Work ",
-            "National Register of Historic Places NRIS Number: 66000058 "
-        ],
-        "other_title": [
-            "Statue of Liberty National Monument"
-        ],
-        "part_of": "Historic American Engineering Record (Library of Congress)",
-        "part_of_group": "Survey Number ny1251",
+            {
+                "medium": "5 x 7 in.", 
+                "label": null
+            }
+        ], 
+        "group_has_items": false, 
+        "thumb_gallery": "https://cdn.loc.gov/service/pnp/habshaer/ny/ny1200/ny1251/color/570027c_150px.jpg", 
+        "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    http://www.loc.gov/rr/print/res/114_habs.html", 
+        "display_offsite": true, 
+        "related_names": [], 
+        "created_published": "1984", 
+        "title_translation": null, 
+        "id": "ny1251.color.570027c", 
+        "contents": null, 
+        "raw_collections": [
+            "diof", 
+            "hh"
+        ], 
+        "call_number": "HAER NY,31-NEYO,89--258 (CT)", 
+        "sort_date": "1984", 
+        "subjects": [], 
+        "source_modified": "2024-12-04T16:48:00Z", 
+        "part_of": null, 
+        "terms": [], 
+        "reproduction_number": "HAER NY,31-NEYO,89--258 (CT)", 
+        "repository": "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print", 
+        "service_low": "https://cdn.loc.gov/service/pnp/habshaer/ny/ny1200/ny1251/color/570027c_150px.jpg", 
+        "date": "1984", 
+        "created": "2024-12-04T16:49:04Z", 
+        "control_number": "ny1251.color.570027c", 
         "place": [
             {
-                "latitude": "40.689211",
-                "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York--New%20York%20County&co=hh",
-                "longitude": "-74.044643",
+                "latitude": "40.689211", 
+                "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York--New%20York%20County", 
+                "longitude": "-74.044643", 
                 "title": "New York--New York County"
-            },
+            }, 
             {
-                "latitude": "40.689211",
-                "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York&co=hh",
-                "longitude": "-74.044643",
+                "latitude": "40.689211", 
+                "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York", 
+                "longitude": "-74.044643", 
                 "title": "New York"
             }
-        ],
-        "raw_collections": [
-            "diof",
-            "hh",
-            "survey"
-        ],
-        "repository": "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
-        "resource_links": [
-            "https://tile.loc.gov/storage-services/master/pnp/habshaer/ny/ny1200/ny1251/data/ny1251data.pdf",
-            "https://tile.loc.gov/storage-services/master/pnp/habshaer/ny/ny1200/ny1251/data/ny1251cap.pdf",
-            "https://stage.loc.gov/pictures/search/?q=Photograph: ny1251&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true",
-            "https://stage.loc.gov/pictures/search/?q=Drawing: ny1251&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
-        ],
-        "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
-        "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
-        "service_low": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/color/570000c_150px.jpg?q=ny1251.color.570000c&c=463&st=gallery",
-        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/color/570000cr.jpg?q=ny1251.color.570000c&c=463&st=gallery",
-        "source_created": "1970-01-01T00:00:00Z",
-        "source_modified": "2024-12-04T16:48:00Z",
-        "subject_headings": [
-            "national parks & reserves",
-            "visitors' centers",
-            "galleries & museums",
-            "public sculpture",
-            "immigrants",
-            "forts & fortifications",
-            "World Heritage sites",
-            "New York--New York County"
-        ],
-        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/color/570000c_150px.jpg?q=ny1251.color.570000c&c=463&st=gallery",
-        "title": "Statue of Liberty, Liberty Island, Manhattan, New York County, NY"
+        ], 
+        "creators": [
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Lowe%2C%20Jet", 
+                "role": "creator", 
+                "title": "Lowe, Jet"
+            }
+        ], 
+        "created_published_date": "1984"
     },
-    "language": [
-        "english"
-    ],
-    "languages": [
-        {
-            "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    "collection" : {
+            "_version_": 1821170558246584320,
+            "access_restricted": false,
+            "aka": [
+                "https://www.loc.gov/pictures/item/ny1251/",
+                "http://www.loc.gov/item/ny1251/",
+                "http://www.loc.gov/pictures/item/ny1251/",
+                "https://www.loc.gov/pictures/collection/hh/item/ny1251/",
+                "http://www.loc.gov/pictures/collection/hh/item/ny1251/",
+                "https://cdn.loc.gov/master/pnp/habshaer/ny/ny1200/ny1251/data/ny1251data.pdf",
+                "http://cdn.loc.gov/master/pnp/habshaer/ny/ny1200/ny1251/data/ny1251data.pdf",
+                "https://cdn.loc.gov/master/pnp/habshaer/ny/ny1200/ny1251/data/ny1251cap.pdf",
+                "http://cdn.loc.gov/master/pnp/habshaer/ny/ny1200/ny1251/data/ny1251cap.pdf",
+                "https://stage.loc.gov/pictures/search/?q=photograph: ny1251&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+                "http://stage.loc.gov/pictures/search/?q=photograph: ny1251&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+                "https://stage.loc.gov/pictures/search/?q=drawing: ny1251&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+                "http://stage.loc.gov/pictures/search/?q=drawing: ny1251&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+                "http://www.loc.gov/resource/hhh.ny1251data/",
+                "http://www.loc.gov/resource/hhh.ny1251cap/",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet/",
+                "http://www.loc.gov/resource/hhh.ny1251.photos/",
+                "http://www.loc.gov/resource/hhh.ny1251.photos",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570000c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570001c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570002c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570003c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570004c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570005c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570006c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570007c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570008c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570009c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570010c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570011c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570012c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570013c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570014c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570015c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570016c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570017c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570018c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570019c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570020c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570021c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570022c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570023c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570024c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570025c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570026c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570027c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570028c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570029c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570030c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570031c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570032c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570033c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570034c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570035c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570036c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570037c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570038c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570039c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570040c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570041c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570042c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570043c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570044c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570045c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570046c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570047c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570048c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570049c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.570050c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.582537c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.582538c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.582539c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.582540c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.582541c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.582542c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.582543c",
+                "http://www.loc.gov/resource/hhh.ny1251.color.582544c",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120259p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120260p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120261p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120262p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120263p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120264p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120265p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120266p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120267p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120268p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120269p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120270p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120271p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120272p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120273p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120274p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120275p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120276p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120277p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120278p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120279p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120280p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120281p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120282p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120283p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120284p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120285p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120286p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120287p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120288p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120289p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120290p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120291p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120292p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120293p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120294p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120295p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120296p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120297p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120298p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120299p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120300p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120301p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120302p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120303p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120304p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120305p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120306p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120307p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120308p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120309p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120310p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120311p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120312p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120313p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120314p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120315p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120316p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120317p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120318p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120319p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120320p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120321p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120322p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120323p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120324p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120325p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120326p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120327p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120328p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120329p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120330p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120331p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120332p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120333p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120334p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120335p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120336p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120337p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120338p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120339p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120340p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120341p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120342p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120343p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120344p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120345p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120346p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120347p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120348p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120349p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120350p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120351p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120352p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120353p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120354p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120355p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120356p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120357p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120358p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120359p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120360p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120361p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120362p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120363p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120364p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120365p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120366p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120367p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120368p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120369p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120370p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120371p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120372p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120373p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120374p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120375p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120376p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120377p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120378p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120379p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120380p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120381p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120382p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120383p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120384p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120385p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120386p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120387p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120388p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120389p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120390p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120391p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120392p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120393p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120394p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120395p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120396p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120397p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120398p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120399p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120400p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120401p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120402p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120403p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120404p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120405p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120406p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120407p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120408p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120409p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120410p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120411p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120412p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120413p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120414p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120415p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120416p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120417p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120418p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120419p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120420p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120421p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120422p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120423p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120424p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120425p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120426p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120427p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120428p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120429p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120430p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120431p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120432p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120433p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120434p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120435p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120436p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120437p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120438p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120439p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120440p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120441p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120442p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120443p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120444p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120445p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120446p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120447p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120448p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120449p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120450p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120451p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120452p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120453p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120454p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120455p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120456p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120457p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120458p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120459p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120460p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120461p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120462p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120463p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120464p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120465p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120466p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120467p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120468p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120469p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120470p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120471p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120472p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120473p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120474p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120475p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120476p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120477p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120478p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120479p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120480p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120481p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120482p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120483p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120484p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120485p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120486p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120487p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.120488p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581359p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581360p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581361p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581362p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581363p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581364p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581365p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581366p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581367p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581368p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581369p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581370p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581371p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581372p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581373p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581374p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581375p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581376p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581377p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581378p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581379p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581380p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581381p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581382p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581383p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581384p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581385p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581386p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581387p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581388p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581389p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581390p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581391p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581392p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581393p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581394p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581395p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581396p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581397p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581398p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581399p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581400p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581401p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581402p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581403p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581404p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581405p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581406p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581407p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581408p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581409p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581410p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581411p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581412p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581413p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581414p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581415p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581416p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581417p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581418p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581419p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581420p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581421p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581422p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581423p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581424p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581425p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581426p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581427p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581428p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581429p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581430p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581431p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581432p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581433p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581434p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581435p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581436p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581437p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581438p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581439p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581440p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581441p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581442p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581443p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581444p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581445p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581446p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581447p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581448p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581449p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581450p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581451p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581452p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581453p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581454p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581455p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581456p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581457p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581458p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581459p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581460p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581461p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581462p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581463p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581464p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581465p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581466p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581467p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581468p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581469p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581470p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581471p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581472p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581473p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581474p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581475p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581476p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581477p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581478p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581479p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581480p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581481p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581482p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581483p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581484p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581485p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581486p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581487p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581488p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581489p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581490p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581491p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581492p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581493p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581494p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581495p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581496p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581497p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581498p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581499p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581500p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581501p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581502p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581503p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581504p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581505p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581506p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581507p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581508p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581509p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581510p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581511p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581512p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581513p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581514p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581515p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581516p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581517p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581518p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581519p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581520p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581521p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581522p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581523p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581524p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581525p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581526p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581527p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581528p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581529p",
+                "http://www.loc.gov/resource/hhh.ny1251.photos.581530p",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00001a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00002a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00003a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00004a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00005a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00006a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00007a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00008a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00009a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00010a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00011a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00012a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00013a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00014a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00015a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00016a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00017a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00018a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00019a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00020a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00021a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00022a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00023a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00024a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00025a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00026a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00027a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00028a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00029a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00030a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00031a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00032a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00033a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00034a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00035a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00036a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00037a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00038a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00039a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00040a",
+                "http://www.loc.gov/resource/hhh.ny1251.sheet.00041a"
+            ],
+            "call_number": "HAER NY,31-NEYO,89-",
+            "campaigns": [],
+            "contributor_names": [
+                "Historic American Engineering Record, creator",
+                "Eiffel, Gustav",
+                "Bartholdi, Frederic Auguste",
+                "Hunt, Richard Morris",
+                "Boucher, Jack E., photographer",
+                "Lowe, Jet, photographer",
+                "DePalo, Frank, photographer",
+                "Buerglener, Robert, historian",
+                "Jandoli, Liz, transmitter",
+                "Lockett, Dana, project manager",
+                "Christianson, Justine, transmitter",
+                "Lockett, Dana, project manager",
+                "Christianson, Justine, transmitter",
+                "Burns and Roe Engineers, field team",
+                "Tereso, John, project manager",
+                "Wheaton, Ann, delineator",
+                "Strong, Craig, delineator",
+                "Akboy, Serra, field team",
+                "Bruns, Susan, field team",
+                "Pierce, Ryan, field team",
+                "Louden, Elizabeth I., field team",
+                "Hill, Glenn E., field team",
+                "White, John Poston, field team",
+                "Snowden, Chris, field team",
+                "Hughes, Karen, field team",
+                "Patel, Ananta, field team",
+                "Stewart, Scott, field team",
+                "Hanlon, Stephanie, field team",
+                "Edwards, Cory, field team",
+                "Texas Tech University, contractor"
+            ],
+            "contributors": [
+                {
+                    "akboy, serra": "https://www.loc.gov/search/?fa=contributor:akboy,+serra&fo=json"
+                },
+                {
+                    "bartholdi, frederic auguste": "https://www.loc.gov/search/?fa=contributor:bartholdi,+frederic+auguste&fo=json"
+                },
+                {
+                    "boucher, jack e.": "https://www.loc.gov/search/?fa=contributor:boucher,+jack+e.&fo=json"
+                },
+                {
+                    "bruns, susan": "https://www.loc.gov/search/?fa=contributor:bruns,+susan&fo=json"
+                },
+                {
+                    "buerglener, robert": "https://www.loc.gov/search/?fa=contributor:buerglener,+robert&fo=json"
+                },
+                {
+                    "burns and roe engineers": "https://www.loc.gov/search/?fa=contributor:burns+and+roe+engineers&fo=json"
+                },
+                {
+                    "christianson, justine": "https://www.loc.gov/search/?fa=contributor:christianson,+justine&fo=json"
+                },
+                {
+                    "depalo, frank": "https://www.loc.gov/search/?fa=contributor:depalo,+frank&fo=json"
+                },
+                {
+                    "edwards, cory": "https://www.loc.gov/search/?fa=contributor:edwards,+cory&fo=json"
+                },
+                {
+                    "eiffel, gustav": "https://www.loc.gov/search/?fa=contributor:eiffel,+gustav&fo=json"
+                },
+                {
+                    "hanlon, stephanie": "https://www.loc.gov/search/?fa=contributor:hanlon,+stephanie&fo=json"
+                },
+                {
+                    "hill, glenn e.": "https://www.loc.gov/search/?fa=contributor:hill,+glenn+e.&fo=json"
+                },
+                {
+                    "historic american engineering record": "https://www.loc.gov/search/?fa=contributor:historic+american+engineering+record&fo=json"
+                },
+                {
+                    "hughes, karen": "https://www.loc.gov/search/?fa=contributor:hughes,+karen&fo=json"
+                },
+                {
+                    "hunt, richard morris": "https://www.loc.gov/search/?fa=contributor:hunt,+richard+morris&fo=json"
+                },
+                {
+                    "jandoli, liz": "https://www.loc.gov/search/?fa=contributor:jandoli,+liz&fo=json"
+                },
+                {
+                    "lockett, dana": "https://www.loc.gov/search/?fa=contributor:lockett,+dana&fo=json"
+                },
+                {
+                    "louden, elizabeth i.": "https://www.loc.gov/search/?fa=contributor:louden,+elizabeth+i.&fo=json"
+                },
+                {
+                    "lowe, jet": "https://www.loc.gov/search/?fa=contributor:lowe,+jet&fo=json"
+                },
+                {
+                    "patel, ananta": "https://www.loc.gov/search/?fa=contributor:patel,+ananta&fo=json"
+                },
+                {
+                    "pierce, ryan": "https://www.loc.gov/search/?fa=contributor:pierce,+ryan&fo=json"
+                },
+                {
+                    "snowden, chris": "https://www.loc.gov/search/?fa=contributor:snowden,+chris&fo=json"
+                },
+                {
+                    "stewart, scott": "https://www.loc.gov/search/?fa=contributor:stewart,+scott&fo=json"
+                },
+                {
+                    "strong, craig": "https://www.loc.gov/search/?fa=contributor:strong,+craig&fo=json"
+                },
+                {
+                    "tereso, john": "https://www.loc.gov/search/?fa=contributor:tereso,+john&fo=json"
+                },
+                {
+                    "texas tech university": "https://www.loc.gov/search/?fa=contributor:texas+tech+university&fo=json"
+                },
+                {
+                    "wheaton, ann": "https://www.loc.gov/search/?fa=contributor:wheaton,+ann&fo=json"
+                },
+                {
+                    "white, john poston": "https://www.loc.gov/search/?fa=contributor:white,+john+poston&fo=json"
+                }
+            ],
+            "control_number": "ny1251",
+            "created": "2024-12-04T16:49:01Z",
+            "created_published": [
+                "Documentation compiled after 1968"
+            ],
+            "created_published_date": "Documentation compiled after 1968",
+            "description": [
+                "Photo(s): 404 | Color Transparencies: 59 | Measured Drawing(s): 41 | Data Page(s): 14 | Photo Caption Page(s): 33"
+            ],
+            "digitized": true,
+            "display_offsite": true,
+            "extract_timestamp": "2025-01-13T21:17:08.540Z",
+            "extract_urls": [
+                "http://www.loc.gov/pictures/collection/hh/item/ny1251/#hh-5"
+            ],
+            "format": [
+                {
+                    "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+                }
+            ],
+            "group": [
+                "hh-5",
+                "habshaer-group-5"
+            ],
+            "hassegments": true,
+            "id": "http://www.loc.gov/item/ny1251/",
+            "image_url": [
+                "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/color/570000c_150px.jpg#h=120&w=150",
+                "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/color/570000cr.jpg#h=511&w=640",
+                "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/color/570000cv.jpg#h=818&w=1024"
+            ],
+            "index": 28,
+            "item": {
+                "call_number": "HAER NY,31-NEYO,89-",
+                "contributor_names": [
+                    "Eiffel, Gustav,  ",
+                    "Bartholdi, Frederic Auguste,  ",
+                    "Hunt, Richard Morris,  ",
+                    "Boucher, Jack E., photographer ",
+                    "Lowe, Jet, photographer ",
+                    "DePalo, Frank, photographer ",
+                    "Buerglener, Robert, historian ",
+                    "Jandoli, Liz, transmitter ",
+                    "Lockett, Dana, project manager ",
+                    "Christianson, Justine, transmitter ",
+                    "Lockett, Dana, project manager ",
+                    "Christianson, Justine, transmitter ",
+                    "Burns and Roe Engineers, field team ",
+                    "Tereso, John, project manager ",
+                    "Wheaton, Ann, delineator ",
+                    "Strong, Craig, delineator ",
+                    "Akboy, Serra, field team ",
+                    "Bruns, Susan, field team ",
+                    "Pierce, Ryan, field team ",
+                    "Louden, Elizabeth I., field team ",
+                    "Hill, Glenn E., field team ",
+                    "White, John Poston, field team ",
+                    "Snowden, Chris, field team ",
+                    "Hughes, Karen, field team ",
+                    "Patel, Ananta, field team ",
+                    "Stewart, Scott, field team ",
+                    "Hanlon, Stephanie, field team ",
+                    "Edwards, Cory, field team ",
+                    "Texas Tech University, contractor "
+                ],
+                "control_number": "ny1251",
+                "created": "2024-12-04T16:49:01Z",
+                "created_published": "Documentation compiled after 1968",
+                "created_published_date": "Documentation compiled after 1968",
+                "creators": [
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Historic%20American%20Engineering%20Record&co=hh",
+                        "role": "creator",
+                        "title": "Historic American Engineering Record"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Eiffel%2C%20Gustav&co=hh",
+                        "role": "",
+                        "title": "Eiffel, Gustav"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Bartholdi%2C%20Frederic%20Auguste&co=hh",
+                        "role": "",
+                        "title": "Bartholdi, Frederic Auguste"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Hunt%2C%20Richard%20Morris&co=hh",
+                        "role": "",
+                        "title": "Hunt, Richard Morris"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Boucher%2C%20Jack%20E.&co=hh",
+                        "role": "photographer",
+                        "title": "Boucher, Jack E."
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Lowe%2C%20Jet&co=hh",
+                        "role": "photographer",
+                        "title": "Lowe, Jet"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=DePalo%2C%20Frank&co=hh",
+                        "role": "photographer",
+                        "title": "DePalo, Frank"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Buerglener%2C%20Robert&co=hh",
+                        "role": "historian",
+                        "title": "Buerglener, Robert"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Jandoli%2C%20Liz&co=hh",
+                        "role": "transmitter",
+                        "title": "Jandoli, Liz"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Lockett%2C%20Dana&co=hh",
+                        "role": "project manager",
+                        "title": "Lockett, Dana"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Christianson%2C%20Justine&co=hh",
+                        "role": "transmitter",
+                        "title": "Christianson, Justine"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Lockett%2C%20Dana&co=hh",
+                        "role": "project manager",
+                        "title": "Lockett, Dana"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Christianson%2C%20Justine&co=hh",
+                        "role": "transmitter",
+                        "title": "Christianson, Justine"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Burns%20and%20Roe%20Engineers&co=hh",
+                        "role": "field team",
+                        "title": "Burns and Roe Engineers"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Tereso%2C%20John&co=hh",
+                        "role": "project manager",
+                        "title": "Tereso, John"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Wheaton%2C%20Ann&co=hh",
+                        "role": "delineator",
+                        "title": "Wheaton, Ann"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Strong%2C%20Craig&co=hh",
+                        "role": "delineator",
+                        "title": "Strong, Craig"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Akboy%2C%20Serra&co=hh",
+                        "role": "field team",
+                        "title": "Akboy, Serra"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Bruns%2C%20Susan&co=hh",
+                        "role": "field team",
+                        "title": "Bruns, Susan"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Pierce%2C%20Ryan&co=hh",
+                        "role": "field team",
+                        "title": "Pierce, Ryan"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Louden%2C%20Elizabeth%20I.&co=hh",
+                        "role": "field team",
+                        "title": "Louden, Elizabeth I."
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Hill%2C%20Glenn%20E.&co=hh",
+                        "role": "field team",
+                        "title": "Hill, Glenn E."
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=White%2C%20John%20Poston&co=hh",
+                        "role": "field team",
+                        "title": "White, John Poston"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Snowden%2C%20Chris&co=hh",
+                        "role": "field team",
+                        "title": "Snowden, Chris"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Hughes%2C%20Karen&co=hh",
+                        "role": "field team",
+                        "title": "Hughes, Karen"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Patel%2C%20Ananta&co=hh",
+                        "role": "field team",
+                        "title": "Patel, Ananta"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Stewart%2C%20Scott&co=hh",
+                        "role": "field team",
+                        "title": "Stewart, Scott"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Hanlon%2C%20Stephanie&co=hh",
+                        "role": "field team",
+                        "title": "Hanlon, Stephanie"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Edwards%2C%20Cory&co=hh",
+                        "role": "field team",
+                        "title": "Edwards, Cory"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Texas%20Tech%20University&co=hh",
+                        "role": "contractor",
+                        "title": "Texas Tech University"
+                    }
+                ],
+                "display_offsite": true,
+                "id": "ny1251",
+                "latitude / longitude": "40.689211,-74.044643",
+                "link": "https://www.loc.gov/pictures/item/ny1251/",
+                "medium_brief": "Photo(s): 404, Color Transparencies: 59, Measured Drawing(s): 41, Data Page(s): 14, Photo Caption Page(s): 33",
+                "mediums": [
+                    "Photo(s): 404 ",
+                    "Color Transparencies: 59 ",
+                    "Measured Drawing(s): 41 ",
+                    "Data Page(s): 14 ",
+                    "Photo Caption Page(s): 33 "
+                ],
+                "modified": "2024-12-13T20:38:49Z",
+                "notes": [
+                    "Significance: Donated by citizens of France to celebrate Franco-American friendship, the Statue of Liberty is significant for its physical and symbolic characteristics. Richard Morris Hunt prepared the plans for the 89 foot high pedestal; French engineer Alexandre Gustav Eiffel designed the iron framework which supports the copper sheathing. Many consider this frame noteworthy in itself, because of its ability to support an irregularly-shaped structure subject to high winds.\n\nSymbolically, the Statue of Liberty reflects the political ideals of the late nineteenth century. It commemorates America's founding principles of liberty, freedom, and opportunity in America for all. More than sixteen million immigrants passed by the Statue of Liberty on the way to the Ellis Island Immigration Station. ",
+                    "Unprocessed Field note material exists for this structure: N1456 ",
+                    "Unprocessed Field note material exists for this structure: N1514 ",
+                    "Survey number: HAER NY-138 ",
+                    "Building/structure dates: 1886 Initial Construction ",
+                    "Building/structure dates: 1972 Subsequent Work ",
+                    "Building/structure dates: 1984-1986 Subsequent Work ",
+                    "National Register of Historic Places NRIS Number: 66000058 "
+                ],
+                "other_title": [
+                    "Statue of Liberty National Monument"
+                ],
+                "part_of": "Historic American Engineering Record (Library of Congress)",
+                "part_of_group": "Survey Number ny1251",
+                "place": [
+                    {
+                        "latitude": "40.689211",
+                        "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York--New%20York%20County&co=hh",
+                        "longitude": "-74.044643",
+                        "title": "New York--New York County"
+                    },
+                    {
+                        "latitude": "40.689211",
+                        "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York&co=hh",
+                        "longitude": "-74.044643",
+                        "title": "New York"
+                    }
+                ],
+                "raw_collections": [
+                    "diof",
+                    "hh",
+                    "survey"
+                ],
+                "repository": "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+                "resource_links": [
+                    "https://tile.loc.gov/storage-services/master/pnp/habshaer/ny/ny1200/ny1251/data/ny1251data.pdf",
+                    "https://tile.loc.gov/storage-services/master/pnp/habshaer/ny/ny1200/ny1251/data/ny1251cap.pdf",
+                    "https://stage.loc.gov/pictures/search/?q=Photograph: ny1251&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true",
+                    "https://stage.loc.gov/pictures/search/?q=Drawing: ny1251&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+                ],
+                "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+                "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+                "service_low": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/color/570000c_150px.jpg?q=ny1251.color.570000c&c=463&st=gallery",
+                "service_medium": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/color/570000cr.jpg?q=ny1251.color.570000c&c=463&st=gallery",
+                "source_created": "1970-01-01T00:00:00Z",
+                "source_modified": "2024-12-04T16:48:00Z",
+                "subject_headings": [
+                    "national parks & reserves",
+                    "visitors' centers",
+                    "galleries & museums",
+                    "public sculpture",
+                    "immigrants",
+                    "forts & fortifications",
+                    "World Heritage sites",
+                    "New York--New York County"
+                ],
+                "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/color/570000c_150px.jpg?q=ny1251.color.570000c&c=463&st=gallery",
+                "title": "Statue of Liberty, Liberty Island, Manhattan, New York County, NY"
+            },
+            "language": [
+                "english"
+            ],
+            "languages": [
+                {
+                    "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+                }
+            ],
+            "latitude / longitude": "40.689211,-74.044643",
+            "latlong": [
+                40.689211,
+                -74.044643
+            ],
+            "link": "https://www.loc.gov/pictures/item/ny1251/",
+            "location": [
+                "new york county",
+                "new york"
+            ],
+            "location_str": "",
+            "locations": [
+                {
+                    "new york": "https://www.loc.gov/search/?fa=location:new+york&fo=json"
+                },
+                {
+                    "new york county": "https://www.loc.gov/search/?fa=location:new+york+county&fo=json"
+                }
+            ],
+            "locations_str": [
+                null
+            ],
+            "lonlat": [
+                -74.044643,
+                40.689211
+            ],
+            "medium": [
+                "Photo(s): 404 ",
+                "Color Transparencies: 59 ",
+                "Measured Drawing(s): 41 ",
+                "Data Page(s): 14 ",
+                "Photo Caption Page(s): 33 "
+            ],
+            "medium_brief": "Photo(s): 404, Color Transparencies: 59, Measured Drawing(s): 41, Data Page(s): 14, Photo Caption Page(s): 33",
+            "mime_type": [
+                "image/gif",
+                "application/pdf"
+            ],
+            "modified": "2024-12-13T20:38:49Z",
+            "notes": [
+                "Significance: Donated by citizens of France to celebrate Franco-American friendship, the Statue of Liberty is significant for its physical and symbolic characteristics. Richard Morris Hunt prepared the plans for the 89 foot high pedestal; French engineer Alexandre Gustav Eiffel designed the iron framework which supports the copper sheathing. Many consider this frame noteworthy in itself, because of its ability to support an irregularly-shaped structure subject to high winds.\n\nSymbolically, the Statue of Liberty reflects the political ideals of the late nineteenth century. It commemorates America's founding principles of liberty, freedom, and opportunity in America for all. More than sixteen million immigrants passed by the Statue of Liberty on the way to the Ellis Island Immigration Station. ",
+                "Unprocessed Field note material exists for this structure: N1456 ",
+                "Unprocessed Field note material exists for this structure: N1514 ",
+                "Survey number: HAER NY-138 ",
+                "Building/structure dates: 1886 Initial Construction ",
+                "Building/structure dates: 1972 Subsequent Work ",
+                "Building/structure dates: 1984-1986 Subsequent Work ",
+                "National Register of Historic Places NRIS Number: 66000058 "
+            ],
+            "online_format": [
+                "image",
+                "pdf"
+            ],
+            "original_format": [
+                "photo, print, drawing"
+            ],
+            "other_formats": [],
+            "other_title": [
+                "Statue of Liberty National Monument"
+            ],
+            "part_of_group": "Survey Number ny1251",
+            "partof": [
+                {
+                    "count": 45882,
+                    "title": "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+                    "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json"
+                },
+                {
+                    "count": 419258,
+                    "title": "american memory",
+                    "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+                },
+                {
+                    "count": 1163251,
+                    "title": "prints and photographs division",
+                    "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+                }
+            ],
+            "place": [
+                {
+                    "latitude": "40.689211",
+                    "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York--New%20York%20County&co=hh",
+                    "longitude": "-74.044643",
+                    "title": "New York--New York County"
+                },
+                {
+                    "latitude": "40.689211",
+                    "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York&co=hh",
+                    "longitude": "-74.044643",
+                    "title": "New York"
+                }
+            ],
+            "raw_collections": [
+                "diof",
+                "hh",
+                "survey"
+            ],
+            "related": {
+                "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=ny1251&st=gallery&sb=call_number#focus"
+            },
+            "repository": [
+                "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+            ],
+            "reproductions": [
+                "<h4>If Digital Images Are Displaying</h4>\r\n<p>You can download online images yourself.  Alternatively, you can  purchase copies of various types through Library of Congress Duplication  Services.</p>\r\n<p>HABS/HAER/HALS materials have generally been scanned at high resolution that is suitable for most publication purposes (see <a href=\"/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/technical-information/\">Digitizing the Collection</a> for further details about the digital images).</p>\r\n<ul class=\"plain margin-bottom-double-li list-plain-extra-margin\">\r\n\t<li><strong>Photographs--</strong>All photographs are printed from digital files to preserve the fragile originals. </li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Call Number and Item Number that appear under the  photograph in the multiple-image display (e.g., HAER, NY,52-BRIG,4-2). </li>\r\n\t\t<li>If possible, include a printout of the photograph. </li>\r\n\t</ul>\r\n\t<li><strong>Drawings--</strong>All drawings are printed from digital files to preserve the fragile originals. </li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Survey Number (e.g., HAER NY - 143) and Sheet  Number (e.g., \"Sheet 1 of 4\"), which appear on the edge of the drawing.  (NOTE: These numbers are visible in the Tiff \"Reference Image\" display.) </li>\r\n\t\t<li>If possible, include a printout of the drawing. </li>\r\n\t</ul>\r\n\t<li><strong>Data Pages</strong></li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Call Number in the catalog record. </li>\r\n\t</ul>\r\n</ul>\r\n<h4>If Digital Images Are Not Displaying</h4>\r\n<p>In the rare case that a digital image for HABS/HAER/HALS  documentation is not displaying online, select images for reproduction  through one of these methods:</p>\r\n<ul class=\"plain margin-bottom-double-li list-plain-extra-margin\">\r\n\t<li>Visit the Prints &amp; Photographs Reading Room and request to  view the group (general information about service in the reading room is  available at: <a href=\"https://www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>). It is best to contact reference staff in advance (see: <a href=\"https://www.loc.gov/rr/print/address.html\">https://www.loc.gov/rr/print/address.html</a>) to make sure the material is on site.  OR </li>\r\n\t<li>P&amp;P reading room staff can provide up to 15 quick copies of  items per calendar year (many original items in the holdings are too old  or fragile to make such copies, but generally HABS/HAER/HALS materials  are in good enough condition to be placed on photocopy machines). For  assistance, see our <a href=\"https://ask.loc.gov/prints-photographs/\">Ask a Librarian</a> page OR </li>\r\n\t<li>Hire a freelance researcher to do further selection for you (a list of researchers in available at: <a href=\"https://www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>). </li>\r\n\t<li>You can purchase copies of various types, including quick  copies, through Library of Congress Duplication Services (price lists,  contact information, and order forms for Library of Congress Duplication  Services are available on the <a href=\"https://www.loc.gov/preserv/pds/\">Duplication Services Web site</a>): </li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Call Number listed above. </li>\r\n\t\t<li>Look at the Medium field above. If it lists more than one item: </li>\r\n\t\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t\t<li>The entire group can be ordered as photocopies or high-quality copies. </li>\r\n\t\t\t<li>All the items in a particular medium (e.g., all drawings, all  photographs) can be ordered as photocopies or high-quality copies. </li>\r\n\t\t</ul>\r\n\t</ul>\r\n</ul>\r\n"
+            ],
+            "resource_links": [
+                "https://tile.loc.gov/storage-services/master/pnp/habshaer/ny/ny1200/ny1251/data/ny1251data.pdf",
+                "https://tile.loc.gov/storage-services/master/pnp/habshaer/ny/ny1200/ny1251/data/ny1251cap.pdf",
+                "https://stage.loc.gov/pictures/search/?q=Photograph: ny1251&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true",
+                "https://stage.loc.gov/pictures/search/?q=Drawing: ny1251&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+            ],
+            "resources": [
+                {
+                    "caption": "Photos from Survey HAER NY-138 ",
+                    "files": 461,
+                    "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/color/570000c_150px.jpg",
+                    "url": "https://www.loc.gov/resource/hhh.ny1251.photos"
+                },
+                {
+                    "caption": "Drawings from Survey HAER NY-138 ",
+                    "files": 41,
+                    "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/sheet/00001_150px.jpg",
+                    "url": "https://www.loc.gov/resource/hhh.ny1251.sheet"
+                },
+                {
+                    "caption": "Data Pages from Survey HAER NY-138 ",
+                    "files": 1,
+                    "image": "/static/images/original-format/manuscript-mixed-material.svg"
+                },
+                {
+                    "caption": "Photo Captions from Survey HAER NY-138 ",
+                    "files": 1,
+                    "image": "/static/images/original-format/manuscript-mixed-material.svg"
+                }
+            ],
+            "rights": [
+                "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/114_habs.html\">Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscape Survey (HABS/HAER/HALS) Collection - Rights and Restrictions Information</a> </p>\n\n"
+            ],
+            "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+            "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+            "score": 37.781452,
+            "shard": "00",
+            "shelf_id": "HAER NY,31-NEYO,89-",
+            "site": [
+                "pictures"
+            ],
+            "source_collection": "Historic American Engineering Record (Library of Congress)",
+            "source_created": "1970-01-01T00:00:00Z",
+            "source_modified": "2000-01-01T12:00:00Z",
+            "subject": [
+                "visitors' centers",
+                "national parks & reserves",
+                "immigrants",
+                "forts & fortifications",
+                "galleries & museums",
+                "public sculpture",
+                "world heritage sites"
+            ],
+            "subject_headings": [
+                "national parks & reserves",
+                "visitors' centers",
+                "galleries & museums",
+                "public sculpture",
+                "immigrants",
+                "forts & fortifications",
+                "World Heritage sites",
+                "New York--New York County"
+            ],
+            "subjects": [
+                {
+                    "forts & fortifications": "https://www.loc.gov/search/?fa=subject:forts+%26+fortifications&fo=json"
+                },
+                {
+                    "galleries & museums": "https://www.loc.gov/search/?fa=subject:galleries+%26+museums&fo=json"
+                },
+                {
+                    "immigrants": "https://www.loc.gov/search/?fa=subject:immigrants&fo=json"
+                },
+                {
+                    "national parks & reserves": "https://www.loc.gov/search/?fa=subject:national+parks+%26+reserves&fo=json"
+                },
+                {
+                    "public sculpture": "https://www.loc.gov/search/?fa=subject:public+sculpture&fo=json"
+                },
+                {
+                    "visitors' centers": "https://www.loc.gov/search/?fa=subject:visitors%27+centers&fo=json"
+                },
+                {
+                    "world heritage sites": "https://www.loc.gov/search/?fa=subject:world+heritage+sites&fo=json"
+                }
+            ],
+            "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/color/570000c_150px.jpg?q=ny1251.color.570000c&c=463&st=gallery",
+            "timestamp": "2025-01-13T21:26:25.547Z",
+            "title": "Statue of Liberty, Liberty Island, Manhattan, New York County, NY",
+            "type": [
+                "still image"
+            ],
+            "unrestricted": true,
+            "url": "https://www.loc.gov/item/ny1251/"
         }
-    ],
-    "latitude / longitude": "40.689211,-74.044643",
-    "latlong": [
-        40.689211,
-        -74.044643
-    ],
-    "link": "https://www.loc.gov/pictures/item/ny1251/",
-    "location": [
-        "new york county",
-        "new york"
-    ],
-    "location_str": "",
-    "locations": [
-        {
-            "new york": "https://www.loc.gov/search/?fa=location:new+york&fo=json"
-        },
-        {
-            "new york county": "https://www.loc.gov/search/?fa=location:new+york+county&fo=json"
-        }
-    ],
-    "locations_str": [
-        null
-    ],
-    "lonlat": [
-        -74.044643,
-        40.689211
-    ],
-    "medium": [
-        "Photo(s): 404 ",
-        "Color Transparencies: 59 ",
-        "Measured Drawing(s): 41 ",
-        "Data Page(s): 14 ",
-        "Photo Caption Page(s): 33 "
-    ],
-    "medium_brief": "Photo(s): 404, Color Transparencies: 59, Measured Drawing(s): 41, Data Page(s): 14, Photo Caption Page(s): 33",
-    "mime_type": [
-        "image/gif",
-        "application/pdf"
-    ],
-    "modified": "2024-12-13T20:38:49Z",
-    "notes": [
-        "Significance: Donated by citizens of France to celebrate Franco-American friendship, the Statue of Liberty is significant for its physical and symbolic characteristics. Richard Morris Hunt prepared the plans for the 89 foot high pedestal; French engineer Alexandre Gustav Eiffel designed the iron framework which supports the copper sheathing. Many consider this frame noteworthy in itself, because of its ability to support an irregularly-shaped structure subject to high winds.\n\nSymbolically, the Statue of Liberty reflects the political ideals of the late nineteenth century. It commemorates America's founding principles of liberty, freedom, and opportunity in America for all. More than sixteen million immigrants passed by the Statue of Liberty on the way to the Ellis Island Immigration Station. ",
-        "Unprocessed Field note material exists for this structure: N1456 ",
-        "Unprocessed Field note material exists for this structure: N1514 ",
-        "Survey number: HAER NY-138 ",
-        "Building/structure dates: 1886 Initial Construction ",
-        "Building/structure dates: 1972 Subsequent Work ",
-        "Building/structure dates: 1984-1986 Subsequent Work ",
-        "National Register of Historic Places NRIS Number: 66000058 "
-    ],
-    "online_format": [
-        "image",
-        "pdf"
-    ],
-    "original_format": [
-        "photo, print, drawing"
-    ],
-    "other_formats": [],
-    "other_title": [
-        "Statue of Liberty National Monument"
-    ],
-    "part_of_group": "Survey Number ny1251",
-    "partof": [
-        {
-            "count": 45882,
-            "title": "historic american buildings survey/historic american engineering record/historic american landscapes survey",
-            "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json"
-        },
-        {
-            "count": 419258,
-            "title": "american memory",
-            "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
-        },
-        {
-            "count": 1163251,
-            "title": "prints and photographs division",
-            "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
-        }
-    ],
-    "place": [
-        {
-            "latitude": "40.689211",
-            "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York--New%20York%20County&co=hh",
-            "longitude": "-74.044643",
-            "title": "New York--New York County"
-        },
-        {
-            "latitude": "40.689211",
-            "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York&co=hh",
-            "longitude": "-74.044643",
-            "title": "New York"
-        }
-    ],
-    "raw_collections": [
-        "diof",
-        "hh",
-        "survey"
-    ],
-    "related": {
-        "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=ny1251&st=gallery&sb=call_number#focus"
-    },
-    "repository": [
-        "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
-    ],
-    "reproductions": [
-        "<h4>If Digital Images Are Displaying</h4>\r\n<p>You can download online images yourself.  Alternatively, you can  purchase copies of various types through Library of Congress Duplication  Services.</p>\r\n<p>HABS/HAER/HALS materials have generally been scanned at high resolution that is suitable for most publication purposes (see <a href=\"/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/technical-information/\">Digitizing the Collection</a> for further details about the digital images).</p>\r\n<ul class=\"plain margin-bottom-double-li list-plain-extra-margin\">\r\n\t<li><strong>Photographs--</strong>All photographs are printed from digital files to preserve the fragile originals. </li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Call Number and Item Number that appear under the  photograph in the multiple-image display (e.g., HAER, NY,52-BRIG,4-2). </li>\r\n\t\t<li>If possible, include a printout of the photograph. </li>\r\n\t</ul>\r\n\t<li><strong>Drawings--</strong>All drawings are printed from digital files to preserve the fragile originals. </li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Survey Number (e.g., HAER NY - 143) and Sheet  Number (e.g., \"Sheet 1 of 4\"), which appear on the edge of the drawing.  (NOTE: These numbers are visible in the Tiff \"Reference Image\" display.) </li>\r\n\t\t<li>If possible, include a printout of the drawing. </li>\r\n\t</ul>\r\n\t<li><strong>Data Pages</strong></li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Call Number in the catalog record. </li>\r\n\t</ul>\r\n</ul>\r\n<h4>If Digital Images Are Not Displaying</h4>\r\n<p>In the rare case that a digital image for HABS/HAER/HALS  documentation is not displaying online, select images for reproduction  through one of these methods:</p>\r\n<ul class=\"plain margin-bottom-double-li list-plain-extra-margin\">\r\n\t<li>Visit the Prints &amp; Photographs Reading Room and request to  view the group (general information about service in the reading room is  available at: <a href=\"https://www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>). It is best to contact reference staff in advance (see: <a href=\"https://www.loc.gov/rr/print/address.html\">https://www.loc.gov/rr/print/address.html</a>) to make sure the material is on site.  OR </li>\r\n\t<li>P&amp;P reading room staff can provide up to 15 quick copies of  items per calendar year (many original items in the holdings are too old  or fragile to make such copies, but generally HABS/HAER/HALS materials  are in good enough condition to be placed on photocopy machines). For  assistance, see our <a href=\"https://ask.loc.gov/prints-photographs/\">Ask a Librarian</a> page OR </li>\r\n\t<li>Hire a freelance researcher to do further selection for you (a list of researchers in available at: <a href=\"https://www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>). </li>\r\n\t<li>You can purchase copies of various types, including quick  copies, through Library of Congress Duplication Services (price lists,  contact information, and order forms for Library of Congress Duplication  Services are available on the <a href=\"https://www.loc.gov/preserv/pds/\">Duplication Services Web site</a>): </li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Call Number listed above. </li>\r\n\t\t<li>Look at the Medium field above. If it lists more than one item: </li>\r\n\t\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t\t<li>The entire group can be ordered as photocopies or high-quality copies. </li>\r\n\t\t\t<li>All the items in a particular medium (e.g., all drawings, all  photographs) can be ordered as photocopies or high-quality copies. </li>\r\n\t\t</ul>\r\n\t</ul>\r\n</ul>\r\n"
-    ],
-    "resource_links": [
-        "https://tile.loc.gov/storage-services/master/pnp/habshaer/ny/ny1200/ny1251/data/ny1251data.pdf",
-        "https://tile.loc.gov/storage-services/master/pnp/habshaer/ny/ny1200/ny1251/data/ny1251cap.pdf",
-        "https://stage.loc.gov/pictures/search/?q=Photograph: ny1251&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true",
-        "https://stage.loc.gov/pictures/search/?q=Drawing: ny1251&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
-    ],
-    "resources": [
-        {
-            "caption": "Photos from Survey HAER NY-138 ",
-            "files": 461,
-            "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/color/570000c_150px.jpg",
-            "url": "https://www.loc.gov/resource/hhh.ny1251.photos"
-        },
-        {
-            "caption": "Drawings from Survey HAER NY-138 ",
-            "files": 41,
-            "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/sheet/00001_150px.jpg",
-            "url": "https://www.loc.gov/resource/hhh.ny1251.sheet"
-        },
-        {
-            "caption": "Data Pages from Survey HAER NY-138 ",
-            "files": 1,
-            "image": "/static/images/original-format/manuscript-mixed-material.svg"
-        },
-        {
-            "caption": "Photo Captions from Survey HAER NY-138 ",
-            "files": 1,
-            "image": "/static/images/original-format/manuscript-mixed-material.svg"
-        }
-    ],
-    "rights": [
-        "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/114_habs.html\">Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscape Survey (HABS/HAER/HALS) Collection - Rights and Restrictions Information</a> </p>\n\n"
-    ],
-    "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
-    "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
-    "score": 37.781452,
-    "shard": "00",
-    "shelf_id": "HAER NY,31-NEYO,89-",
-    "site": [
-        "pictures"
-    ],
-    "source_collection": "Historic American Engineering Record (Library of Congress)",
-    "source_created": "1970-01-01T00:00:00Z",
-    "source_modified": "2000-01-01T12:00:00Z",
-    "subject": [
-        "visitors' centers",
-        "national parks & reserves",
-        "immigrants",
-        "forts & fortifications",
-        "galleries & museums",
-        "public sculpture",
-        "world heritage sites"
-    ],
-    "subject_headings": [
-        "national parks & reserves",
-        "visitors' centers",
-        "galleries & museums",
-        "public sculpture",
-        "immigrants",
-        "forts & fortifications",
-        "World Heritage sites",
-        "New York--New York County"
-    ],
-    "subjects": [
-        {
-            "forts & fortifications": "https://www.loc.gov/search/?fa=subject:forts+%26+fortifications&fo=json"
-        },
-        {
-            "galleries & museums": "https://www.loc.gov/search/?fa=subject:galleries+%26+museums&fo=json"
-        },
-        {
-            "immigrants": "https://www.loc.gov/search/?fa=subject:immigrants&fo=json"
-        },
-        {
-            "national parks & reserves": "https://www.loc.gov/search/?fa=subject:national+parks+%26+reserves&fo=json"
-        },
-        {
-            "public sculpture": "https://www.loc.gov/search/?fa=subject:public+sculpture&fo=json"
-        },
-        {
-            "visitors' centers": "https://www.loc.gov/search/?fa=subject:visitors%27+centers&fo=json"
-        },
-        {
-            "world heritage sites": "https://www.loc.gov/search/?fa=subject:world+heritage+sites&fo=json"
-        }
-    ],
-    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ny/ny1200/ny1251/color/570000c_150px.jpg?q=ny1251.color.570000c&c=463&st=gallery",
-    "timestamp": "2025-01-13T21:26:25.547Z",
-    "title": "Statue of Liberty, Liberty Island, Manhattan, New York County, NY",
-    "type": [
-        "still image"
-    ],
-    "unrestricted": true,
-    "url": "https://www.loc.gov/item/ny1251/"
 }

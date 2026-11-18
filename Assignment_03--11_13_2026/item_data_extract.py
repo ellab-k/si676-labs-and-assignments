@@ -1,3 +1,4 @@
+import re
 import csv
 import glob
 import json
@@ -32,9 +33,9 @@ def get_item_data(baseURL, resource_link, params):
 
     Parameters
     ----------
-        baseURL (str):
-        params (dict):
-        resource_link (str):
+        baseURL (str): the baseURL for the link
+        params (dict): the parameters for the link
+        resource_link (str): the piece of the direct link to the resource not already represented by baseURL
 
     Returns
     -------
@@ -44,7 +45,7 @@ def get_item_data(baseURL, resource_link, params):
     item_response_json = item_response.json()
     return item_response_json.get('item')
 
-def create_item_json(output_dir, item_data, item_id):
+def create_item_json(output_dir, item_data):
     """
     Creates a json data file for the provided item saved to the provided directory.
 
@@ -58,6 +59,10 @@ def create_item_json(output_dir, item_data, item_id):
         json file: a json file with the item data dict. name follows format 'item_{internal_item_id}_metadata'
         item_id (str): the item LCCN
     """
+    for line in item_data:
+        item_id = re.search(r"http(s){0,1}:\/\/www.loc.gov\/item\/\\(d*)\/", line)
+    # try:
+        print(item_id.group(2))
     item_filename = output_dir + '/item_' + item_id + '_metadata.json'
     with open(item_filename, 'w', encoding='utf-8') as f:
         json.dump(item_data, f, indent=4)
@@ -75,9 +80,9 @@ def main():
     i = 0
     for i in range(len(data)):
         if i+1 < 10:
-            create_item_json(metadata_dir, get_item_data(baseURL, data[i]['link'], params), ('0' + str(i+1)))
-        else:
-            create_item_json(metadata_dir, get_item_data(baseURL, data[i]['link'], params), str(i+1))
+            create_item_json(metadata_dir, get_item_data(baseURL, data[i]['link'], params))
+        # else:
+            # create_item_json(metadata_dir, get_item_data(baseURL, data[i]['link'], params))
         i+=1
 
 
