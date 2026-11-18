@@ -1,0 +1,310 @@
+{
+    "_version_": 1731233064815689728,
+    "access_restricted": false,
+    "aka": [
+        "http://www.loc.gov/pictures/collection/fbj/item/2008675952/",
+        "http://www.loc.gov/item/2008675952/",
+        "http://www.loc.gov/pictures/item/2008675952/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.16652",
+        "http://www.loc.gov/resource/ppmsca.16652/",
+        "http://lccn.loc.gov/2008675952"
+    ],
+    "call_number": "LC-J717-X107- 8 [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+        "Johnston, Frances Benjamin, 1864-1952, photographer"
+    ],
+    "contributors": [
+        {
+            "johnston, frances benjamin": "https://www.loc.gov/search/?fa=contributor:johnston,+frances+benjamin&fo=json"
+        }
+    ],
+    "control_number": "",
+    "created": "2016-04-21T04:45:59Z",
+    "created_published": [
+        "[ca. 1920]"
+    ],
+    "created_published_date": "[ca. 1920]",
+    "date": "1920-01-01",
+    "dates": [
+        {
+            "1920": "https://www.loc.gov/search/?dates=1920/1920&fo=json"
+        }
+    ],
+    "description": [
+        "1 photograph : glass lantern slide, hand-colored ; 3.25 x 4 in."
+    ],
+    "digital_id": [
+        "ppmsca 16652 //hdl.loc.gov/loc.pnp/ppmsca.16652"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T23:28:17.624Z",
+    "extract_urls": [
+        "http://www.loc.gov/pictures/collection/fbj/item/2008675952/#fbj",
+        "http://lccn.loc.gov/2008675952#catalog-split-12"
+    ],
+    "format": [
+        {
+            "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+        }
+    ],
+    "format_headings": [
+        "Lantern slides--Hand-colored--1920."
+    ],
+    "genre": [
+        "Lantern slides--Hand-colored--1920"
+    ],
+    "group": [
+        "fbj",
+        "catalog-split-12",
+        "catalog",
+        "frances-benjamin-johnston",
+        "main-catalog-split-12",
+        "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2008675952/",
+    "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16600/16652_150px.jpg#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16600/16652t.gif#h=123&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16600/16652r.jpg#h=523&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16600/16652v.jpg#h=836&w=1024"
+    ],
+    "index": 1,
+    "item": {
+        "call_number": "LC-J717-X107- 8 [P&P]",
+        "contributors": [
+            "Johnston, Frances Benjamin, 1864-1952, photographer."
+        ],
+        "control_number": "2008675952",
+        "created": "2016-04-21T04:45:59Z",
+        "created_published": "[ca. 1920]",
+        "created_published_date": "[ca. 1920]",
+        "creators": [
+            {
+                "link": "//www.loc.gov/pictures/related/?fi=name&q=Johnston%2C%20Frances%20Benjamin%2C%201864-1952&co=fbj",
+                "role": "photographer",
+                "title": "Johnston, Frances Benjamin, 1864-1952"
+            }
+        ],
+        "date": "[ca. 1920]",
+        "digital_id": [
+            "ppmsca 16652 //hdl.loc.gov/loc.pnp/ppmsca.16652"
+        ],
+        "display_offsite": true,
+        "format": [
+            "still image"
+        ],
+        "formats": [
+            {
+                "link": "//www.loc.gov/pictures/related/?fi=format&q=Lantern%20slides--Hand-colored--1920.&co=fbj",
+                "title": "Lantern slides--Hand-colored--1920."
+            }
+        ],
+        "genre": [
+            "Lantern slides--Hand-colored--1920"
+        ],
+        "id": "2008675952",
+        "language": [
+            "eng"
+        ],
+        "link": "//www.loc.gov/pictures/item/2008675952/",
+        "marc": "//www.loc.gov/pictures/item/2008675952/marc/",
+        "medium": [
+            "1 photograph : glass lantern slide, hand-colored ; 3.25 x 4 in."
+        ],
+        "medium_brief": "1 photograph :",
+        "mediums": [
+            "1 photograph : glass lantern slide, hand-colored ; 3.25 x 4 in."
+        ],
+        "modified": "2016-04-21T04:46:00Z",
+        "notes": [
+            "Slide for lecturing on city and suburban gardens.",
+            "Title, date, and subject information provided by Sam Watters, 2011.",
+            "Forms part of: Garden and historic house lecture series in the Frances Benjamin Johnston Collection (Library of Congress).",
+            "Penciled on slide (not by FBJ?): # 180."
+        ],
+        "other_control_numbers": [
+            "15260034"
+        ],
+        "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+        "reproduction_number": "LC-DIG-ppmsca-16652 (digital file from original item)",
+        "resource_links": [
+            "//hdl.loc.gov/loc.pnp/ppmsca.16652"
+        ],
+        "rights_advisory": "No known restrictions on publication.",
+        "rights_information": "No known restrictions on publication.",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16600/16652_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16600/16652r.jpg",
+        "sort_date": "1920",
+        "source_created": "2008-04-14T00:00:00Z",
+        "source_modified": "2012-06-29T20:17:39Z",
+        "subject_headings": [
+            "Gardens--1920.",
+            "Flowers--1920.",
+            "Trails & paths--1920."
+        ],
+        "subjects": [
+            "Gardens--1920",
+            "Flowers--1920",
+            "Trails & paths--1920"
+        ],
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16600/16652_150px.jpg",
+        "title": "[Unidentified garden. Woodland pathway]"
+    },
+    "language": [
+        "english"
+    ],
+    "languages": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+        }
+    ],
+    "library_of_congress_control_number": "2008675952",
+    "link": "//www.loc.gov/pictures/item/2008675952/",
+    "marc": "//www.loc.gov/pictures/item/2008675952/marc/",
+    "medium": [
+        "1 photograph : glass lantern slide, hand-colored ; 3.25 x 4 in."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+    ],
+    "modified": "2016-04-21T04:46:00Z",
+    "notes": [
+        "Slide for lecturing on city and suburban gardens.",
+        "Title, date, and subject information provided by Sam Watters, 2011.",
+        "Forms part of: Garden and historic house lecture series in the Frances Benjamin Johnston Collection (Library of Congress).",
+        "Penciled on slide (not by FBJ?): # 180."
+    ],
+    "number": [
+        "2008675952",
+        "2012-06-29t20:17:39",
+        "http://www.loc.gov/item/15260034"
+    ],
+    "number_former_id": [
+        "http://www.loc.gov/item/15260034"
+    ],
+    "number_lccn": [
+        "2008675952"
+    ],
+    "number_source_modified": [
+        "2012-06-29t20:17:39"
+    ],
+    "online_format": [
+        "image"
+    ],
+    "original_format": [
+        "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+        "15260034"
+    ],
+    "other_formats": [
+        {
+            "label": "MARCXML Record",
+            "link": "https://lccn.loc.gov/2008675952/marcxml"
+        },
+        {
+            "label": "MODS Record",
+            "link": "https://lccn.loc.gov/2008675952/mods"
+        },
+        {
+            "label": "Dublin Core Record",
+            "link": "https://lccn.loc.gov/2008675952/dc"
+        }
+    ],
+    "partof": [
+        {
+            "count": 3165,
+            "title": "johnston (frances benjamin) collection",
+            "url": "https://www.loc.gov/collections/frances-benjamin-johnston/?fo=json"
+        },
+        {
+            "count": 909548,
+            "title": "prints & photographs online catalog (library of congress)",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+        },
+        {
+            "count": 1163254,
+            "title": "prints and photographs division",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+        },
+        {
+            "count": 1905824,
+            "title": "catalog",
+            "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+        }
+    ],
+    "related": {
+        "neighbors": "//www.loc.gov/pictures/related/?&co=fbj&pk=2008675952&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+        "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-ppmsca-16652 (digital file from original item)",
+    "reproductions": [],
+    "resource_links": [
+        "//hdl.loc.gov/loc.pnp/ppmsca.16652"
+    ],
+    "resources": [
+        {
+            "caption": "digital file from original item",
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16600/16652_150px.jpg",
+            "url": "https://www.loc.gov/resource/ppmsca.16652/"
+        }
+    ],
+    "rights": [
+        "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/279_john.html\">Frances Benjamin Johnston - Rights and Restrictions Information</a> </p>\n\n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.474854,
+    "shard": "00",
+    "shelf_id": "LC-J717-X107- 8 [P&P]",
+    "site": [
+        "pictures",
+        "catalog"
+    ],
+    "sort_date": "1920",
+    "source_created": "2008-04-14T00:00:00Z",
+    "source_modified": "2012-06-29T20:17:39Z",
+    "subject": [
+        "flowers",
+        "lantern slides",
+        "trails & paths",
+        "gardens",
+        "hand-colored"
+    ],
+    "subject_headings": [
+        "Gardens--1920",
+        "Flowers--1920",
+        "Trails & paths--1920"
+    ],
+    "subjects": [
+        {
+            "flowers": "https://www.loc.gov/search/?fa=subject:flowers&fo=json"
+        },
+        {
+            "gardens": "https://www.loc.gov/search/?fa=subject:gardens&fo=json"
+        },
+        {
+            "hand-colored": "https://www.loc.gov/search/?fa=subject:hand-colored&fo=json"
+        },
+        {
+            "lantern slides": "https://www.loc.gov/search/?fa=subject:lantern+slides&fo=json"
+        },
+        {
+            "trails & paths": "https://www.loc.gov/search/?fa=subject:trails+%26+paths&fo=json"
+        }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16600/16652_150px.jpg",
+    "timestamp": "2022-04-27T04:08:27.676Z",
+    "title": "[Unidentified garden. Woodland pathway]",
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2008675952/"
+}

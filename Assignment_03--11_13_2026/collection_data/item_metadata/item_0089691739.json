@@ -1,0 +1,298 @@
+{
+    "_version_": 1863822799584362496,
+    "access_restricted": false,
+    "aka": [
+        "http://lccn.loc.gov/89691739",
+        "http://www.loc.gov/item/89691739/",
+        "https://search.catalog.loc.gov/instances/935570e7-3252-5197-883c-1cb6785a0084",
+        "https://hdl.loc.gov/loc.gmd/g4262y.ye000004",
+        "http://www.loc.gov/resource/g4262y.ye000004/"
+    ],
+    "call_number": [
+        "G4262.Y4K5 1988  .G7"
+    ],
+    "campaigns": [],
+    "contributor_names": [
+        "Greater Yellowstone Post-fire Resource Assessment Committee (U.S.). Burned Area Survey Team",
+        "Geometronics Service Center (U.S.)"
+    ],
+    "contributors": [
+        {
+            "geometronics service center (u.s.)": "https://www.loc.gov/search/?fa=contributor:geometronics+service+center+%28u.s.%29&fo=json"
+        },
+        {
+            "greater yellowstone post-fire resource assessment committee (u.s.). burned area survey team": "https://www.loc.gov/search/?fa=contributor:greater+yellowstone+post-fire+resource+assessment+committee+%28u.s.%29.+burned+area+survey+team&fo=json"
+        }
+    ],
+    "control_number": "",
+    "created_published": [
+        "[Yellowstone National Park, Wyo.] : The Committee, [1988]"
+    ],
+    "date": "1988",
+    "dates": [
+        {
+            "1988": "https://www.loc.gov/search/?dates=1988/1988&fo=json"
+        }
+    ],
+    "description": [
+        "\"For details of mapping unit descriptions see the document Greater Yellowstone burned area survey preliminary report, October 1988.\" \"*U.S. Government Printing Office: 1988--673-678 Region no. 8.\" Includes list of \"Cooperating agencies.\" Available also through the Library of Congress Web site as a raster image. DRM"
+    ],
+    "digital_id": [
+        "http://hdl.loc.gov/loc.gmd/g4262y.ye000004"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2026-04-29T15:39:06.850Z",
+    "extract_urls": [
+        "http://lccn.loc.gov/89691739#gmd.mar",
+        "http://lccn.loc.gov/89691739#catalog-split-04"
+    ],
+    "format": [
+        {
+            "map": "https://www.loc.gov/search/?fa=original_format:map&fo=json"
+        }
+    ],
+    "group": [
+        "gmd.mar",
+        "catalog-split-04",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-04"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/89691739/",
+    "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd426/g4262/g4262y/ye000004.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd426/g4262/g4262y/ye000004.gif#h=210&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd426:g4262:g4262y:ye000004/full/pct:12.5/0/default.jpg#h=1181&w=844",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd426:g4262:g4262y:ye000004/full/pct:25/0/default.jpg#h=2362&w=1688"
+    ],
+    "index": 1,
+    "item": {
+        "call_number": [
+            "G4262.Y4K5 1988  .G7"
+        ],
+        "contributors": [
+            "Greater Yellowstone Post-fire Resource Assessment Committee (U.S.). Burned Area Survey Team",
+            "Geometronics Service Center (U.S.)"
+        ],
+        "created_published": [
+            "[Yellowstone National Park, Wyo.] : The Committee, [1988]"
+        ],
+        "date": "1988",
+        "digital_id": [
+            "http://hdl.loc.gov/loc.gmd/g4262y.ye000004"
+        ],
+        "format": [
+            "cartographic"
+        ],
+        "language": [
+            "eng"
+        ],
+        "location": [
+            "Yellowstone National Park Region"
+        ],
+        "medium": [
+            "1 map : col. ; 78 x 57 cm."
+        ],
+        "notes": [
+            "\"For details of mapping unit descriptions see the document Greater Yellowstone burned area survey preliminary report, October 1988.\"",
+            "\"*U.S. Government Printing Office: 1988--673-678 Region no. 8.\"",
+            "Includes list of \"Cooperating agencies.\"",
+            "Available also through the Library of Congress Web site as a raster image.",
+            "DRM"
+        ],
+        "repository": [
+            "Library of Congress Geography and Map Division Washington, D.C. 20540-4650 USA dcu"
+        ],
+        "subjects": [
+            "Forest fires--Yellowstone National Park Region--Maps",
+            "United States--Wyoming--Yellowstone National Park"
+        ],
+        "title": "Preliminary survey of burned areas, Yellowstone National Park and adjoining national forests : October, 1988 (burned areas as of Sept. 15, 1988)"
+    },
+    "language": [
+        "english"
+    ],
+    "languages": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+        }
+    ],
+    "library_of_congress_control_number": "89691739",
+    "location": [
+        "wyoming",
+        "united states",
+        "yellowstone national park",
+        "yellowstone national park region"
+    ],
+    "location_city": [
+        "yellowstone national park"
+    ],
+    "location_country": [
+        "united states"
+    ],
+    "location_state": [
+        "wyoming"
+    ],
+    "locations": [
+        {
+            "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+        },
+        {
+            "wyoming": "https://www.loc.gov/search/?fa=location:wyoming&fo=json"
+        },
+        {
+            "yellowstone national park": "https://www.loc.gov/search/?fa=location:yellowstone+national+park&fo=json"
+        },
+        {
+            "yellowstone national park region": "https://www.loc.gov/search/?fa=location:yellowstone+national+park+region&fo=json"
+        }
+    ],
+    "locations_city": [
+        {
+            "yellowstone national park": "https://www.loc.gov/search/?fa=location_city:yellowstone+national+park&fo=json"
+        }
+    ],
+    "locations_country": [
+        {
+            "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+        }
+    ],
+    "locations_state": [
+        {
+            "wyoming": "https://www.loc.gov/search/?fa=location_state:wyoming&fo=json"
+        }
+    ],
+    "medium": [
+        "1 map : col. ; 78 x 57 cm."
+    ],
+    "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+    ],
+    "notes": [
+        "\"For details of mapping unit descriptions see the document Greater Yellowstone burned area survey preliminary report, October 1988.\"",
+        "\"*U.S. Government Printing Office: 1988--673-678 Region no. 8.\"",
+        "Includes list of \"Cooperating agencies.\"",
+        "DRM"
+    ],
+    "number": [
+        "2025-06-07t18:38:56.600000",
+        "89691739",
+        "sheet",
+        "2002-12-14t18:47:43"
+    ],
+    "number_carrier_type": [
+        "sheet"
+    ],
+    "number_lccn": [
+        "89691739"
+    ],
+    "number_source_modified": [
+        "2025-06-07t18:38:56.600000",
+        "2002-12-14t18:47:43"
+    ],
+    "online_format": [
+        "image"
+    ],
+    "original_format": [
+        "map"
+    ],
+    "other_formats": [
+        {
+            "label": "MARCXML Record",
+            "link": "https://lccn.loc.gov/89691739/marcxml"
+        },
+        {
+            "label": "MODS Record",
+            "link": "https://lccn.loc.gov/89691739/mods"
+        },
+        {
+            "label": "Dublin Core Record",
+            "link": "https://lccn.loc.gov/89691739/dc"
+        }
+    ],
+    "partof": [
+        {
+            "count": 174,
+            "title": "mapping the national parks",
+            "url": "https://www.loc.gov/collections/national-parks-maps/?fo=json"
+        },
+        {
+            "count": 1424,
+            "title": "additional conservation and environment cartographic items",
+            "url": "https://www.loc.gov/search/?fa=partof:additional+conservation+and+environment+cartographic+items&fo=json"
+        },
+        {
+            "count": 57423,
+            "title": "geography and map division",
+            "url": "https://www.loc.gov/search/?fa=partof:geography+and+map+division&fo=json"
+        },
+        {
+            "count": 1905824,
+            "title": "catalog",
+            "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+        }
+    ],
+    "repository": [
+        "Library of Congress Geography and Map Division Washington, D.C. 20540-4650 USA dcu"
+    ],
+    "resources": [
+        {
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/gmd/gmd426/g4262/g4262y/ye000004.gif",
+            "url": "https://www.loc.gov/resource/g4262y.ye000004/"
+        }
+    ],
+    "rights": [
+        "<p><strong>The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise.</strong></p>\n<p>Credit Line: Library of Congress, Geography and Map Division.</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a>.</p>\n<p>For guidance about compiling full citations consult <a href=\"/programs/teachers/getting-started-with-primary-sources/citing/\">Citing Primary Sources</a>.</p>\n"
+    ],
+    "score": 17.111792,
+    "shard": "01",
+    "shelf_id": "G4262.Y4K5 1988 .G7",
+    "site": [
+        "catalog"
+    ],
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+        "united states",
+        "maps",
+        "yellowstone national park",
+        "yellowstone national park region",
+        "wyoming",
+        "forest fires"
+    ],
+    "subject_headings": [
+        "Forest fires--Yellowstone National Park Region--Maps",
+        "United States--Wyoming--Yellowstone National Park"
+    ],
+    "subjects": [
+        {
+            "forest fires": "https://www.loc.gov/search/?fa=subject:forest+fires&fo=json"
+        },
+        {
+            "maps": "https://www.loc.gov/search/?fa=subject:maps&fo=json"
+        },
+        {
+            "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+        },
+        {
+            "wyoming": "https://www.loc.gov/search/?fa=subject:wyoming&fo=json"
+        },
+        {
+            "yellowstone national park": "https://www.loc.gov/search/?fa=subject:yellowstone+national+park&fo=json"
+        },
+        {
+            "yellowstone national park region": "https://www.loc.gov/search/?fa=subject:yellowstone+national+park+region&fo=json"
+        }
+    ],
+    "timestamp": "2026-04-29T16:25:34.246Z",
+    "title": "Preliminary survey of burned areas, Yellowstone National Park and adjoining national forests : October, 1988 (burned areas as of Sept. 15, 1988)",
+    "type": [
+        "cartographic"
+    ],
+    "url": "https://www.loc.gov/item/89691739/"
+}

@@ -1,0 +1,361 @@
+{
+    "_version_": 1731693222554501120,
+    "access_restricted": false,
+    "aka": [
+        "https://www.loc.gov/pictures/item/2012646495/",
+        "http://www.loc.gov/item/2012646495/",
+        "http://www.loc.gov/pictures/item/2012646495/",
+        "https://www.loc.gov/pictures/collection/cph/item/2012646495/",
+        "http://www.loc.gov/pictures/collection/cph/item/2012646495/",
+        "http://www.loc.gov/resource/ds.02841/",
+        "http://www.loc.gov/resource/cph.3c22162/",
+        "https://hdl.loc.gov/loc.pnp/ds.02841",
+        "http://lccn.loc.gov/2012646495",
+        "https://hdl.loc.gov/loc.pnp/cph.3c22162"
+    ],
+    "call_number": "ADE - UNIT 3111, no. 3 (C size) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+        "Reiss, Winold, 1886-1953, designer"
+    ],
+    "contributors": [
+        {
+            "reiss, winold": "https://www.loc.gov/search/?fa=contributor:reiss,+winold&fo=json"
+        }
+    ],
+    "control_number": "",
+    "created": "2020-11-10T06:01:01Z",
+    "created_published": [
+        "[circa 1944]"
+    ],
+    "created_published_date": "[circa 1944]",
+    "date": "1935-01-01",
+    "dates": [
+        {
+            "1935": "https://www.loc.gov/search/?dates=1935/1935&fo=json"
+        }
+    ],
+    "description": [
+        "1 drawing : tempera and graphite on paper ; sheet 45 x 61 cm."
+    ],
+    "digital_id": [
+        "ds 02841 //hdl.loc.gov/loc.pnp/ds.02841",
+        "cph 3c22162 //hdl.loc.gov/loc.pnp/cph.3c22162"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-25T19:01:52.439Z",
+    "extract_urls": [
+        "http://www.loc.gov/pictures/collection/cph/item/2012646495/#cph",
+        "http://lccn.loc.gov/2012646495#catalog-split-07"
+    ],
+    "format": [
+        {
+            "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+        }
+    ],
+    "format_headings": [
+        "Design drawings--1940-1950."
+    ],
+    "genre": [
+        "Design drawings--1940-1950"
+    ],
+    "group": [
+        "cph",
+        "catalog-split-07",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-07",
+        "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2012646495/",
+    "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/02800/02841_150px.jpg#h=112&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/02800/02841r.jpg#h=477&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/02800/02841v.jpg#h=763&w=1024"
+    ],
+    "index": 1,
+    "item": {
+        "call_number": "ADE - UNIT 3111, no. 3 (C size) [P&P]",
+        "contributors": [
+            "Reiss, Winold, 1886-1953, designer."
+        ],
+        "control_number": "2012646495",
+        "created": "2020-11-10T06:01:01Z",
+        "created_published": "[circa 1944]",
+        "created_published_date": "[circa 1944]",
+        "creators": [
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Reiss%2C%20Winold%2C%201886-1953&co=cph",
+                "role": "designer",
+                "title": "Reiss, Winold, 1886-1953"
+            }
+        ],
+        "date": "[circa 1944]",
+        "digital_id": [
+            "ds 02841 //hdl.loc.gov/loc.pnp/ds.02841",
+            "cph 3c22162 //hdl.loc.gov/loc.pnp/cph.3c22162"
+        ],
+        "display_offsite": true,
+        "format": [
+            "still image"
+        ],
+        "formats": [
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=format&q=Design%20drawings--1940-1950.&co=cph",
+                "title": "Design drawings--1940-1950."
+            }
+        ],
+        "genre": [
+            "Design drawings--1940-1950"
+        ],
+        "id": "2012646495",
+        "link": "https://www.loc.gov/pictures/item/2012646495/",
+        "location": [
+            "New York (State)--New York"
+        ],
+        "marc": "https://www.loc.gov/pictures/item/2012646495/marc/",
+        "medium": [
+            "1 drawing : tempera and graphite on paper ; sheet 45 x 61 cm."
+        ],
+        "medium_brief": "1 drawing :",
+        "mediums": [
+            "1 drawing : tempera and graphite on paper ; sheet 45 x 61 cm."
+        ],
+        "modified": "2020-11-10T06:01:05Z",
+        "notes": [
+            "Title devised by Library staff.",
+            "Gift of Tjark Reiss, Library of Congress, Prints & Photographs Division, Winold Reiss Collection, LC-DIG-ds-02841.",
+            "Gift, Tjark Reiss, 1998 (DLC/PP-1998:055.018).",
+            "Forms part of: Winold Reiss Collection (Library of Congress)"
+        ],
+        "other_control_numbers": [
+            "17446080"
+        ],
+        "part_of": "Winold Reiss Collection (Library of Congress)",
+        "place": [
+            {
+                "latitude": "",
+                "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York%20%28State%29--New%20York&co=cph",
+                "longitude": "",
+                "title": "New York (State)--New York"
+            }
+        ],
+        "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+        "reproduction_number": "LC-DIG-ds-02841 (digital file from original drawing)\nLC-USZ62-122162 (b&w film copy neg.)",
+        "resource_links": [
+            "//hdl.loc.gov/loc.pnp/ds.02841",
+            "//hdl.loc.gov/loc.pnp/cph.3c22162"
+        ],
+        "rights_advisory": "No known restrictions on publication. For information see \"Winold Reiss Collection,\" https://www.loc.gov/rr/print/res/615_reiss.html",
+        "rights_information": "No known restrictions on publication. For information see \"Winold Reiss Collection,\" https://www.loc.gov/rr/print/res/615_reiss.html",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/ds/02800/02841_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ds/02800/02841r.jpg",
+        "sort_date": "1935",
+        "source_collection": [
+            "Winold Reiss Collection (Library of Congress)"
+        ],
+        "source_created": "2012-08-29T00:00:00Z",
+        "source_modified": "2020-10-27T16:56:27Z",
+        "subject_headings": [
+            "Restaurants--New York (State)--New York--1940-1950.",
+            "Walls--New York (State)--New York--1940-1950.",
+            "Interiors--New York (State)--New York--1940-1950.",
+            "New York (State)--New York"
+        ],
+        "subjects": [
+            "Restaurants--New York (State)--New York--1940-1950",
+            "Walls--New York (State)--New York--1940-1950",
+            "Interiors--New York (State)--New York--1940-1950"
+        ],
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ds/02800/02841_150px.jpg",
+        "title": "[Design for unidentified restaurant, possibly Dunhall's Restaurant, New York, NY.] [Wall design (\"Sketch 1\")]"
+    },
+    "language": [
+        "english"
+    ],
+    "languages": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+        }
+    ],
+    "library_of_congress_control_number": "2012646495",
+    "link": "https://www.loc.gov/pictures/item/2012646495/",
+    "location": [
+        "new york"
+    ],
+    "locations": [
+        {
+            "new york": "https://www.loc.gov/search/?fa=location:new+york&fo=json"
+        }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2012646495/marc/",
+    "medium": [
+        "1 drawing : tempera and graphite on paper ; sheet 45 x 61 cm."
+    ],
+    "medium_brief": "1 drawing :",
+    "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+    ],
+    "modified": "2020-11-10T06:01:05Z",
+    "notes": [
+        "Title devised by Library staff.",
+        "Gift of Tjark Reiss, Library of Congress, Prints & Photographs Division, Winold Reiss Collection, LC-DIG-ds-02841.",
+        "Gift, Tjark Reiss, 1998 (DLC/PP-1998:055.018).",
+        "Forms part of: Winold Reiss Collection (Library of Congress)"
+    ],
+    "number": [
+        "http://www.loc.gov/item/17446080",
+        "2020-10-27t16:56:27",
+        "2012646495"
+    ],
+    "number_former_id": [
+        "http://www.loc.gov/item/17446080"
+    ],
+    "number_lccn": [
+        "2012646495"
+    ],
+    "number_source_modified": [
+        "2020-10-27t16:56:27"
+    ],
+    "online_format": [
+        "image"
+    ],
+    "original_format": [
+        "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+        "17446080"
+    ],
+    "other_formats": [
+        {
+            "label": "MARCXML Record",
+            "link": "https://lccn.loc.gov/2012646495/marcxml"
+        },
+        {
+            "label": "MODS Record",
+            "link": "https://lccn.loc.gov/2012646495/mods"
+        },
+        {
+            "label": "Dublin Core Record",
+            "link": "https://lccn.loc.gov/2012646495/dc"
+        }
+    ],
+    "partof": [
+        {
+            "count": 6,
+            "title": "ade - unit 3111",
+            "url": "https://www.loc.gov/search/?fa=partof:ade+-+unit+3111&fo=json"
+        },
+        {
+            "count": 110449,
+            "title": "miscellaneous items in high demand",
+            "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+        },
+        {
+            "count": 909548,
+            "title": "prints & photographs online catalog (library of congress)",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+        },
+        {
+            "count": 1163254,
+            "title": "prints and photographs division",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+        },
+        {
+            "count": 1905824,
+            "title": "catalog",
+            "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+        }
+    ],
+    "place": [
+        {
+            "latitude": "",
+            "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York%20%28State%29--New%20York&co=cph",
+            "longitude": "",
+            "title": "New York (State)--New York"
+        }
+    ],
+    "related": {
+        "group_record": "https://www.loc.gov/pictures/search/?q=ADE - UNIT 3111&fi=number&op=PHRASE&va=exact&co=ade&sg=true",
+        "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2012646495&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+        "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-ds-02841 (digital file from original drawing)\nLC-USZ62-122162 (b&w film copy neg.)",
+    "reproductions": [],
+    "resource_links": [
+        "//hdl.loc.gov/loc.pnp/ds.02841",
+        "//hdl.loc.gov/loc.pnp/cph.3c22162"
+    ],
+    "resources": [
+        {
+            "caption": "digital file from original drawing",
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/pnp/ds/02800/02841_150px.jpg",
+            "url": "https://www.loc.gov/resource/ds.02841/"
+        },
+        {
+            "caption": "digital file from b&w film copy neg.",
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c22000/3c22100/3c22162_150px.jpg",
+            "url": "https://www.loc.gov/resource/cph.3c22162/"
+        }
+    ],
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication. For information see \"Winold Reiss Collection,\" https://www.loc.gov/rr/print/res/615_reiss.html",
+    "rights_information": "No known restrictions on publication. For information see \"Winold Reiss Collection,\" https://www.loc.gov/rr/print/res/615_reiss.html",
+    "score": 19.474854,
+    "shard": "00",
+    "shelf_id": "ADE - UNIT 3111, no. 3 (C size) [P&P]",
+    "site": [
+        "pictures",
+        "catalog"
+    ],
+    "sort_date": "1935",
+    "source_collection": "Winold Reiss Collection (Library of Congress)",
+    "source_created": "2012-08-29T00:00:00Z",
+    "source_modified": "2020-10-27T16:56:27Z",
+    "subject": [
+        "interiors",
+        "new york (state)",
+        "walls",
+        "design drawings",
+        "restaurants",
+        "new york"
+    ],
+    "subject_headings": [
+        "Restaurants--New York (State)--New York--1940-1950",
+        "Walls--New York (State)--New York--1940-1950",
+        "Interiors--New York (State)--New York--1940-1950"
+    ],
+    "subjects": [
+        {
+            "design drawings": "https://www.loc.gov/search/?fa=subject:design+drawings&fo=json"
+        },
+        {
+            "interiors": "https://www.loc.gov/search/?fa=subject:interiors&fo=json"
+        },
+        {
+            "new york": "https://www.loc.gov/search/?fa=subject:new+york&fo=json"
+        },
+        {
+            "new york (state)": "https://www.loc.gov/search/?fa=subject:new+york+%28state%29&fo=json"
+        },
+        {
+            "restaurants": "https://www.loc.gov/search/?fa=subject:restaurants&fo=json"
+        },
+        {
+            "walls": "https://www.loc.gov/search/?fa=subject:walls&fo=json"
+        }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ds/02800/02841_150px.jpg",
+    "timestamp": "2022-05-02T06:02:30.089Z",
+    "title": "[Design for unidentified restaurant, possibly Dunhall's Restaurant, New York, NY.] [Wall design (\"Sketch 1\")]",
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2012646495/"
+}

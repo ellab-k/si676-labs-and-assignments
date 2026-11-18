@@ -1,0 +1,367 @@
+{
+    "_version_": 1731233124505878528,
+    "access_restricted": false,
+    "aka": [
+        "http://www.loc.gov/pictures/collection/fbj/item/2008676056/",
+        "http://www.loc.gov/item/2008676056/",
+        "http://www.loc.gov/pictures/item/2008676056/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.16756",
+        "http://www.loc.gov/resource/ppmsca.16756/",
+        "http://lccn.loc.gov/2008676056"
+    ],
+    "call_number": "LC-J717-X108- 29 [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+        "Johnston, Frances Benjamin, 1864-1952, photographer",
+        "Hewitt, Mattie Edwards, 1869-1956, photographer"
+    ],
+    "contributors": [
+        {
+            "hewitt, mattie edwards": "https://www.loc.gov/search/?fa=contributor:hewitt,+mattie+edwards&fo=json"
+        },
+        {
+            "johnston, frances benjamin": "https://www.loc.gov/search/?fa=contributor:johnston,+frances+benjamin&fo=json"
+        }
+    ],
+    "control_number": "",
+    "created": "2016-04-21T08:23:25Z",
+    "created_published": [
+        "[1914 summer]"
+    ],
+    "created_published_date": "[1914 summer]",
+    "date": "1914-01-01",
+    "dates": [
+        {
+            "1914": "https://www.loc.gov/search/?dates=1914/1914&fo=json"
+        }
+    ],
+    "description": [
+        "1 photograph : glass lantern slide, hand-colored ; 3.25 x 4 in."
+    ],
+    "digital_id": [
+        "ppmsca 16756 //hdl.loc.gov/loc.pnp/ppmsca.16756"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T23:28:18.115Z",
+    "extract_urls": [
+        "http://www.loc.gov/pictures/collection/fbj/item/2008676056/#fbj",
+        "http://lccn.loc.gov/2008676056#catalog-split-08"
+    ],
+    "format": [
+        {
+            "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+        }
+    ],
+    "format_headings": [
+        "Lantern slides--Hand-colored--1910-1920."
+    ],
+    "genre": [
+        "Lantern slides--Hand-colored--1910-1920"
+    ],
+    "group": [
+        "fbj",
+        "catalog-split-08",
+        "catalog",
+        "frances-benjamin-johnston",
+        "main-catalog-split-08",
+        "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2008676056/",
+    "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16700/16756_150px.jpg#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16700/16756t.gif#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16700/16756r.jpg#h=521&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16700/16756v.jpg#h=833&w=1024"
+    ],
+    "index": 1,
+    "item": {
+        "call_number": "LC-J717-X108- 29 [P&P]",
+        "contributor_names": [
+            "Hewitt, Mattie Edwards, 1869-1956, photographer "
+        ],
+        "contributors": [
+            "Johnston, Frances Benjamin, 1864-1952, photographer.",
+            "Hewitt, Mattie Edwards, 1869-1956, photographer."
+        ],
+        "control_number": "2008676056",
+        "created": "2016-04-21T08:23:25Z",
+        "created_published": "[1914 summer]",
+        "created_published_date": "[1914 summer]",
+        "creators": [
+            {
+                "link": "//www.loc.gov/pictures/related/?fi=name&q=Johnston%2C%20Frances%20Benjamin%2C%201864-1952&co=fbj",
+                "role": "photographer",
+                "title": "Johnston, Frances Benjamin, 1864-1952"
+            },
+            {
+                "link": "//www.loc.gov/pictures/related/?fi=name&q=Hewitt%2C%20Mattie%20Edwards%2C%201869-1956&co=fbj",
+                "role": "photographer",
+                "title": "Hewitt, Mattie Edwards, 1869-1956"
+            }
+        ],
+        "date": "[1914 summer]",
+        "digital_id": [
+            "ppmsca 16756 //hdl.loc.gov/loc.pnp/ppmsca.16756"
+        ],
+        "display_offsite": true,
+        "format": [
+            "still image"
+        ],
+        "formats": [
+            {
+                "link": "//www.loc.gov/pictures/related/?fi=format&q=Lantern%20slides--Hand-colored--1910-1920.&co=fbj",
+                "title": "Lantern slides--Hand-colored--1910-1920."
+            }
+        ],
+        "genre": [
+            "Lantern slides--Hand-colored--1910-1920"
+        ],
+        "id": "2008676056",
+        "language": [
+            "eng"
+        ],
+        "link": "//www.loc.gov/pictures/item/2008676056/",
+        "location": [
+            "Rhode Island--Newport"
+        ],
+        "marc": "//www.loc.gov/pictures/item/2008676056/marc/",
+        "medium": [
+            "1 photograph : glass lantern slide, hand-colored ; 3.25 x 4 in."
+        ],
+        "medium_brief": "1 photograph :",
+        "mediums": [
+            "1 photograph : glass lantern slide, hand-colored ; 3.25 x 4 in."
+        ],
+        "modified": "2016-04-21T08:23:25Z",
+        "notes": [
+            "Site History. House Architecture: Howells & Stokes, 1910. Landscape: Frederick Law Olmsted Jr., Henry Hill Blossom, Olmsted Brothers, 1908-1913, 1915-1916, with Hempsted of Boston, contractors. John Greatorex, gardener. Other: Garden dedicated on August,15, 1913. House and garden on 39 2/3 acres. Associated Name: Harriet Parsons (Mrs. Arthur C.) James. Today: House razed in 1967 and garden acres subdivided.",
+            "On slide (handwritten): \"J\" and \"James\"",
+            "Photographed when Frances Benjamin Johnston and Mattie Edwards Hewitt worked together.",
+            "Title, date, and subject information provided by Sam Watters, 2011.",
+            "Forms part of: Garden and historic house lecture series in the Frances Benjamin Johnston Collection (Library of Congress).",
+            "Published in Gardens for a Beautiful America / Sam Watters. New York: Acanthus Press, 2012. Plate 7."
+        ],
+        "other_control_numbers": [
+            "15284032"
+        ],
+        "place": [
+            {
+                "latitude": "",
+                "link": "//www.loc.gov/pictures/related/?fi=place&q=Rhode%20Island--Newport&co=fbj",
+                "longitude": "",
+                "title": "Rhode Island--Newport"
+            }
+        ],
+        "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+        "reproduction_number": "LC-DIG-ppmsca-16756 (digital file from original item)",
+        "resource_links": [
+            "//hdl.loc.gov/loc.pnp/ppmsca.16756"
+        ],
+        "rights_advisory": "No known restrictions on publication.",
+        "rights_information": "No known restrictions on publication.",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16700/16756_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16700/16756r.jpg",
+        "sort_date": "1914",
+        "source_created": "2008-05-01T00:00:00Z",
+        "source_modified": "2015-05-25T14:30:16Z",
+        "subject_headings": [
+            "Gardens--Rhode Island--Newport--1910-1920.",
+            "Reflecting pools--Rhode Island--Newport--1910-1920.",
+            "Pergolas--Rhode Island--Newport--1910-1920.",
+            "Rhode Island--Newport"
+        ],
+        "subjects": [
+            "Gardens--Rhode Island--Newport--1910-1920",
+            "Reflecting pools--Rhode Island--Newport--1910-1920",
+            "Pergolas--Rhode Island--Newport--1910-1920"
+        ],
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16700/16756_150px.jpg",
+        "title": "[\"Beacon Hill House,\" Arthur Curtiss James house, Beacon Hill Road, Newport, Rhode Island. Blue Garden, view to well head with columns and pergola at north end]"
+    },
+    "language": [
+        "english"
+    ],
+    "languages": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+        }
+    ],
+    "library_of_congress_control_number": "2008676056",
+    "link": "//www.loc.gov/pictures/item/2008676056/",
+    "location": [
+        "rhode island",
+        "newport"
+    ],
+    "locations": [
+        {
+            "newport": "https://www.loc.gov/search/?fa=location:newport&fo=json"
+        },
+        {
+            "rhode island": "https://www.loc.gov/search/?fa=location:rhode+island&fo=json"
+        }
+    ],
+    "marc": "//www.loc.gov/pictures/item/2008676056/marc/",
+    "medium": [
+        "1 photograph : glass lantern slide, hand-colored ; 3.25 x 4 in."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+    ],
+    "modified": "2016-04-21T08:23:25Z",
+    "notes": [
+        "Site History. House Architecture: Howells & Stokes, 1910. Landscape: Frederick Law Olmsted Jr., Henry Hill Blossom, Olmsted Brothers, 1908-1913, 1915-1916, with Hempsted of Boston, contractors. John Greatorex, gardener. Other: Garden dedicated on August,15, 1913. House and garden on 39 2/3 acres. Associated Name: Harriet Parsons (Mrs. Arthur C.) James. Today: House razed in 1967 and garden acres subdivided.",
+        "On slide (handwritten): \"J\" and \"James\"",
+        "Photographed when Frances Benjamin Johnston and Mattie Edwards Hewitt worked together.",
+        "Title, date, and subject information provided by Sam Watters, 2011.",
+        "Forms part of: Garden and historic house lecture series in the Frances Benjamin Johnston Collection (Library of Congress).",
+        "Published in Gardens for a Beautiful America / Sam Watters. New York: Acanthus Press, 2012. Plate 7."
+    ],
+    "number": [
+        "2015-05-25t14:30:16",
+        "2008676056",
+        "http://www.loc.gov/item/15284032"
+    ],
+    "number_former_id": [
+        "http://www.loc.gov/item/15284032"
+    ],
+    "number_lccn": [
+        "2008676056"
+    ],
+    "number_source_modified": [
+        "2015-05-25t14:30:16"
+    ],
+    "online_format": [
+        "image"
+    ],
+    "original_format": [
+        "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+        "15284032"
+    ],
+    "other_formats": [
+        {
+            "label": "MARCXML Record",
+            "link": "https://lccn.loc.gov/2008676056/marcxml"
+        },
+        {
+            "label": "MODS Record",
+            "link": "https://lccn.loc.gov/2008676056/mods"
+        },
+        {
+            "label": "Dublin Core Record",
+            "link": "https://lccn.loc.gov/2008676056/dc"
+        }
+    ],
+    "partof": [
+        {
+            "count": 3165,
+            "title": "johnston (frances benjamin) collection",
+            "url": "https://www.loc.gov/collections/frances-benjamin-johnston/?fo=json"
+        },
+        {
+            "count": 909548,
+            "title": "prints & photographs online catalog (library of congress)",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+        },
+        {
+            "count": 1163254,
+            "title": "prints and photographs division",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+        },
+        {
+            "count": 1905824,
+            "title": "catalog",
+            "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+        }
+    ],
+    "place": [
+        {
+            "latitude": "",
+            "link": "//www.loc.gov/pictures/related/?fi=place&q=Rhode%20Island--Newport&co=fbj",
+            "longitude": "",
+            "title": "Rhode Island--Newport"
+        }
+    ],
+    "related": {
+        "neighbors": "//www.loc.gov/pictures/related/?&co=fbj&pk=2008676056&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+        "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-ppmsca-16756 (digital file from original item)",
+    "reproductions": [],
+    "resource_links": [
+        "//hdl.loc.gov/loc.pnp/ppmsca.16756"
+    ],
+    "resources": [
+        {
+            "caption": "digital file from original item",
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16700/16756_150px.jpg",
+            "url": "https://www.loc.gov/resource/ppmsca.16756/"
+        }
+    ],
+    "rights": [
+        "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/279_john.html\">Frances Benjamin Johnston - Rights and Restrictions Information</a> </p>\n\n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.474854,
+    "shard": "00",
+    "shelf_id": "LC-J717-X108- 29 [P&P]",
+    "site": [
+        "pictures",
+        "catalog"
+    ],
+    "sort_date": "1914",
+    "source_created": "2008-05-01T00:00:00Z",
+    "source_modified": "2015-05-25T14:30:16Z",
+    "subject": [
+        "hand-colored",
+        "lantern slides",
+        "newport",
+        "gardens",
+        "rhode island",
+        "reflecting pools",
+        "pergolas"
+    ],
+    "subject_headings": [
+        "Gardens--Rhode Island--Newport--1910-1920",
+        "Reflecting pools--Rhode Island--Newport--1910-1920",
+        "Pergolas--Rhode Island--Newport--1910-1920"
+    ],
+    "subjects": [
+        {
+            "gardens": "https://www.loc.gov/search/?fa=subject:gardens&fo=json"
+        },
+        {
+            "hand-colored": "https://www.loc.gov/search/?fa=subject:hand-colored&fo=json"
+        },
+        {
+            "lantern slides": "https://www.loc.gov/search/?fa=subject:lantern+slides&fo=json"
+        },
+        {
+            "newport": "https://www.loc.gov/search/?fa=subject:newport&fo=json"
+        },
+        {
+            "pergolas": "https://www.loc.gov/search/?fa=subject:pergolas&fo=json"
+        },
+        {
+            "reflecting pools": "https://www.loc.gov/search/?fa=subject:reflecting+pools&fo=json"
+        },
+        {
+            "rhode island": "https://www.loc.gov/search/?fa=subject:rhode+island&fo=json"
+        }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/16700/16756_150px.jpg",
+    "timestamp": "2022-04-27T04:09:19.391Z",
+    "title": "[\"Beacon Hill House,\" Arthur Curtiss James house, Beacon Hill Road, Newport, Rhode Island. Blue Garden, view to well head with columns and pergola at north end]",
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2008676056/"
+}

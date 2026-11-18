@@ -1,0 +1,406 @@
+{
+    "_version_": 1731418644558118912,
+    "access_restricted": false,
+    "aka": [
+        "https://www.loc.gov/pictures/item/2018673611/",
+        "http://www.loc.gov/item/2018673611/",
+        "http://www.loc.gov/pictures/item/2018673611/",
+        "https://www.loc.gov/pictures/collection/krb/item/2018673611/",
+        "http://www.loc.gov/pictures/collection/krb/item/2018673611/",
+        "https://hdl.loc.gov/loc.pnp/krb.00821",
+        "https://hdl.loc.gov/loc.pnp/krb.00821",
+        "http://www.loc.gov/resource/krb.00821/",
+        "http://lccn.loc.gov/2018673611"
+    ],
+    "call_number": "LC-KRB00- 589A [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+        "Korab, Balthazar, photographer",
+        "Saarinen, Eero, 1910-1961, architect"
+    ],
+    "contributors": [
+        {
+            "korab, balthazar": "https://www.loc.gov/search/?fa=contributor:korab,+balthazar&fo=json"
+        },
+        {
+            "saarinen, eero": "https://www.loc.gov/search/?fa=contributor:saarinen,+eero&fo=json"
+        }
+    ],
+    "control_number": "",
+    "created": "2020-07-21T05:49:47Z",
+    "created_published": [
+        "[between 1956 and 1962]"
+    ],
+    "created_published_date": "[between 1956 and 1962]",
+    "date": "1956-01-01",
+    "dates": [
+        {
+            "1956": "https://www.loc.gov/search/?dates=1956/1956&fo=json"
+        }
+    ],
+    "description": [
+        "1 slide : color."
+    ],
+    "digital_id": [
+        "krb 00821 https://hdl.loc.gov/loc.pnp/krb.00821"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T22:18:51.785Z",
+    "extract_urls": [
+        "http://www.loc.gov/pictures/collection/krb/item/2018673611/#krb",
+        "http://lccn.loc.gov/2018673611#catalog-split-03"
+    ],
+    "format": [
+        {
+            "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+        }
+    ],
+    "format_headings": [
+        "Slides--Color."
+    ],
+    "genre": [
+        "Slides--Color"
+    ],
+    "group": [
+        "krb",
+        "catalog-split-03",
+        "catalog",
+        "korab",
+        "main-catalog-split-03",
+        "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2018673611/",
+    "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/krb/00800/00821t.gif#h=103&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/krb/00800/00821r.jpg#h=440&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/krb/00800/00821v.jpg#h=704&w=1024"
+    ],
+    "index": 1,
+    "item": {
+        "call_number": "LC-KRB00- 589A [P&P]",
+        "contributor_names": [
+            "Saarinen, Eero, 1910-1961, architect "
+        ],
+        "contributors": [
+            "Korab, Balthazar, photographer.",
+            "Saarinen, Eero, 1910-1961, architect."
+        ],
+        "control_number": "2018673611",
+        "created": "2020-07-21T05:49:47Z",
+        "created_published": "[between 1956 and 1962]",
+        "created_published_date": "[between 1956 and 1962]",
+        "creators": [
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Korab%2C%20Balthazar&co=krb",
+                "role": "photographer",
+                "title": "Korab, Balthazar"
+            },
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Saarinen%2C%20Eero%2C%201910-1961&co=krb",
+                "role": "architect",
+                "title": "Saarinen, Eero, 1910-1961"
+            }
+        ],
+        "date": "[between 1956 and 1962]",
+        "digital_id": [
+            "krb 00821 https://hdl.loc.gov/loc.pnp/krb.00821"
+        ],
+        "display_offsite": true,
+        "format": [
+            "still image"
+        ],
+        "formats": [
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=format&q=Slides--Color.&co=krb",
+                "title": "Slides--Color."
+            }
+        ],
+        "genre": [
+            "Slides--Color"
+        ],
+        "id": "2018673611",
+        "language": [
+            "eng"
+        ],
+        "link": "https://www.loc.gov/pictures/item/2018673611/",
+        "marc": "https://www.loc.gov/pictures/item/2018673611/marc/",
+        "medium": [
+            "1 slide : color."
+        ],
+        "medium_brief": "1 slide :",
+        "mediums": [
+            "1 slide : color."
+        ],
+        "modified": "2020-07-21T05:49:47Z",
+        "notes": [
+            "No. 589A.",
+            "Title and date from Eero Saarinen by De Long and Peatross, 2008.",
+            "Gift; Balthazar Korab; 2007.",
+            "General information about the Balthazar Korab collection is available at: https://hdl.loc.gov/loc.pnp/pp.krb",
+            "Forms part of: Balthazar Korab collection.",
+            "Published in: Eero Saarinen: buildings from the Balthazar Korab archive / edited by David G. De Long and C. Ford Peatross, 2008."
+        ],
+        "number_former_id": [
+            "https://www.loc.gov/item/2018673611",
+            "https://www.loc.gov/item/krb2008000818"
+        ],
+        "other_control_numbers": [
+            "20658770",
+            "krb2008000818"
+        ],
+        "part_of": "Eero Saarinen book project, 2005-2008",
+        "place": [
+            {
+                "latitude": "",
+                "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York%20%28State%29--New%20York&co=krb",
+                "longitude": "",
+                "title": "New York (State)--New York"
+            }
+        ],
+        "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+        "reproduction_number": "LC-DIG-krb-00821 (digital file from original)",
+        "resource_links": [
+            "https://hdl.loc.gov/loc.pnp/krb.00821"
+        ],
+        "rights_advisory": "No known restrictions on publication. For information, see: \"Balthazar Korab collection,\" https://hdl.loc.gov/loc.pnp/res.598.kora",
+        "rights_information": "No known restrictions on publication. For information, see: \"Balthazar Korab collection,\" https://hdl.loc.gov/loc.pnp/res.598.kora",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/krb/00800/00821_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/krb/00800/00821r.jpg",
+        "sort_date": "1956",
+        "source_collection": [
+            "Eero Saarinen book project, 2005-2008"
+        ],
+        "source_created": "2008-03-03T00:00:00Z",
+        "source_modified": "2020-07-14T07:45:20Z",
+        "subject_headings": [
+            "Airport terminals.",
+            "United States--New York (State)--New York.",
+            "New York (State)--New York"
+        ],
+        "subjects": [
+            "Airport terminals",
+            "United States--New York (State)--New York"
+        ],
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/krb/00800/00821_150px.jpg",
+        "title": "Trans World Airlines Terminal, John F. Kennedy (originally Idlewild) Airport, New York, New York, 1956-62. Interior"
+    },
+    "language": [
+        "english"
+    ],
+    "languages": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+        }
+    ],
+    "library_of_congress_control_number": "2018673611",
+    "link": "https://www.loc.gov/pictures/item/2018673611/",
+    "location": [
+        "new york",
+        "new york (state)",
+        "united states"
+    ],
+    "location_city": [
+        "new york"
+    ],
+    "location_country": [
+        "united states"
+    ],
+    "location_state": [
+        "new york (state)"
+    ],
+    "locations": [
+        {
+            "new york": "https://www.loc.gov/search/?fa=location:new+york&fo=json"
+        },
+        {
+            "new york (state)": "https://www.loc.gov/search/?fa=location:new+york+%28state%29&fo=json"
+        },
+        {
+            "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+        }
+    ],
+    "locations_city": [
+        {
+            "new york": "https://www.loc.gov/search/?fa=location_city:new+york&fo=json"
+        }
+    ],
+    "locations_country": [
+        {
+            "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+        }
+    ],
+    "locations_state": [
+        {
+            "new york (state)": "https://www.loc.gov/search/?fa=location_state:new+york+%28state%29&fo=json"
+        }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2018673611/marc/",
+    "medium": [
+        "1 slide : color."
+    ],
+    "medium_brief": "1 slide :",
+    "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+    ],
+    "modified": "2020-07-21T05:49:47Z",
+    "notes": [
+        "No. 589A.",
+        "Title and date from Eero Saarinen by De Long and Peatross, 2008.",
+        "Gift; Balthazar Korab; 2007.",
+        "General information about the Balthazar Korab collection is available at: https://hdl.loc.gov/loc.pnp/pp.krb",
+        "Forms part of: Balthazar Korab collection.",
+        "Published in: Eero Saarinen: buildings from the Balthazar Korab archive / edited by David G. De Long and C. Ford Peatross, 2008."
+    ],
+    "number": [
+        "http://www.loc.gov/item/krb2008000818",
+        "2018673611",
+        "http://www.loc.gov/item/20658770",
+        "sheet",
+        "http://www.loc.gov/item/2018673611",
+        "2020-07-14t07:45:20"
+    ],
+    "number_carrier_type": [
+        "sheet"
+    ],
+    "number_former_id": [
+        "http://www.loc.gov/item/20658770",
+        "http://www.loc.gov/item/krb2008000818",
+        "http://www.loc.gov/item/2018673611"
+    ],
+    "number_lccn": [
+        "2018673611"
+    ],
+    "number_source_modified": [
+        "2020-07-14t07:45:20"
+    ],
+    "online_format": [
+        "image"
+    ],
+    "original_format": [
+        "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+        "20658770",
+        "krb2008000818"
+    ],
+    "other_formats": [
+        {
+            "label": "MARCXML Record",
+            "link": "https://lccn.loc.gov/2018673611/marcxml"
+        },
+        {
+            "label": "MODS Record",
+            "link": "https://lccn.loc.gov/2018673611/mods"
+        },
+        {
+            "label": "Dublin Core Record",
+            "link": "https://lccn.loc.gov/2018673611/dc"
+        }
+    ],
+    "partof": [
+        {
+            "count": 2506,
+            "title": "korab collection",
+            "url": "https://www.loc.gov/collections/korab/?fo=json"
+        },
+        {
+            "count": 909548,
+            "title": "prints & photographs online catalog (library of congress)",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+        },
+        {
+            "count": 1163254,
+            "title": "prints and photographs division",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+        },
+        {
+            "count": 1905824,
+            "title": "catalog",
+            "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+        }
+    ],
+    "place": [
+        {
+            "latitude": "",
+            "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York%20%28State%29--New%20York&co=krb",
+            "longitude": "",
+            "title": "New York (State)--New York"
+        }
+    ],
+    "related": {
+        "neighbors": "https://www.loc.gov/pictures/related/?&co=krb&pk=2018673611&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+        "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-krb-00821 (digital file from original)",
+    "reproductions": [],
+    "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/krb.00821"
+    ],
+    "resources": [
+        {
+            "caption": "digital file from original",
+            "files": 1,
+            "image": "http://cdn.loc.govkrb_150px.jpg",
+            "url": "https://www.loc.gov/resource/krb.00821/"
+        }
+    ],
+    "rights": [
+        "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/598_kora.html\">Balthazar Korab Archive at the Library of Congress - Rights and Restrictions Information</a> </p>\n\n"
+    ],
+    "rights_advisory": "No known restrictions on publication. For information, see: \"Balthazar Korab collection,\" https://hdl.loc.gov/loc.pnp/res.598.kora",
+    "rights_information": "No known restrictions on publication. For information, see: \"Balthazar Korab collection,\" https://hdl.loc.gov/loc.pnp/res.598.kora",
+    "score": 19.474854,
+    "shard": "00",
+    "shelf_id": "LC-KRB00- 589A [P&P]",
+    "site": [
+        "pictures",
+        "catalog"
+    ],
+    "sort_date": "1956",
+    "source_collection": "Eero Saarinen book project, 2005-2008",
+    "source_created": "2008-03-03T00:00:00Z",
+    "source_modified": "2020-07-14T07:45:20Z",
+    "subject": [
+        "color",
+        "new york (state)",
+        "united states",
+        "airport terminals",
+        "new york",
+        "slides"
+    ],
+    "subject_headings": [
+        "Airport terminals",
+        "United States--New York (State)--New York"
+    ],
+    "subjects": [
+        {
+            "airport terminals": "https://www.loc.gov/search/?fa=subject:airport+terminals&fo=json"
+        },
+        {
+            "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+        },
+        {
+            "new york": "https://www.loc.gov/search/?fa=subject:new+york&fo=json"
+        },
+        {
+            "new york (state)": "https://www.loc.gov/search/?fa=subject:new+york+%28state%29&fo=json"
+        },
+        {
+            "slides": "https://www.loc.gov/search/?fa=subject:slides&fo=json"
+        },
+        {
+            "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+        }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/krb/00800/00821_150px.jpg",
+    "timestamp": "2022-04-29T05:18:11.889Z",
+    "title": "Trans World Airlines Terminal, John F. Kennedy (originally Idlewild) Airport, New York, New York, 1956-62. Interior",
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2018673611/"
+}

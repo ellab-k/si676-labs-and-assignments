@@ -1,0 +1,390 @@
+{
+    "_version_": 1730884063401607168,
+    "access_restricted": false,
+    "aka": [
+        "https://www.loc.gov/pictures/item/2002709073/",
+        "http://www.loc.gov/item/2002709073/",
+        "http://www.loc.gov/pictures/item/2002709073/",
+        "https://www.loc.gov/pictures/collection/pos/item/2002709073/",
+        "http://www.loc.gov/pictures/collection/pos/item/2002709073/",
+        "https://hdl.loc.gov/loc.pnp/cph.3g10041",
+        "http://www.loc.gov/resource/cph.3g10041/",
+        "http://www.loc.gov/pictures/collection/wwipos/item/2002709073/",
+        "http://lccn.loc.gov/2002709073"
+    ],
+    "call_number": "POS - US .D38, no. 1 (C size) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+        "Daugherty, James, 1889-1974, artist"
+    ],
+    "contributors": [
+        {
+            "daugherty, james": "https://www.loc.gov/search/?fa=contributor:daugherty,+james&fo=json"
+        }
+    ],
+    "control_number": "",
+    "created": "2016-04-20T04:37:42Z",
+    "created_published": [
+        "[1917]"
+    ],
+    "created_published_date": "[1917]",
+    "date": "1917-01-01",
+    "dates": [
+        {
+            "1917": "https://www.loc.gov/search/?dates=1917/1917&fo=json"
+        }
+    ],
+    "description": [
+        "1 print (poster) : lithograph, color ; 146 x 99 cm. | Poster showing a large eagle flying above ships setting sail for a distant shore in flames."
+    ],
+    "digital_id": [
+        "cph 3g10041 //hdl.loc.gov/loc.pnp/cph.3g10041"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T22:02:46.365Z",
+    "extract_urls": [
+        "http://www.loc.gov/pictures/collection/pos/item/2002709073/#pos",
+        "http://www.loc.gov/pictures/collection/wwipos/item/2002709073/#wwipos",
+        "http://lccn.loc.gov/2002709073#catalog-split-14"
+    ],
+    "format": [
+        {
+            "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+        }
+    ],
+    "format_headings": [
+        "Lithographs--Color--1910-1920.",
+        "War posters--American--1910-1920."
+    ],
+    "genre": [
+        "War posters--American--1910-1920",
+        "Lithographs--Color--1910-1920"
+    ],
+    "group": [
+        "pos",
+        "wwipos",
+        "catalog-split-14",
+        "catalog",
+        "artist-posters",
+        "world-war-i-posters",
+        "main-catalog-split-14",
+        "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2002709073/",
+    "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10041_150px.jpg#h=150&w=121",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10041t.gif#h=150&w=121",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10041r.jpg#h=640&w=516",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10041v.jpg#h=1024&w=825"
+    ],
+    "index": 1,
+    "item": {
+        "call_number": "POS - US .D38, no. 1 (C size) [P&P]",
+        "contributors": [
+            "Daugherty, James, 1889-1974, artist."
+        ],
+        "control_number": "2002709073",
+        "created": "2016-04-20T04:37:42Z",
+        "created_published": "[1917]",
+        "created_published_date": "[1917]",
+        "creators": [
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Daugherty%2C%20James%2C%201889-1974&co=pos",
+                "role": "artist",
+                "title": "Daugherty, James, 1889-1974"
+            }
+        ],
+        "date": "[1917]",
+        "digital_id": [
+            "cph 3g10041 //hdl.loc.gov/loc.pnp/cph.3g10041"
+        ],
+        "display_offsite": true,
+        "format": [
+            "still image"
+        ],
+        "formats": [
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=format&q=Lithographs--Color--1910-1920.&co=pos",
+                "title": "Lithographs--Color--1910-1920."
+            },
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=format&q=War%20posters--American--1910-1920.&co=pos",
+                "title": "War posters--American--1910-1920."
+            }
+        ],
+        "genre": [
+            "War posters--American--1910-1920",
+            "Lithographs--Color--1910-1920"
+        ],
+        "id": "2002709073",
+        "language": [
+            "eng"
+        ],
+        "link": "https://www.loc.gov/pictures/item/2002709073/",
+        "location": [
+            "United States"
+        ],
+        "marc": "https://www.loc.gov/pictures/item/2002709073/marc/",
+        "medium": [
+            "1 print (poster) : lithograph, color ; 146 x 99 cm."
+        ],
+        "medium_brief": "1 print (poster) :",
+        "mediums": [
+            "1 print (poster) : lithograph, color ; 146 x 99 cm."
+        ],
+        "modified": "2016-04-20T04:37:42Z",
+        "notes": [
+            "Issued by Publications Section, Emergency Fleet Corporation, Philadelphia, Pa."
+        ],
+        "number_former_id": [
+            "https://www.loc.gov/item/2002709073",
+            "https://www.loc.gov/item/12761733"
+        ],
+        "other_control_numbers": [
+            "12761733"
+        ],
+        "place": [
+            {
+                "latitude": "",
+                "link": "https://www.loc.gov/pictures/related/?fi=place&q=United%20States&co=pos",
+                "longitude": "",
+                "title": "United States"
+            }
+        ],
+        "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+        "reproduction_number": "LC-USZC4-10041 (color film copy transparency)",
+        "resource_links": [
+            "//hdl.loc.gov/loc.pnp/cph.3g10041"
+        ],
+        "rights_advisory": "No known restrictions on publication. For information see \"World War I Posters\" (http://lcweb.loc.gov/rr/print/res/243_wwipos.html)",
+        "rights_information": "No known restrictions on publication. For information see \"World War I Posters\" (http://lcweb.loc.gov/rr/print/res/243_wwipos.html)",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10041_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10041r.jpg",
+        "sort_date": "1917",
+        "source_created": "2002-05-01T00:00:00Z",
+        "source_modified": "2013-05-14T12:48:38Z",
+        "stmt_of_responsibility": "James H. Daugherty.",
+        "subject_headings": [
+            "United States Shipping Board Emergency Fleet Corporation--1910-1920.",
+            "World War, 1914-1918--Economic & industrial aspects--United States.",
+            "War bonds & funds--1910-1920.",
+            "Eagles--1910-1920.",
+            "Ships--1910-1920.",
+            "United States"
+        ],
+        "subjects": [
+            "United States Shipping Board Emergency Fleet Corporation--1910-1920",
+            "World War, 1914-1918--Economic & industrial aspects--United States",
+            "War bonds & funds--1910-1920",
+            "Eagles--1910-1920",
+            "Ships--1910-1920"
+        ],
+        "summary": "Poster showing a large eagle flying above ships setting sail for a distant shore in flames.",
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10041_150px.jpg",
+        "title": "The ships are coming United States Shipping Board, Emergency Fleet Corporation /"
+    },
+    "language": [
+        "english"
+    ],
+    "languages": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+        }
+    ],
+    "library_of_congress_control_number": "2002709073",
+    "link": "https://www.loc.gov/pictures/item/2002709073/",
+    "location": [
+        "united states"
+    ],
+    "locations": [
+        {
+            "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+        }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2002709073/marc/",
+    "medium": [
+        "1 print (poster) : lithograph, color ; 146 x 99 cm."
+    ],
+    "medium_brief": "1 print (poster) :",
+    "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+    ],
+    "modified": "2016-04-20T04:37:42Z",
+    "notes": [
+        "Issued by Publications Section, Emergency Fleet Corporation, Philadelphia, Pa."
+    ],
+    "number": [
+        "http://www.loc.gov/item/2002709073",
+        "2013-05-14t12:48:38",
+        "http://www.loc.gov/item/12761733",
+        "2002709073"
+    ],
+    "number_former_id": [
+        "http://www.loc.gov/item/12761733",
+        "http://www.loc.gov/item/2002709073"
+    ],
+    "number_lccn": [
+        "2002709073"
+    ],
+    "number_source_modified": [
+        "2013-05-14t12:48:38"
+    ],
+    "online_format": [
+        "image"
+    ],
+    "original_format": [
+        "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+        "12761733"
+    ],
+    "other_formats": [
+        {
+            "label": "MARCXML Record",
+            "link": "https://lccn.loc.gov/2002709073/marcxml"
+        },
+        {
+            "label": "MODS Record",
+            "link": "https://lccn.loc.gov/2002709073/mods"
+        },
+        {
+            "label": "Dublin Core Record",
+            "link": "https://lccn.loc.gov/2002709073/dc"
+        }
+    ],
+    "partof": [
+        {
+            "count": 1871,
+            "title": "posters: world war i posters",
+            "url": "https://www.loc.gov/collections/world-war-i-posters/?fo=json"
+        },
+        {
+            "count": 4410,
+            "title": "posters: artist posters",
+            "url": "https://www.loc.gov/collections/artists-posters/?fo=json"
+        },
+        {
+            "count": 909548,
+            "title": "prints & photographs online catalog (library of congress)",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+        },
+        {
+            "count": 1163254,
+            "title": "prints and photographs division",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+        },
+        {
+            "count": 1905823,
+            "title": "catalog",
+            "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+        }
+    ],
+    "place": [
+        {
+            "latitude": "",
+            "link": "https://www.loc.gov/pictures/related/?fi=place&q=United%20States&co=pos",
+            "longitude": "",
+            "title": "United States"
+        }
+    ],
+    "related": {
+        "neighbors": "https://www.loc.gov/pictures/related/?&co=pos&pk=2002709073&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+        "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA"
+    ],
+    "reproduction_number": "LC-USZC4-10041 (color film copy transparency)",
+    "reproductions": [],
+    "resource_links": [
+        "//hdl.loc.gov/loc.pnp/cph.3g10041"
+    ],
+    "resources": [
+        {
+            "caption": "color film copy transparency",
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10041_150px.jpg",
+            "url": "https://www.loc.gov/resource/cph.3g10041/"
+        }
+    ],
+    "rights": [
+        "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/243_wwipos.html\">World War I Posters - Rights and Restrictions Information</a> </p>\n\n"
+    ],
+    "rights_advisory": "No known restrictions on publication. For information see \"World War I Posters\" (http://lcweb.loc.gov/rr/print/res/243_wwipos.html)",
+    "rights_information": "No known restrictions on publication. For information see \"World War I Posters\" (http://lcweb.loc.gov/rr/print/res/243_wwipos.html)",
+    "score": 19.474854,
+    "shard": "00",
+    "shelf_id": "POS - US .D38, no. 1 (C size) [P&P]",
+    "site": [
+        "pictures",
+        "catalog"
+    ],
+    "sort_date": "1917",
+    "source_created": "2002-05-01T00:00:00Z",
+    "source_modified": "2013-05-14T12:48:38Z",
+    "stmt_of_responsibility": "James H. Daugherty.",
+    "subject": [
+        "united states",
+        "color",
+        "war posters",
+        "eagles",
+        "war bonds & funds",
+        "lithographs",
+        "ships",
+        "economic & industrial aspects",
+        "american",
+        "world war",
+        "united states shipping board emergency fleet corporation"
+    ],
+    "subject_headings": [
+        "United States Shipping Board Emergency Fleet Corporation--1910-1920",
+        "World War, 1914-1918--Economic & industrial aspects--United States",
+        "War bonds & funds--1910-1920",
+        "Eagles--1910-1920",
+        "Ships--1910-1920"
+    ],
+    "subjects": [
+        {
+            "american": "https://www.loc.gov/search/?fa=subject:american&fo=json"
+        },
+        {
+            "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+        },
+        {
+            "eagles": "https://www.loc.gov/search/?fa=subject:eagles&fo=json"
+        },
+        {
+            "economic & industrial aspects": "https://www.loc.gov/search/?fa=subject:economic+%26+industrial+aspects&fo=json"
+        },
+        {
+            "lithographs": "https://www.loc.gov/search/?fa=subject:lithographs&fo=json"
+        },
+        {
+            "ships": "https://www.loc.gov/search/?fa=subject:ships&fo=json"
+        },
+        {
+            "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+        },
+        {
+            "united states shipping board emergency fleet corporation": "https://www.loc.gov/search/?fa=subject:united+states+shipping+board+emergency+fleet+corporation&fo=json"
+        },
+        {
+            "war bonds & funds": "https://www.loc.gov/search/?fa=subject:war+bonds+%26+funds&fo=json"
+        },
+        {
+            "war posters": "https://www.loc.gov/search/?fa=subject:war+posters&fo=json"
+        },
+        {
+            "world war": "https://www.loc.gov/search/?fa=subject:world+war&fo=json"
+        }
+    ],
+    "summary": "Poster showing a large eagle flying above ships setting sail for a distant shore in flames.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g10000/3g10000/3g10041_150px.jpg",
+    "timestamp": "2022-04-23T07:41:15.430Z",
+    "title": "The ships are coming United States Shipping Board, Emergency Fleet Corporation / / James H. Daugherty.",
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2002709073/"
+}
