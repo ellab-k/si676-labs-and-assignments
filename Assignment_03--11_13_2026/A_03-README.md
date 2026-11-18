@@ -8,3 +8,6 @@ gets collection item list
 
 ## item_data_extract.py
 gets individual item metadata
+
+## item_file_extract.py
+gets files from existing metadata files in collection data dir
