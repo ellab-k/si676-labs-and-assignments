@@ -1,0 +1,471 @@
+{
+    "_version_": 1750861136945741824,
+    "access_advisory": [
+        "Restricted access. For reference access, please use the digital images in the online catalog to preserve the fragile original items."
+    ],
+    "access_restricted": false,
+    "aka": [
+        "http://lccn.loc.gov/2018679064",
+        "http://www.loc.gov/item/2018679064/",
+        "https://hdl.loc.gov/loc.pnp/ppem.01387",
+        "http://www.loc.gov/resource/ppem.01387/",
+        "https://hdl.loc.gov/loc.pnp/prokc.20189",
+        "http://www.loc.gov/resource/prokc.20189/",
+        "https://hdl.loc.gov/loc.pnp/prok.10189",
+        "http://www.loc.gov/resource/prok.10189/",
+        "https://hdl.loc.gov/loc.pnp/prok.00189",
+        "http://www.loc.gov/resource/prok.00189/",
+        "https://www.loc.gov/pictures/item/2018679064/",
+        "http://www.loc.gov/pictures/item/2018679064/",
+        "https://www.loc.gov/pictures/collection/prok/item/2018679064/",
+        "http://www.loc.gov/pictures/collection/prok/item/2018679064/",
+        "https://hdl.loc.gov/loc.pnp/ppem.01387",
+        "https://hdl.loc.gov/loc.pnp/prokc.20189",
+        "https://hdl.loc.gov/loc.pnp/prok.10189",
+        "https://hdl.loc.gov/loc.pnp/prok.00189"
+    ],
+    "call_number": [
+        "LC-P87- 1050"
+    ],
+    "campaigns": [],
+    "contributor_names": [
+        "Prokudin-Gorski\u012d, Serge\u012d Mikha\u012dlovich, 1863-1944, photographer"
+    ],
+    "contributors": [
+        {
+            "prokudin-gorski\u012d, serge\u012d mikha\u012dlovich": "https://www.loc.gov/search/?fa=contributor:prokudin-gorski%C4%AD,+serge%C4%AD+mikha%C4%ADlovich&fo=json"
+        }
+    ],
+    "control_number": "",
+    "created": "2021-08-06T14:07:39Z",
+    "created_published": [
+        "[between 1905 and 1915]"
+    ],
+    "created_published_date": "[between 1905 and 1915]",
+    "date": "1905-01-01",
+    "dates": [
+        {
+            "1905": "https://www.loc.gov/search/?dates=1905/1905&fo=json"
+        }
+    ],
+    "description": [
+        "Credit line: Prokudin-Gorskii\u0306 photograph collection, Library of Congress, Prints and Photographs Division. Corresponding photographic print is in album: Various views and studies, Russian Empire and Europe, LOT 10333, no. 50. Digital color rendering and retouching by Walt Frankhauser, WalterStudio, 2005-2020. Digital color composite made for the Library by Blaise Agu\u0308era y Arcas, 2004. General information about the Prokudin-Gorskii\u0306 photograph collection is available at: https://hdl.loc.gov/loc.pnp/pp.prok Forms part of: Prokudin-Gorskii\u0306 photograph collection (Library of Congress)."
+    ],
+    "digital_id": [
+        "https://hdl.loc.gov/loc.pnp/ppem.01387",
+        "https://hdl.loc.gov/loc.pnp/prokc.20189",
+        "https://hdl.loc.gov/loc.pnp/prok.10189",
+        "https://hdl.loc.gov/loc.pnp/prok.00189"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2022-11-29T18:41:09.317Z",
+    "extract_urls": [
+        "http://lccn.loc.gov/2018679064#pp/mtfront",
+        "http://www.loc.gov/pictures/collection/prok/item/2018679064/#prok",
+        "http://lccn.loc.gov/2018679064#catalog-split-11"
+    ],
+    "format": [
+        {
+            "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+        }
+    ],
+    "format_headings": [
+        "Color separation negatives.",
+        "Glass negatives."
+    ],
+    "genre": [
+        "Glass negatives",
+        "Color separation negatives"
+    ],
+    "group": [
+        "pp/mtfront",
+        "prok",
+        "catalog-split-11",
+        "catalog",
+        "meeting-of-frontiers-prints-and-photographs",
+        "prokudin-gorskii",
+        "main-catalog-split-11",
+        "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2018679064/",
+    "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppem/01300/01387_150px.jpg#h=129&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppem/01300/01387r.jpg#h=549&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppem/01300/01387v.jpg#h=878&w=1024"
+    ],
+    "index": 1,
+    "item": {
+        "access_advisory": [
+            "Restricted access. For reference access, please use the digital images in the online catalog to preserve the fragile original items."
+        ],
+        "call_number": [
+            "LC-P87- 1050"
+        ],
+        "contributors": [
+            "Prokudin-Gorski\u012d, Serge\u012d Mikha\u012dlovich, 1863-1944, photographer"
+        ],
+        "control_number": "2018679064",
+        "created": "2021-08-06T14:07:39Z",
+        "created_published": [
+            "[between 1905 and 1915]"
+        ],
+        "created_published_date": "[between 1905 and 1915]",
+        "creators": [
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Prokudin-Gorski%C4%AD%2C%20Serge%C4%AD%20Mikha%C4%ADlovich%2C%201863-1944&co=prok",
+                "role": "photographer",
+                "title": "Prokudin-Gorski\u012d, Serge\u012d Mikha\u012dlovich, 1863-1944"
+            }
+        ],
+        "date": "1905",
+        "digital_id": [
+            "https://hdl.loc.gov/loc.pnp/ppem.01387",
+            "https://hdl.loc.gov/loc.pnp/prokc.20189",
+            "https://hdl.loc.gov/loc.pnp/prok.10189",
+            "https://hdl.loc.gov/loc.pnp/prok.00189"
+        ],
+        "display_offsite": true,
+        "format": [
+            "still image"
+        ],
+        "formats": [
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=format&q=Color%20separation%20negatives.&co=prok",
+                "title": "Color separation negatives."
+            },
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=format&q=Glass%20negatives.&co=prok",
+                "title": "Glass negatives."
+            }
+        ],
+        "genre": [
+            "Glass negatives",
+            "Color separation negatives"
+        ],
+        "id": "2018679064",
+        "language": [
+            "rus"
+        ],
+        "link": "https://www.loc.gov/pictures/item/2018679064/",
+        "marc": "https://www.loc.gov/pictures/item/2018679064/marc/",
+        "medium": [
+            "1 negative (3 frames) : glass, b&w, three-color separation ; 24 x 9 cm."
+        ],
+        "medium_brief": "1 negative (3 frames) :",
+        "mediums": [
+            "1 negative (3 frames) : glass, b&w, three-color separation ; 24 x 9 cm."
+        ],
+        "modified": "2021-08-06T14:07:46Z",
+        "notes": [
+            "Credit line: Prokudin-Gorskii\u0306 photograph collection, Library of Congress, Prints and Photographs Division.",
+            "Corresponding photographic print is in album: Various views and studies, Russian Empire and Europe, LOT 10333, no. 50.",
+            "Digital color rendering and retouching by Walt Frankhauser, WalterStudio, 2005-2020.",
+            "Digital color composite made for the Library by Blaise Agu\u0308era y Arcas, 2004.",
+            "General information about the Prokudin-Gorskii\u0306 photograph collection is available at: https://hdl.loc.gov/loc.pnp/pp.prok",
+            "Forms part of: Prokudin-Gorskii\u0306 photograph collection (Library of Congress)."
+        ],
+        "number_former_id": [
+            "https://www.loc.gov/item/2018679064",
+            "https://www.loc.gov/item/prk2000000321"
+        ],
+        "other_control_numbers": [
+            "20769205",
+            "prk2000000321"
+        ],
+        "part_of": "Prokudin-Gorski\u012d, Serge\u012d Mikha\u012dlovich, 1863-1944. Prokudin-Gorski\u012d Collection (Library of Congress)",
+        "place": [
+            {
+                "latitude": "",
+                "link": "https://www.loc.gov/pictures/related/?fi=place&q=Russia%20%28Federation%29&co=prok",
+                "longitude": "",
+                "title": "Russia (Federation)"
+            }
+        ],
+        "related_items": [
+            {
+                "title": "album page with related prints",
+                "url": "https://hdl.loc.gov/loc.pnp/proka.0004a.09"
+            }
+        ],
+        "repository": [
+            "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA dcu"
+        ],
+        "reproduction_number": [
+            "LC-DIG-ppem-01387 (digital color rendering from digital files from glass neg.)",
+            "LC-DIG-prokc-20189 (digital color composite from digital file from glass neg.)",
+            "LC-DIG-prok-10189 (detail of digital file showing single frame from glass neg.)",
+            "LC-DIG-prok-00189 (digital file from glass neg.)"
+        ],
+        "resource_links": [
+            "https://hdl.loc.gov/loc.pnp/ppem.01387",
+            "https://hdl.loc.gov/loc.pnp/prokc.20189",
+            "https://hdl.loc.gov/loc.pnp/prok.10189",
+            "https://hdl.loc.gov/loc.pnp/prok.00189"
+        ],
+        "restriction": "Restricted access. For reference access, please use the digital images in the online catalog to preserve the fragile original items.",
+        "rights_advisory": [
+            "No known restrictions on publication. For additional information on commercial use, see \"Prokudin-Gorskii...,\" https://hdl.loc.gov/loc.pnp/res.237.prok"
+        ],
+        "rights_information": "No known restrictions on publication. For additional information on commercial use, see \"Prokudin-Gorskii...,\" https://hdl.loc.gov/loc.pnp/res.237.prok",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppem/01300/01387_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppem/01300/01387r.jpg",
+        "sort_date": "1905",
+        "source_collection": [
+            "Prokudin-Gorskii\u0306, Sergei\u0306 Mikhai\u0306lovich, 1863-1944. Prokudin-Gorskii\u0306 Collection (Library of Congress)"
+        ],
+        "source_created": "2000-06-28T00:00:00Z",
+        "source_modified": "2020-12-12T19:34:40Z",
+        "subject_headings": [
+            "Clothing & dress.",
+            "Russia (Federation)",
+            "Russia (Federation)"
+        ],
+        "subjects": [
+            "Clothing & dress",
+            "Russia (Federation)"
+        ],
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppem/01300/01387_150px.jpg",
+        "title": "Kurmy",
+        "translated_title": [
+            "[Clothing display]"
+        ]
+    },
+    "language": [
+        "english",
+        "russian"
+    ],
+    "languages": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+        },
+        {
+            "russian": "https://www.loc.gov/search/?fa=language:russian&fo=json"
+        }
+    ],
+    "library_of_congress_control_number": "2018679064",
+    "link": "https://www.loc.gov/pictures/item/2018679064/",
+    "location": [
+        "russian federation",
+        "russia (federation)"
+    ],
+    "location_country": [
+        "russia (federation)"
+    ],
+    "locations": [
+        {
+            "russia (federation)": "https://www.loc.gov/search/?fa=location:russia+%28federation%29&fo=json"
+        },
+        {
+            "russian federation": "https://www.loc.gov/search/?fa=location:russian+federation&fo=json"
+        }
+    ],
+    "locations_country": [
+        {
+            "russia (federation)": "https://www.loc.gov/search/?fa=location_country:russia+%28federation%29&fo=json"
+        }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2018679064/marc/",
+    "medium": [
+        "1 negative (3 frames) : glass, b&w, three-color separation ; 24 x 9 cm."
+    ],
+    "medium_brief": "1 negative (3 frames) :",
+    "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+    ],
+    "modified": "2021-08-06T14:07:46Z",
+    "notes": [
+        "Credit line: Prokudin-Gorskii\u0306 photograph collection, Library of Congress, Prints and Photographs Division.",
+        "Corresponding photographic print is in album: Various views and studies, Russian Empire and Europe, LOT 10333, no. 50.",
+        "Digital color rendering and retouching by Walt Frankhauser, WalterStudio, 2005-2020.",
+        "Digital color composite made for the Library by Blaise Agu\u0308era y Arcas, 2004.",
+        "General information about the Prokudin-Gorskii\u0306 photograph collection is available at: https://hdl.loc.gov/loc.pnp/pp.prok",
+        "Forms part of: Prokudin-Gorskii\u0306 photograph collection (Library of Congress)."
+    ],
+    "number": [
+        "2020-12-12t19:34:40",
+        "http://www.loc.gov/item/2018679064",
+        "2018679064",
+        "http://www.loc.gov/item/prk2000000321",
+        "http://www.loc.gov/item/20769205"
+    ],
+    "number_former_id": [
+        "http://www.loc.gov/item/2018679064",
+        "http://www.loc.gov/item/prk2000000321",
+        "http://www.loc.gov/item/20769205"
+    ],
+    "number_lccn": [
+        "2018679064"
+    ],
+    "number_source_modified": [
+        "2020-12-12t19:34:40"
+    ],
+    "online_format": [
+        "image"
+    ],
+    "original_format": [
+        "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+        "20769205",
+        "prk2000000321"
+    ],
+    "other_formats": [
+        {
+            "label": "MARCXML Record",
+            "link": "https://lccn.loc.gov/2018679064/marcxml"
+        },
+        {
+            "label": "MODS Record",
+            "link": "https://lccn.loc.gov/2018679064/mods"
+        },
+        {
+            "label": "Dublin Core Record",
+            "link": "https://lccn.loc.gov/2018679064/dc"
+        }
+    ],
+    "partof": [
+        {
+            "count": 136,
+            "title": "lot 10333",
+            "url": "https://www.loc.gov/search/?fa=partof:lot+10333&fo=json"
+        },
+        {
+            "count": 2610,
+            "title": "prokudin-gorskii collection",
+            "url": "https://www.loc.gov/collections/prokudin-gorskii/?fo=json"
+        },
+        {
+            "count": 19673,
+            "title": "meeting of frontiers",
+            "url": "https://www.loc.gov/collections/meeting-of-frontiers/?fo=json"
+        },
+        {
+            "count": 909548,
+            "title": "prints & photographs online catalog (library of congress)",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+        },
+        {
+            "count": 1163254,
+            "title": "prints and photographs division",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+        },
+        {
+            "count": 1905824,
+            "title": "catalog",
+            "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+        }
+    ],
+    "place": [
+        {
+            "latitude": "",
+            "link": "https://www.loc.gov/pictures/related/?fi=place&q=Russia%20%28Federation%29&co=prok",
+            "longitude": "",
+            "title": "Russia (Federation)"
+        }
+    ],
+    "related_items": [
+        {
+            "title": "album page with related prints",
+            "url": "https://hdl.loc.gov/loc.pnp/proka.0004a.09"
+        }
+    ],
+    "repository": [
+        "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA dcu"
+    ],
+    "reproduction_number": [
+        "LC-DIG-ppem-01387 (digital color rendering from digital files from glass neg.)",
+        "LC-DIG-prokc-20189 (digital color composite from digital file from glass neg.)",
+        "LC-DIG-prok-10189 (detail of digital file showing single frame from glass neg.)",
+        "LC-DIG-prok-00189 (digital file from glass neg.)"
+    ],
+    "reproductions": [],
+    "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/ppem.01387",
+        "https://hdl.loc.gov/loc.pnp/prokc.20189",
+        "https://hdl.loc.gov/loc.pnp/prok.10189",
+        "https://hdl.loc.gov/loc.pnp/prok.00189"
+    ],
+    "resources": [
+        {
+            "caption": "digital color rendering from digital files from glass neg.",
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/pnp/ppem/01300/01387_150px.jpg",
+            "url": "https://www.loc.gov/resource/ppem.01387/"
+        },
+        {
+            "caption": "digital color composite from digital file from glass neg.",
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/pnp/prokc/20100/20189_150px.jpg",
+            "url": "https://www.loc.gov/resource/prokc.20189/"
+        },
+        {
+            "caption": "detail of digital file showing single frame from glass neg.",
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/pnp/prok/10100/10189_150px.jpg",
+            "url": "https://www.loc.gov/resource/prok.10189/"
+        },
+        {
+            "caption": "digital file from glass neg.",
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/pnp/prok/00100/00189_150px.jpg",
+            "url": "https://www.loc.gov/resource/prok.00189/"
+        }
+    ],
+    "restriction": "Restricted access. For reference access, please use the digital images in the online catalog to preserve the fragile original items.",
+    "rights": [
+        "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/237_prok.html\">Sergei Mikhailovich Prokudin-Gorskii - Rights and Restrictions Information</a> </p>\n\n"
+    ],
+    "rights_advisory": [
+        "No known restrictions on publication. For additional information on commercial use, see \"Prokudin-Gorskii...,\" https://hdl.loc.gov/loc.pnp/res.237.prok"
+    ],
+    "rights_information": "No known restrictions on publication. For additional information on commercial use, see \"Prokudin-Gorskii...,\" https://hdl.loc.gov/loc.pnp/res.237.prok",
+    "score": 19.474854,
+    "shard": "00",
+    "shelf_id": "LC-P87- 1050",
+    "site": [
+        "catalog",
+        "pictures"
+    ],
+    "sort_date": "1905",
+    "source_collection": "Prokudin-Gorski\u012d, Serge\u012d Mikha\u012dlovich, 1863-1944. Prokudin-Gorski\u012d Collection (Library of Congress)",
+    "source_created": "2000-06-28T00:00:00Z",
+    "source_modified": "2020-12-12T19:34:40Z",
+    "subject": [
+        "clothing & dress",
+        "color separation negatives",
+        "glass negatives",
+        "russia (federation)"
+    ],
+    "subject_headings": [
+        "Clothing & dress",
+        "Russia (Federation)"
+    ],
+    "subjects": [
+        {
+            "clothing & dress": "https://www.loc.gov/search/?fa=subject:clothing+%26+dress&fo=json"
+        },
+        {
+            "color separation negatives": "https://www.loc.gov/search/?fa=subject:color+separation+negatives&fo=json"
+        },
+        {
+            "glass negatives": "https://www.loc.gov/search/?fa=subject:glass+negatives&fo=json"
+        },
+        {
+            "russia (federation)": "https://www.loc.gov/search/?fa=subject:russia+%28federation%29&fo=json"
+        }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppem/01300/01387_150px.jpg",
+    "timestamp": "2022-11-29T19:48:17.689Z",
+    "title": "Kurmy",
+    "translated_title": [
+        "[Clothing display]"
+    ],
+    "type": [
+        "still image"
+    ],
+    "url": "https://www.loc.gov/item/2018679064/"
+}

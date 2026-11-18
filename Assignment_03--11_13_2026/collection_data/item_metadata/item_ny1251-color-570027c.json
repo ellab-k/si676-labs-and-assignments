@@ -1,0 +1,87 @@
+{
+    "source_created": "1970-01-01T00:00:00Z",
+    "restriction": null,
+    "other_number": null,
+    "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/hhh.ny1251/color.570027c"
+    ],
+    "title": "258. Close-up detail of left foot  - Statue of Liberty, Liberty Island, Manhattan, New York County, NY",
+    "related_items": [],
+    "medium_brief": "5 x 7 in.",
+    "service_medium": "https://cdn.loc.gov/service/pnp/habshaer/ny/ny1200/ny1251/color/570027cr.jpg",
+    "collections": [
+        {
+            "code": "hh",
+            "link": "https://www.loc.gov/pictures/collection/hh/",
+            "title": "Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscapes Survey"
+        },
+        {
+            "code": "ammem",
+            "link": "https://memory.loc.gov/",
+            "title": "American Memory"
+        }
+    ],
+    "part_of_group": "Photograph ny1251",
+    "stmt_of_responsibility": null,
+    "other_titles": null,
+    "link": "https://www.loc.gov/pictures/item/ny1251.color.570027c/",
+    "other_control_numbers": [],
+    "notes": [],
+    "modified": "2024-12-04T16:49:04Z",
+    "summary": null,
+    "formats": [],
+    "marc": null,
+    "mediums": [
+        {
+            "medium": "5 x 7 in.",
+            "label": null
+        }
+    ],
+    "group_has_items": false,
+    "thumb_gallery": "https://cdn.loc.gov/service/pnp/habshaer/ny/ny1200/ny1251/color/570027c_150px.jpg",
+    "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    http://www.loc.gov/rr/print/res/114_habs.html",
+    "display_offsite": true,
+    "related_names": [],
+    "created_published": "1984",
+    "title_translation": null,
+    "id": "ny1251.color.570027c",
+    "contents": null,
+    "raw_collections": [
+        "diof",
+        "hh"
+    ],
+    "call_number": "HAER NY,31-NEYO,89--258 (CT)",
+    "sort_date": "1984",
+    "subjects": [],
+    "source_modified": "2024-12-04T16:48:00Z",
+    "part_of": null,
+    "terms": [],
+    "reproduction_number": "HAER NY,31-NEYO,89--258 (CT)",
+    "repository": "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "service_low": "https://cdn.loc.gov/service/pnp/habshaer/ny/ny1200/ny1251/color/570027c_150px.jpg",
+    "date": "1984",
+    "created": "2024-12-04T16:49:04Z",
+    "control_number": "ny1251.color.570027c",
+    "place": [
+        {
+            "latitude": "40.689211",
+            "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York--New%20York%20County",
+            "longitude": "-74.044643",
+            "title": "New York--New York County"
+        },
+        {
+            "latitude": "40.689211",
+            "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York",
+            "longitude": "-74.044643",
+            "title": "New York"
+        }
+    ],
+    "creators": [
+        {
+            "link": "https://www.loc.gov/pictures/related/?fi=name&q=Lowe%2C%20Jet",
+            "role": "creator",
+            "title": "Lowe, Jet"
+        }
+    ],
+    "created_published_date": "1984"
+}

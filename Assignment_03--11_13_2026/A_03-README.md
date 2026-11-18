@@ -8,7 +8,3 @@ gets collection item list
 
 ## item_data_extract.py
 gets individual item metadata
-
-## item_filename_fix.py
-renames item metadata json files with LCCN (address multiple key/missing value issues)
-

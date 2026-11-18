@@ -1,9 +1,7 @@
 import re
 import csv
-import glob
 import json
 import requests
-from pathlib import Path
 
 """
 HELPER FUNCTIONS
@@ -57,17 +55,35 @@ def create_item_json(output_dir, item_data):
     Returns
     -------
         json file: a json file with the item data dict. name follows format 'item_{internal_item_id}_metadata'
-        item_id (str): the item LCCN
     """
-    for line in item_data:
-        item_id = re.search(r"http(s){0,1}:\/\/www.loc.gov\/item\/\\(d*)\/", line)
-    # try:
-        print(item_id.group(2))
-    item_filename = output_dir + '/item_' + item_id + '_metadata.json'
+    try:
+        aka = item_data['aka']
+        for item in aka:
+            x = re.search("https?://www\\.loc\\.gov/item/([0-9]+)/", item)
+            if x:
+                item_lccn = x.group(1)
+                break
+            elif not x:
+                x = re.search("https?://www\\.loc\\.gov/item/(.+)/", item)
+                if x:
+                    item_lccn = x.group(1)
+                    break
+    except KeyError:
+        item_lccn = item_data["link"]
+        item_lccn = item_lccn.split("/")[-2]
+
+    item_lccn = item_lccn.replace(".", "-")
+
+    try:
+        if int(item_lccn) and len(item_lccn) < 10:
+            item_lccn = "00" + item_lccn
+    except ValueError:
+        pass
+
+    item_filename = output_dir + '/item_' + item_lccn + '.json'
     with open(item_filename, 'w', encoding='utf-8') as f:
         json.dump(item_data, f, indent=4)
         print('wrote ' + item_filename)
-    return item_id
 
 def main():
     filename = "/Users/ebk/Documents/UMSI/F2026/SI-676/Labs_and_Assignments/si676-labs-and-assignments/Assignment_03--11_13_2026/collection_item_list.csv"
@@ -79,13 +95,8 @@ def main():
 
     i = 0
     for i in range(len(data)):
-        if i+1 < 10:
-            create_item_json(metadata_dir, get_item_data(baseURL, data[i]['link'], params))
-        # else:
-            # create_item_json(metadata_dir, get_item_data(baseURL, data[i]['link'], params))
+        create_item_json(metadata_dir, get_item_data(baseURL, data[i]['link'], params))
         i+=1
-
-
 
 
 if __name__ == '__main__':

@@ -1,0 +1,539 @@
+{
+    "_version_": 1851624331346444288,
+    "access_restricted": false,
+    "aka": [
+        "https://www.loc.gov/pictures/item/96509578/",
+        "http://www.loc.gov/item/96509578/",
+        "http://www.loc.gov/pictures/item/96509578/",
+        "https://www.loc.gov/pictures/collection/cph/item/96509578/",
+        "http://www.loc.gov/pictures/collection/cph/item/96509578/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.12815",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.12815",
+        "https://hdl.loc.gov/loc.pnp/cph.3b38397",
+        "https://hdl.loc.gov/loc.pnp/cph.3b38397",
+        "http://www.loc.gov/resource/ppmsca.12815/",
+        "http://www.loc.gov/resource/cph.3b38397/",
+        "http://lccn.loc.gov/96509578",
+        "https://search.catalog.loc.gov/instances/33b9cfe9-5842-5c1d-95f0-afd07b004d44"
+    ],
+    "call_number": "POS - ADV 20th c. - Food. S273, no. 1 (C size) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+        "Leutze, Emanuel, 1816-1868, artist"
+    ],
+    "contributors": [
+        {
+            "leutze, emanuel": "https://www.loc.gov/search/?fa=contributor:leutze,+emanuel&fo=json"
+        }
+    ],
+    "control_number": "",
+    "created": "2025-11-25T05:31:18Z",
+    "created_published": [
+        "[Milwaukee : 1947]"
+    ],
+    "created_published_date": "1947]",
+    "date": "1947",
+    "dates": [
+        {
+            "1947": "https://www.loc.gov/search/?dates=1947/1947&fo=json"
+        }
+    ],
+    "description": [
+        "1 print (poster) : chromolithograph. | Poster shows George Washington crossing a river of cherry pies. It is a spoof on Emanuel Leutze's painting of Washington crossing the Delaware."
+    ],
+    "digital_id": [
+        "ppmsca 12815 https://hdl.loc.gov/loc.pnp/ppmsca.12815",
+        "cph 3b38397 https://hdl.loc.gov/loc.pnp/cph.3b38397"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2025-12-16T00:47:30.160Z",
+    "extract_urls": [
+        "http://www.loc.gov/pictures/collection/cph/item/96509578/#cph",
+        "http://lccn.loc.gov/96509578#catalog-split-01"
+    ],
+    "format": [
+        {
+            "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+        }
+    ],
+    "format_headings": [
+        "Advertisements--1940-1950.",
+        "Chromolithographs--1940-1950.",
+        "Conjectural works--1850-1860.",
+        "Paintings--Reproductions--1940-1950.",
+        "Posters--1940-1950."
+    ],
+    "genre": [
+        "Advertisements--1940-1950",
+        "Chromolithographs--1940-1950",
+        "Conjectural works--1850-1860",
+        "Paintings--Reproductions--1940-1950",
+        "Posters--1940-1950"
+    ],
+    "group": [
+        "cph",
+        "catalog-split-01",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-01"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/96509578/",
+    "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/12800/12815_150px.jpg#h=88&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/12800/12815t.gif#h=88&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/12800/12815r.jpg#h=375&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/12800/12815v.jpg#h=601&w=1024"
+    ],
+    "index": 1,
+    "item": {
+        "call_number": "POS - ADV 20th c. - Food. S273, no. 1 (C size) [P&P]",
+        "contributor_names": [
+            "Leutze, Emanuel, 1816-1868, artist "
+        ],
+        "contributors": [
+            "Leutze, Emanuel, 1816-1868, artist"
+        ],
+        "control_number": "96509578",
+        "created": "2025-11-25T05:31:18Z",
+        "created_published": "[Milwaukee : 1947]",
+        "created_published_date": "1947]",
+        "creators": [
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=name&q=Leutze%2C%20Emanuel%2C%201816-1868&co=cph",
+                "role": "artist",
+                "title": "Leutze, Emanuel, 1816-1868"
+            }
+        ],
+        "date": "1947]",
+        "digital_id": [
+            "ppmsca 12815 https://hdl.loc.gov/loc.pnp/ppmsca.12815",
+            "cph 3b38397 https://hdl.loc.gov/loc.pnp/cph.3b38397"
+        ],
+        "display_offsite": true,
+        "format": [
+            "still image"
+        ],
+        "formats": [
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=format&q=Advertisements--1940-1950.&co=cph",
+                "title": "Advertisements--1940-1950."
+            },
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=format&q=Chromolithographs--1940-1950.&co=cph",
+                "title": "Chromolithographs--1940-1950."
+            },
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=format&q=Conjectural%20works--1850-1860.&co=cph",
+                "title": "Conjectural works--1850-1860."
+            },
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=format&q=Paintings--Reproductions--1940-1950.&co=cph",
+                "title": "Paintings--Reproductions--1940-1950."
+            },
+            {
+                "link": "https://www.loc.gov/pictures/related/?fi=format&q=Posters--1940-1950.&co=cph",
+                "title": "Posters--1940-1950."
+            }
+        ],
+        "genre": [
+            "Advertisements--1940-1950",
+            "Chromolithographs--1940-1950",
+            "Conjectural works--1850-1860",
+            "Paintings--Reproductions--1940-1950",
+            "Posters--1940-1950"
+        ],
+        "id": "96509578",
+        "link": "https://www.loc.gov/pictures/item/96509578/",
+        "location": [
+            "Delaware River (N.Y.-Del. and N.J.)",
+            "New Jersey--Trenton",
+            "Trenton, Battle of, Trenton, N.J., 1776",
+            "United States"
+        ],
+        "marc": "https://www.loc.gov/pictures/item/96509578/marc/",
+        "medium": [
+            "1 print (poster) : chromolithograph."
+        ],
+        "medium_brief": "1 print (poster) :",
+        "mediums": [
+            "1 print (poster) : chromolithograph."
+        ],
+        "modified": "2025-11-25T05:31:20Z",
+        "notes": [
+            "A.C. Schultz Litho. Co.",
+            "Signed: Navigato."
+        ],
+        "number_former_id": [
+            "https://www.loc.gov/item/96509578",
+            "https://www.loc.gov/item/11674443"
+        ],
+        "other_control_numbers": [
+            "11674443"
+        ],
+        "place": [
+            {
+                "latitude": "",
+                "link": "https://www.loc.gov/pictures/related/?fi=place&q=Delaware%20River%20%28N.Y.-Del.%20and%20N.J.%29&co=cph",
+                "longitude": "",
+                "title": "Delaware River (N.Y.-Del. and N.J.)"
+            },
+            {
+                "latitude": "",
+                "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20Jersey--Trenton&co=cph",
+                "longitude": "",
+                "title": "New Jersey--Trenton"
+            },
+            {
+                "latitude": "",
+                "link": "https://www.loc.gov/pictures/related/?fi=place&q=Trenton%2C%20Battle%20of%2C%20Trenton%2C%20N.J.%2C%201776&co=cph",
+                "longitude": "",
+                "title": "Trenton, Battle of, Trenton, N.J., 1776"
+            },
+            {
+                "latitude": "",
+                "link": "https://www.loc.gov/pictures/related/?fi=place&q=United%20States&co=cph",
+                "longitude": "",
+                "title": "United States"
+            }
+        ],
+        "raw_collections": [
+            "cph",
+            "diof",
+            "flickrpie",
+            "flickrppoc",
+            "pp"
+        ],
+        "reproduction_number": "LC-DIG-ppmsca-12815 (digital file from original print)\nLC-USZ62-92075 (b&w film copy neg.)",
+        "resource_links": [
+            "https://hdl.loc.gov/loc.pnp/ppmsca.12815",
+            "https://hdl.loc.gov/loc.pnp/cph.3b38397"
+        ],
+        "rights_advisory": "No known restrictions on publication. No copyright renewal found in U.S. Copyright Office (checked 2014).",
+        "rights_information": "No known restrictions on publication. No copyright renewal found in U.S. Copyright Office (checked 2014).",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/12800/12815_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/12800/12815r.jpg",
+        "sort_date": "1947",
+        "source_created": "1996-05-21T00:00:00Z",
+        "source_modified": "2025-11-20T13:08:59Z",
+        "subject_headings": [
+            "Washington, George,--1732-1799--Military service.",
+            "United States.--Continental Army--1770-1780.",
+            "Ice--Delaware River (N.Y.-Del. and N.J.)--1770-1780.",
+            "Pies--1940-1950.",
+            "Rivers--New Jersey--Trenton--1770-1780.",
+            "Row boats--New Jersey--Trenton--1770-1780.",
+            "Delaware River (N.Y.-Del. and N.J.)--1770-1780.",
+            "Trenton, Battle of, Trenton, N.J., 1776--Military personnel.",
+            "United States--History--Revolution, 1775-1783--Campaigns & battles.",
+            "Delaware River (N.Y.-Del. And N.J.)",
+            "New Jersey--Trenton"
+        ],
+        "subjects": [
+            "Washington, George,--1732-1799--Military service",
+            "United States.--Continental Army--1770-1780",
+            "Ice--Delaware River (N.Y.-Del. and N.J.)--1770-1780",
+            "Pies--1940-1950",
+            "Rivers--New Jersey--Trenton--1770-1780",
+            "Row boats--New Jersey--Trenton--1770-1780",
+            "Delaware River (N.Y.-Del. and N.J.)--1770-1780",
+            "Trenton, Battle of, Trenton, N.J., 1776--Military personnel",
+            "United States--History--Revolution, 1775-1783--Campaigns & battles"
+        ],
+        "summary": "Poster shows George Washington crossing a river of cherry pies. It is a spoof on Emanuel Leutze's painting of Washington crossing the Delaware.",
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/12800/12815_150px.jpg",
+        "title": "Lloyd J. Harriss Pies"
+    },
+    "language": [
+        "english"
+    ],
+    "languages": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+        }
+    ],
+    "library_of_congress_control_number": "96509578",
+    "link": "https://www.loc.gov/pictures/item/96509578/",
+    "location": [
+        "delaware river",
+        "new jersey",
+        "delaware",
+        "united states",
+        "new york",
+        "trenton"
+    ],
+    "locations": [
+        {
+            "delaware": "https://www.loc.gov/search/?fa=location:delaware&fo=json"
+        },
+        {
+            "delaware river": "https://www.loc.gov/search/?fa=location:delaware+river&fo=json"
+        },
+        {
+            "new jersey": "https://www.loc.gov/search/?fa=location:new+jersey&fo=json"
+        },
+        {
+            "new york": "https://www.loc.gov/search/?fa=location:new+york&fo=json"
+        },
+        {
+            "trenton": "https://www.loc.gov/search/?fa=location:trenton&fo=json"
+        },
+        {
+            "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+        }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/96509578/marc/",
+    "medium": [
+        "1 print (poster) : chromolithograph."
+    ],
+    "medium_brief": "1 print (poster) :",
+    "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+    ],
+    "modified": "2025-11-25T05:31:20Z",
+    "notes": [
+        "A.C. Schultz Litho. Co.",
+        "Signed: Navigato."
+    ],
+    "number": [
+        "sheet",
+        "96509578",
+        "http://www.loc.gov/item/11674443",
+        "http://www.loc.gov/item/96509578",
+        "2025-11-20t13:08:59.200000",
+        "online resource"
+    ],
+    "number_carrier_type": [
+        "sheet",
+        "online resource"
+    ],
+    "number_former_id": [
+        "http://www.loc.gov/item/11674443",
+        "http://www.loc.gov/item/96509578"
+    ],
+    "number_lccn": [
+        "96509578"
+    ],
+    "number_source_modified": [
+        "2025-11-20t13:08:59.200000"
+    ],
+    "online_format": [
+        "image"
+    ],
+    "original_format": [
+        "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+        "11674443"
+    ],
+    "other_formats": [
+        {
+            "label": "MARCXML Record",
+            "link": "https://lccn.loc.gov/96509578/marcxml"
+        },
+        {
+            "label": "MODS Record",
+            "link": "https://lccn.loc.gov/96509578/mods"
+        },
+        {
+            "label": "Dublin Core Record",
+            "link": "https://lccn.loc.gov/96509578/dc"
+        }
+    ],
+    "partof": [
+        {
+            "count": 1163254,
+            "title": "prints and photographs division",
+            "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+        },
+        {
+            "count": 1905824,
+            "title": "catalog",
+            "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+        }
+    ],
+    "place": [
+        {
+            "latitude": "",
+            "link": "https://www.loc.gov/pictures/related/?fi=place&q=Delaware%20River%20%28N.Y.-Del.%20and%20N.J.%29&co=cph",
+            "longitude": "",
+            "title": "Delaware River (N.Y.-Del. and N.J.)"
+        },
+        {
+            "latitude": "",
+            "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20Jersey--Trenton&co=cph",
+            "longitude": "",
+            "title": "New Jersey--Trenton"
+        },
+        {
+            "latitude": "",
+            "link": "https://www.loc.gov/pictures/related/?fi=place&q=Trenton%2C%20Battle%20of%2C%20Trenton%2C%20N.J.%2C%201776&co=cph",
+            "longitude": "",
+            "title": "Trenton, Battle of, Trenton, N.J., 1776"
+        },
+        {
+            "latitude": "",
+            "link": "https://www.loc.gov/pictures/related/?fi=place&q=United%20States&co=cph",
+            "longitude": "",
+            "title": "United States"
+        }
+    ],
+    "raw_collections": [
+        "cph",
+        "diof",
+        "flickrpie",
+        "flickrppoc",
+        "pp"
+    ],
+    "related": {
+        "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=96509578&st=gallery&sb=call_number#focus"
+    },
+    "reproduction_number": "LC-DIG-ppmsca-12815 (digital file from original print)\nLC-USZ62-92075 (b&w film copy neg.)",
+    "reproductions": [],
+    "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/ppmsca.12815",
+        "https://hdl.loc.gov/loc.pnp/cph.3b38397"
+    ],
+    "resources": [
+        {
+            "caption": "digital file from original print",
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/12800/12815_150px.jpg",
+            "url": "https://www.loc.gov/resource/ppmsca.12815/"
+        },
+        {
+            "caption": "digital file from b&w film copy neg.",
+            "files": 1,
+            "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b38000/3b38300/3b38397_150px.jpg",
+            "url": "https://www.loc.gov/resource/cph.3b38397/"
+        }
+    ],
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication. No copyright renewal found in U.S. Copyright Office (checked 2014).",
+    "rights_information": "No known restrictions on publication. No copyright renewal found in U.S. Copyright Office (checked 2014).",
+    "score": 18.89135,
+    "shard": "00",
+    "shelf_id": "POS - ADV 20th c. - Food. S273, no. 1 (C size) [P&P]",
+    "site": [
+        "pictures",
+        "catalog"
+    ],
+    "sort_date": "1947",
+    "source_created": "1996-05-21T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+        "delaware river (n.y.-del. and n.j.)",
+        "rivers",
+        "revolution",
+        "trenton, battle of, trenton, n.j.",
+        "posters",
+        "trenton",
+        "washington, george",
+        "conjectural works",
+        "military service",
+        "history",
+        "pies",
+        "new jersey",
+        "reproductions",
+        "ice",
+        "campaigns & battles",
+        "advertisements",
+        "row boats",
+        "united states",
+        "chromolithographs",
+        "military personnel",
+        "continental army",
+        "paintings"
+    ],
+    "subject_headings": [
+        "Washington, George,--1732-1799--Military service",
+        "United States.--Continental Army--1770-1780",
+        "Ice--Delaware River (N.Y.-Del. and N.J.)--1770-1780",
+        "Pies--1940-1950",
+        "Rivers--New Jersey--Trenton--1770-1780",
+        "Row boats--New Jersey--Trenton--1770-1780",
+        "Delaware River (N.Y.-Del. and N.J.)--1770-1780",
+        "Trenton, Battle of, Trenton, N.J., 1776--Military personnel",
+        "United States--History--Revolution, 1775-1783--Campaigns & battles"
+    ],
+    "subjects": [
+        {
+            "advertisements": "https://www.loc.gov/search/?fa=subject:advertisements&fo=json"
+        },
+        {
+            "campaigns & battles": "https://www.loc.gov/search/?fa=subject:campaigns+%26+battles&fo=json"
+        },
+        {
+            "chromolithographs": "https://www.loc.gov/search/?fa=subject:chromolithographs&fo=json"
+        },
+        {
+            "conjectural works": "https://www.loc.gov/search/?fa=subject:conjectural+works&fo=json"
+        },
+        {
+            "continental army": "https://www.loc.gov/search/?fa=subject:continental+army&fo=json"
+        },
+        {
+            "delaware river (n.y.-del. and n.j.)": "https://www.loc.gov/search/?fa=subject:delaware+river+%28n.y.-del.+and+n.j.%29&fo=json"
+        },
+        {
+            "history": "https://www.loc.gov/search/?fa=subject:history&fo=json"
+        },
+        {
+            "ice": "https://www.loc.gov/search/?fa=subject:ice&fo=json"
+        },
+        {
+            "military personnel": "https://www.loc.gov/search/?fa=subject:military+personnel&fo=json"
+        },
+        {
+            "military service": "https://www.loc.gov/search/?fa=subject:military+service&fo=json"
+        },
+        {
+            "new jersey": "https://www.loc.gov/search/?fa=subject:new+jersey&fo=json"
+        },
+        {
+            "paintings": "https://www.loc.gov/search/?fa=subject:paintings&fo=json"
+        },
+        {
+            "pies": "https://www.loc.gov/search/?fa=subject:pies&fo=json"
+        },
+        {
+            "posters": "https://www.loc.gov/search/?fa=subject:posters&fo=json"
+        },
+        {
+            "reproductions": "https://www.loc.gov/search/?fa=subject:reproductions&fo=json"
+        },
+        {
+            "revolution": "https://www.loc.gov/search/?fa=subject:revolution&fo=json"
+        },
+        {
+            "rivers": "https://www.loc.gov/search/?fa=subject:rivers&fo=json"
+        },
+        {
+            "row boats": "https://www.loc.gov/search/?fa=subject:row+boats&fo=json"
+        },
+        {
+            "trenton": "https://www.loc.gov/search/?fa=subject:trenton&fo=json"
+        },
+        {
+            "trenton, battle of, trenton, n.j.": "https://www.loc.gov/search/?fa=subject:trenton,+battle+of,+trenton,+n.j.&fo=json"
+        },
+        {
+            "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+        },
+        {
+            "washington, george": "https://www.loc.gov/search/?fa=subject:washington,+george&fo=json"
+        }
+    ],
+    "summary": "Poster shows George Washington crossing a river of cherry pies. It is a spoof on Emanuel Leutze's painting of Washington crossing the Delaware.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/12800/12815_150px.jpg",
+    "timestamp": "2025-12-16T00:56:08.240Z",
+    "title": "Lloyd J. Harriss Pies",
+    "type": [
+        "still image"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/96509578/"
+}
