@@ -3,7 +3,7 @@
 I have split the assignment steps into individual python scripts for purposes of runtime/computer 
 memory burden.
 
-## collection_data_extract.py
+## collection_data_extract.ipynb
 gets collection item list
 
 ## item_data_extract.py
